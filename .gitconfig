@@ -1,0 +1,15 @@
+[user]
+	name = gson
+	email = gson@gen23.com
+[core]
+	editor = vi
+	excludesfile = C:\\Users\\gson/.gitignoreglobal
+	sparsecheckout = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[alias]
+	logf = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%cn>%Creset' --abbrev-commit
+	logg = log --oneline --decorate --all --graph

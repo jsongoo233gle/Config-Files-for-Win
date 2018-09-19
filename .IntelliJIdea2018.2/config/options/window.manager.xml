@@ -1,0 +1,41 @@
+<application>
+  <component name="WindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45581394" weight="0.3923445" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.54418606" side_tool="true" weight="0.37958533" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4968102" weight="0.325" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.328125" />
+      <window_info anchor="bottom" id="Spring" order="2" sideWeight="0.49694657" weight="0.325" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49362043" weight="0.40625" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.4848485" weight="0.3625" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.3265625" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4601276" weight="0.3203125" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5031898" side_tool="true" weight="0.325" />
+      <window_info anchor="right" id="Module Dependencies" order="0" weight="0.32961783" />
+      <window_info anchor="right" id="Bean Validation" order="1" weight="0.32928678" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24962063" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.23923445" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32961783" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Palette" order="11" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3293461" />
+    </layout>
+  </component>
+</application>

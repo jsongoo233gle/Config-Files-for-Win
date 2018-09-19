@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+        "spec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\gson\\AppData\\Local\\Temp\\apm-install-dir-118816-9872-8yv3k5.i8yri6yldi"
+    ]
+  ],
+  "_from": "..\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+  "_id": "spacemacs-dark-syntax@0.5.0",
+  "_inCache": true,
+  "_location": "/spacemacs-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+    "spec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+  "_shasum": "8706f01ad045c7748259b853d2fc9f5bc36cecc4",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-9872-1bcf733.sk71cbx1or\\package.tgz",
+  "_where": "C:\\Users\\gson\\AppData\\Local\\Temp\\apm-install-dir-118816-9872-8yv3k5.i8yri6yldi",
+  "bugs": {
+    "url": "https://github.com/bcoop713/spacemacs-dark-syntax-atom/issues"
+  },
+  "dependencies": {},
+  "description": "This is an atom adaption of one of my all time favorite themes, Spacemacs Dark for Emacs.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/bcoop713/spacemacs-dark-syntax-atom#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "emacs",
+    "spacemacs",
+    "dark"
+  ],
+  "license": "MIT",
+  "name": "spacemacs-dark-syntax",
+  "optionalDependencies": {},
+  "readme": "# spacemacs-dark-syntax theme\n\nThis is an atom adaption of one of my all time favorite themes, Spacemacs Dark for Emacs.\n\nIt's unusual comments and bold colors make for a very distinct and fun theme.\nI prefer to use the Atom Material theme, but any dark UI theme should work well.\n\n![A screenshot of your theme](http://i.imgur.com/aZW1KuP.jpg)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcoop713/spacemacs-dark-syntax-atom.git"
+  },
+  "theme": "syntax",
+  "version": "0.5.0"
+}

@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+        "spec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\gson\\AppData\\Local\\Temp\\apm-install-dir-118816-21516-187eehp.sgfbtymn29"
+    ]
+  ],
+  "_from": "..\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+  "_id": "vue-autocompile@0.0.6",
+  "_inCache": true,
+  "_location": "/vue-autocompile",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+    "spec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+  "_shasum": "8787eebfb068beace4318116929e04b1ee1d6d59",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\gson\\AppData\\Local\\Temp\\d-118816-21516-809mzw.czdjz6w29\\package.tgz",
+  "_where": "C:\\Users\\gson\\AppData\\Local\\Temp\\apm-install-dir-118816-21516-187eehp.sgfbtymn29",
+  "activationCommands": {
+    "atom-text-editor": [
+      "core:save"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/paulpflug/vue-autocompile/issues"
+  },
+  "consumedServices": {
+    "autoreload": {
+      "versions": {
+        "^0.0.1": "consumeAutoreload"
+      }
+    },
+    "debug": {
+      "versions": {
+        "^0.0.1": "consumeDebug"
+      }
+    }
+  },
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-runtime": "^6.9.2",
+    "coffee-script": "^1.10.0",
+    "jade": "^1.11.0",
+    "less": "^2.7.1",
+    "node-sass": "^3.7.0",
+    "pug": "^2.0.0-alpha8",
+    "stylus": "^0.54.5",
+    "vue-compiler": "~0.3.0"
+  },
+  "description": "Auto compiles vue in atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/paulpflug/vue-autocompile#readme",
+  "license": "MIT",
+  "main": "./lib/vue-autocompile",
+  "name": "vue-autocompile",
+  "optionalDependencies": {},
+  "readme": "# vue-autocompile package\n\nAuto compile vue file on save.\n\n---\n\nAdd the parameters on the first line of the vue file.\n\n```\nout (string): relative path to html file to create\nhot (bool): should it contain vue-hot-reload-api (default:false)\n```\n\n```\n// out: .\n```\n\n```\n// out: ../build/\n```\n\n```\n// out: . ,hot: true\n```\n\nUses the vue-compiler installation of your current project, but falls back to its own vue-compiler installation if there is none. Never uses a global one.\n\nVue-compiler is called over its own cli, so it runs in node and not in atom.\n\n## License\nCopyright (c) 2015 Paul Pflugradt\nLicensed under the MIT license.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulpflug/vue-autocompile.git"
+  },
+  "version": "0.0.6"
+}

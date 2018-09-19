@@ -1,0 +1,12 @@
+"*":
+  "activate-power-mode":
+    plugins:
+      playAudio: true
+      screenShake: true
+  core:
+    telemetryConsent: "no"
+    uriHandlerRegistration: "never"
+  "exception-reporting":
+    userId: "dd12960a-498b-4d10-a0e8-9e09cd9e04e6"
+  welcome:
+    showOnStartup: false

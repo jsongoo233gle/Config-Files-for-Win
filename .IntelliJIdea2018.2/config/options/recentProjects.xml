@@ -1,0 +1,342 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/DevOps/IDE/IdeaProjects/demo" />
+        <option value="D:/DevOps/IDE/IdeaProjects/test" />
+        <option value="D:/DevOps/IDE/demo" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/DevOps/IDE/IdeaProjects/demo" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/DevOps/IDE/IdeaProjects/demo" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/test/dubbo/dubbo-parent.ipr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505660203663" />
+              <option name="buildTimestamp" value="1505156580755" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521474473967" />
+              <option name="buildTimestamp" value="1520275868894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action/bak">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521474276310" />
+              <option name="buildTimestamp" value="1520275868894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action/microservice-consumer-movie">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521482641387" />
+              <option name="buildTimestamp" value="1520275868894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action/test1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536576847053" />
+              <option name="buildTimestamp" value="1535992561749" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action/test3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536577005686" />
+              <option name="buildTimestamp" value="1535992561749" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action/test5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536578478232" />
+              <option name="buildTimestamp" value="1535992561749" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/Guava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510506012906" />
+              <option name="buildTimestamp" value="1506404260564" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/SpringCloud-training">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506082517235" />
+              <option name="buildTimestamp" value="1505156582868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/center-common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3317.76" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501236432170" />
+              <option name="buildTimestamp" value="1500115281321" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505195456800" />
+              <option name="buildTimestamp" value="1503351286107" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/jedis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501920518254" />
+              <option name="buildTimestamp" value="1501515070893" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505820678337" />
+              <option name="buildTimestamp" value="1505156619434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/root-micro">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.23" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499326888217" />
+              <option name="buildTimestamp" value="1496751216686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/Guava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517743279429" />
+              <option name="buildTimestamp" value="1517264908241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/girl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510507556088" />
+              <option name="buildTimestamp" value="1506404225191" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505737625863" />
+              <option name="buildTimestamp" value="1505156635841" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/girl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505832753558" />
+              <option name="buildTimestamp" value="1505156619434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/gradle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496446179863" />
+              <option name="buildTimestamp" value="1494606677349" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/groovy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.23" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499238573202" />
+              <option name="buildTimestamp" value="1496751184489" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/service-ribbon">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505211251908" />
+              <option name="buildTimestamp" value="1503351286107" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/springclouddemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4694.23" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1499239468230" />
+              <option name="buildTimestamp" value="1496751184489" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/springmvc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1495991224891" />
+              <option name="buildTimestamp" value="1494606688069" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/todo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1494686664149" />
+              <option name="buildTimestamp" value="1493104421476" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/IDE/IdeaProjects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536773166008" />
+              <option name="buildTimestamp" value="1535992617433" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/IDE/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537335256645" />
+              <option name="buildTimestamp" value="1535992562947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/IDE/IdeaProjects/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536773658852" />
+              <option name="buildTimestamp" value="1535992617433" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/IDE/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517847917775" />
+              <option name="buildTimestamp" value="1517264882105" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DevOps/IDE/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536773543371" />
+              <option name="buildTimestamp" value="1535992617433" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/DevOps/IDE/IdeaProjects" />
+  </component>
+</application>

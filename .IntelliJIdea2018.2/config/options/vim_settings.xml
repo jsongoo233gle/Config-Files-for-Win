@@ -1,0 +1,520 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/Guava/pom.xml" timestamp="1510506682826">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/com/alibaba/dubbo/rpc/protocol/thrift/ext/MultiServiceProcessor.java" timestamp="1505660405748">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="24" />
+        <mark key="." line="42" column="24" />
+        <mark key="^" line="42" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1505681393588">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/onlineservice/ClaimOnlineServiceAction.java" timestamp="1505203652185">
+        <mark key="[" line="152" column="176" />
+        <mark key="]" line="152" column="175" />
+        <mark key="^" line="152" column="175" />
+        <mark key="." line="152" column="175" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/util/AESUtils.java" timestamp="1503023020082">
+        <mark key="[" line="62" column="7" />
+      </file>
+      <file name="$USER_HOME$/Downloads/教程配套源码/spring-cloud-microservice-in-action/test1/src/Person.java" timestamp="1536576397628">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="D:/DevOps/IDE/IdeaProjects/demo/src/main/java/com/example/demo/User.java" timestamp="1536832337834">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" timestamp="1505122098144">
+        <mark key="[" line="558" column="33" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/main/java/com/x010/App.java" timestamp="1505731253945">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="49" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/girl/src/main/resources/application.yml" timestamp="1506552880407">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/App.java" timestamp="1505681268499">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/SpringCloud-training/microcloud-consumer-dept/src/main/java/com/x010/microcloud/controller/DeptController.java" timestamp="1506072648374">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/XiaoAnVioceMsgPushAction.java" timestamp="1505207657870">
+        <mark key="[" line="39" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/outSystemUrl.properties" timestamp="1505121655329">
+        <mark key="[" line="162" column="76" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="149" column="18" />
+        <mark key="." line="163" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/.gitignore" timestamp="1505832305109">
+        <mark key="j" line="80" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="D:/DevOps/IDE/IdeaProjects/test/src/main/java/Person.java" timestamp="1536582257570">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="D:/DevOps/IDE/IdeaProjects/test/src/Person.java" timestamp="1536575326809">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/SpringCloud-training/microcloud-consumer-dept/src/main/java/com/x010/microcloud/config/RestConfig.java" timestamp="1506072515570">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/microcloud/rest/DeptRest.java" timestamp="1505818640839">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/main/java/com/x010/Dept_80_StartConsumerApp.java" timestamp="1505731337896">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/main/resources/application.yml" timestamp="1505723946496">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/Guava/src/com/x010/baseUtil/OptionnalDemo.java" timestamp="1510506962658">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1504767770926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/microcloud/service/impl/DeptServiceImpl.java" timestamp="1505681979730">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="31" column="36" />
+        <mark key="." line="17" column="20" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/vo/roadRescue/RoadRescueOrderInfo.java" timestamp="1502825770099">
+        <mark key="[" line="81" column="41" />
+      </file>
+      <file name="D:/DevOps/IDE/IdeaProjects/test/src/Test.java" timestamp="1536565390693">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="11" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/application-prd.properties" timestamp="1504856290777">
+        <mark key="[" line="110" column="39" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/girl/src/test/java/com/x010/GirlApplicationTests.java" timestamp="1510234148135">
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="53" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/test/java/com/x010/HeaderTest.java" timestamp="1505768903416">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/onlineservice/ClaimOnlineService.java" timestamp="1505204980587">
+        <mark key="[" line="287" column="17" />
+        <mark key="]" line="286" column="20" />
+        <mark key="^" line="285" column="16" />
+        <mark key="." line="286" column="20" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/resources/application.yml" timestamp="1505818931367">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521192438978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/roadrescue/RoadRescueAction.java" timestamp="1505205143714">
+        <mark key="[" line="349" column="17" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/microcloud/dao/DeptDAO.java" timestamp="1505682561814">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
+      <file name="D:/DevOps/IDE/IdeaProjects/test/pom.xml" timestamp="1536582204072">
+        <mark key="[" line="8" column="35" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/microcloud/service/DeptService.java" timestamp="1505725140262">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/Dept_8001_StartSpringCloudApp.java" timestamp="1505731310208">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/pom.xml" timestamp="1505807813694">
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="44" />
+        <mark key="." line="54" column="44" />
+        <mark key="^" line="54" column="44" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/girl/pom.xml" timestamp="1508569219880">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-api/src/main/java/com/x010/vo/Dept.java" timestamp="1505735593981">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/application-dev.properties" timestamp="1505120898545">
+        <mark key="[" line="104" column="18" />
+        <mark key="]" line="104" column="18" />
+        <mark key="." line="104" column="18" />
+        <mark key="^" line="104" column="38" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/microcloud/dao.java" timestamp="1505677801693">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/SpringCloud-training/microcloud-consumer-dept/src/main/java/com/x010/Dept_80_StartConsumerApp.java" timestamp="1506082532383">
+        <mark key="'" line="11" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/Guava/src/com/x010/baseUtil/OptionalDemo.java" timestamp="1516634425220">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/test/java/com/x010/microcloud/service/impl/DeptServiceImplTest.java" timestamp="1505731723901">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/com/x010/rest/DeptRest.java" timestamp="1505721884238">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1536577312310">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/DummyFile.xpath" timestamp="1505203986108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloudapi/pom.xml" timestamp="1505663158869">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/Guava/pom.xml" timestamp="1510507674493">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="121" column="0" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/girl/src/main/java/com/x010/controller/dataBind/DataBindController.java" />
+      <jump line="56" column="12" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="53" column="15" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="58" column="41" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="6" column="12" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="7" column="12" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="8" column="12" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="9" column="12" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="23" column="15" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="28" column="41" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/dao/StudentDAOImpl.java" />
+      <jump line="14" column="17" filename="D:/DevOps/Dev/ide/ideaIU-2017.1.2.win/IdeaProjects/SpringData/src/main/java/com/x010/domain/Employee.java" />
+      <jump line="27" column="37" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/springclouddemo/pom.xml" />
+      <jump line="12" column="32" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/springclouddemo/pom.xml" />
+      <jump line="38" column="36" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/springclouddemo/pom.xml" />
+      <jump line="32" column="36" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/springclouddemo/pom.xml" />
+      <jump line="247" column="0" filename="D:/DevOps/Dev/Build/dwjM2Repo/com/paic/center/center-common/1.0/center-common-1.0.jar!/com/paic/center/common/HttpRequestUtil.class" />
+      <jump line="0" column="0" filename="D:/DevOps/Dev/Build/dwjM2Repo/com/paic/center/center-common/1.0/center-common-1.0.jar!/com/paic/center/common/HttpRequestUtil.class" />
+      <jump line="160" column="16" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="54" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="45" column="4" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/claiminfo/ClaimListService.java" />
+      <jump line="900" column="12" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="684" column="103" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="899" column="33" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="898" column="26" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="677" column="71" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="676" column="20" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="609" column="56" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="601" column="32" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="600" column="16" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="16" column="47" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="41" column="67" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="71" column="30" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="131" column="8" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="599" column="48" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="674" column="41" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="680" column="6" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="681" column="16" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="682" column="8" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="685" column="6" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="686" column="56" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="692" column="45" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="698" column="45" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="739" column="2" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsListMapper.xml" />
+      <jump line="138" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/claiminfo/DHZPClaimInfoService.java" />
+      <jump line="177" column="48" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="59" column="33" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/QueryCaseTimesAction.java" />
+      <jump line="62" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/LossInfoDetailsForThirdAction.java" />
+      <jump line="108" column="25" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/mqcp/SendMqcpMsgService.java" />
+      <jump line="20" column="83" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsClaimsDispatchMapper.xml" />
+      <jump line="23" column="82" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/claiminfo/AopsClaimsDispatchInfoService.java" />
+      <jump line="399" column="6" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="90" column="63" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="96" column="57" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/authentication.properties" />
+      <jump line="235" column="82" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="11" column="41" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/mapper/AopsBuryingPointInfoModelMapper.xml" />
+      <jump line="1006" column="11" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="1000" column="108" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="46" column="55" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/resources/authentication.properties" />
+      <jump line="59" column="13" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="1154" column="46" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="711" column="59" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="533" column="53" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="608" column="72" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="143" column="37" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="618" column="55" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/claiminfo/GetLoseDetailInfoListService.java" />
+      <jump line="176" column="39" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="61" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="137" column="49" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/verifypolicy/ClaimCarPolicyVerifyService.java" />
+      <jump line="102" column="10" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/util/MD5.java" />
+      <jump line="40" column="64" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/pamap/Activity4PamapService.java" />
+      <jump line="130" column="4" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/roadrescue/RoadRescueAction.java" />
+      <jump line="1100" column="12" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="915" column="31" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="919" column="66" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/claiminfo/ClaimInfoAction.java" />
+      <jump line="52" column="4" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="47" column="8" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="53" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="46" column="12" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="56" column="5" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="154" column="19" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="104" column="4" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/roadrescue/RoadRescueAction.java" />
+      <jump line="61" column="32" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/OpenApiEsgFuncService.java" />
+      <jump line="194" column="125" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="92" column="134" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/service/roadrescue/RoadRescueService.java" />
+      <jump line="54" column="0" filename="D:/DevOps/Dev/Lang/Java/JDK/jdk1.8.0_112/src.zip!/java/util/Optional.java" />
+      <jump line="74" column="76" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/roadrescue/RoadRescueAction.java" />
+      <jump line="61" column="16" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/roadrescue/RoadRescueAction.java" />
+      <jump line="78" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/claims-root/claims-service/src/main/java/com/paic/insurance/root/micro/claims/web/roadrescue/RoadRescueAction.java" />
+      <jump line="6" column="15" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/createDB.sql" />
+      <jump line="7" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/createDB.sql" />
+      <jump line="9" column="27" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/createDB.sql" />
+      <jump line="0" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/java/createDB.sql" />
+      <jump line="13" column="37" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/resources/mybatis/mapper/Dept.xml" />
+      <jump line="15" column="39" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/main/java/com/x010/microcloud/controller/DeptController.java" />
+      <jump line="23" column="8" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/main/java/com/x010/microcloud/controller/DeptController.java" />
+      <jump line="31" column="29" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-consumer-dept/src/main/java/com/x010/microcloud/controller/DeptController.java" />
+      <jump line="26" column="10" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-provider-dept/src/main/resources/application.yml" />
+      <jump line="23" column="143" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/microcloud/microcloud-security/src/main/java/com/x010/microcloud/config/WebSecurityConfig.java" />
+      <jump line="11" column="0" filename="D:/DevOps/Dev/IDE/ideaIU-2017.1.2.win/IdeaProjects/SpringCloud-training/microcloud-consumer-dept/src/main/java/com/x010/Dept_80_StartConsumerApp.java" />
+      <jump line="4" column="21" filename="D:/DevOps/IDE/IdeaProjects/demo/src/main/java/com/example/demo/User.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBqc29uaWduCg==</text>
+      </register>
+      <register name="c" type="4">
+        <text>salvationOrderId</text>
+      </register>
+      <register name="-" type="4">
+        <text>getInstance</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxGUk9NXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHA6Ly9sb2NhbGhvc3QvY29uc3VtZXIvZGVwdC9nZXQ/aWQ9MQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBqc29uaWduCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpKys7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">1eLKwrK7yscK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBPcHRpb24K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEludGVnZXI+IHBvc3NpYmxlID0gT3B0aW9uYWwub2YoNSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb3NzaWJsZS4pOwo=</text>
+      </register>
+      <register name="x" type="4">
+        <text>1</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>marks</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxGUk9NXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxGUk9NXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>disp</entry>
+        <entry>sql</entry>
+        <entry>starter</entry>
+        <entry encoding="base64">XDxDYXJBbmRQb2xpY3lTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxhb3BzQ2xhaW1zTGlzdER0b1w+</entry>
+        <entry>aopsClaimsListDto</entry>
+        <entry>update</entry>
+        <entry>map</entry>
+        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
+        <entry>save</entry>
+        <entry>insert</entry>
+        <entry>vari</entry>
+        <entry>validate</entry>
+        <entry>vali</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry encoding="base64">XDxGUk9NXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set nu</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry encoding="base64">JzwsJz5tYXJrcw==</entry>
+        <entry>q</entry>
+        <entry>marks</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
