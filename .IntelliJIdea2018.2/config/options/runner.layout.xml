@@ -135,5 +135,25 @@
       </TabImpl>
       <General />
     </runner>
+    <runner id="Tail">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="right" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="UnknownView-idea.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="right" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="rightProportion" value="0.19968677" />
+      </TabImpl>
+      <General />
+    </runner>
   </component>
 </application>

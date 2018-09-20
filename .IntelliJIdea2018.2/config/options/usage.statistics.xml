@@ -25,7 +25,7 @@
       <entry action="ChangesView.Rename" count="1" />
       <entry action="ChangesView.Revert" count="14" />
       <entry action="ChangesView.Shelve" count="1" />
-      <entry action="CheckForUpdate" count="43" />
+      <entry action="CheckForUpdate" count="46" />
       <entry action="CheckinFiles" count="7" />
       <entry action="CheckinProject" count="17" />
       <entry action="ChooseDebugConfiguration" count="1" />
@@ -49,11 +49,11 @@
       <entry action="Debug" count="53" />
       <entry action="DebugClass" count="17" />
       <entry action="DialogCancelAction Escape" count="5" />
-      <entry action="DialogOkAction Enter" count="2" />
+      <entry action="DialogOkAction Enter" count="3" />
       <entry action="Diff.ShowDiff" count="196" />
       <entry action="EditCustomVmOptions" count="1" />
       <entry action="EditSource" count="18" />
-      <entry action="EditorBackSpace" count="1216" />
+      <entry action="EditorBackSpace" count="1220" />
       <entry action="EditorBreadcrumbsShowAbove" count="2" />
       <entry action="EditorBreadcrumbsShowBelow" count="1" />
       <entry action="EditorChooseLookupItem" count="88" />
@@ -107,6 +107,7 @@
       <entry action="Git.Revert.In.Log" count="1" />
       <entry action="Git.Reword.Commit" count="1" />
       <entry action="Git.Tag" count="2" />
+      <entry action="Github.Create.Gist" count="1" />
       <entry action="GotoAction" count="5" />
       <entry action="GotoClass" count="2" />
       <entry action="GotoDeclaration" count="742" />
@@ -210,16 +211,18 @@
       <entry action="XPathView.Actions.FindByExpression" count="2" />
       <entry action="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" count="1" />
       <entry action="tasks.goto" count="1" />
-      <entry action="third.party.plugin.action" count="1" />
+      <entry action="third.party.plugin.action" count="2" />
     </counts>
   </component>
   <component name="FUSApplicationUsageTrigger">
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
         <counts>
-          <entry key="ide.close" value="19" />
+          <entry key="ide.close" value="20" />
           <entry key="ide.close.restart" value="3" />
           <entry key="ide.error" value="4" />
+          <entry key="ide.freeze.11" value="1" />
+          <entry key="ide.freeze.23" value="1" />
           <entry key="ide.freeze.24" value="3" />
           <entry key="ide.freeze.25" value="2" />
           <entry key="ide.freeze.26" value="1" />
@@ -227,8 +230,9 @@
           <entry key="ide.freeze.28" value="1" />
           <entry key="ide.freeze.6" value="1" />
           <entry key="ide.freeze.7" value="1" />
-          <entry key="ide.freeze.8" value="8" />
-          <entry key="ide.start" value="19" />
+          <entry key="ide.freeze.8" value="9" />
+          <entry key="ide.freeze.9" value="1" />
+          <entry key="ide.start" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.ide.self.update">
@@ -241,7 +245,7 @@
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
         <counts>
-          <entry key="shown.automatically" value="13" />
+          <entry key="shown.automatically" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -372,7 +376,7 @@
       <entry path="File -&gt; Project Structure..." count="23" />
       <entry path="File -&gt; Settings..." count="23" />
       <entry path="Help -&gt; About" count="2" />
-      <entry path="Help -&gt; Check for Updates..." count="25" />
+      <entry path="Help -&gt; Check for Updates..." count="28" />
       <entry path="Help -&gt; Edit Custom VM Options..." count="1" />
       <entry path="Help -&gt; Register..." count="9" />
       <entry path="Run -&gt; Debug" count="1" />
@@ -496,9 +500,10 @@
       <entry toolWindow="Debug by Activation" count="3" />
       <entry toolWindow="Event Log by Activation" count="6" />
       <entry toolWindow="Messages by Activation" count="1" />
-      <entry toolWindow="Project by Activation" count="42" />
+      <entry toolWindow="Project by Activation" count="44" />
       <entry toolWindow="Run by Activation" count="2" />
       <entry toolWindow="Structure by Activation" count="1" />
+      <entry toolWindow="Tail by Activation" count="4" />
       <entry toolWindow="Translate by Activation" count="1" />
     </counts>
   </component>
@@ -601,6 +606,7 @@
       <entry action="com.intellij.usages.impl.UsageFilteringRuleProviderImpl$ShowWriteAccessUsagesAction@UsageViewToolbar" count="4" />
       <entry action="com.intellij.usages.impl.UsageGroupingRuleProviderImpl$GroupByFileStructureAction@UsageViewToolbar" count="3" />
       <entry action="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty@TestTreeViewToolbar" count="6" />
+      <entry action="krasa.grepconsole.tail.TailContentExecutor$RerunAction@RunnerToolbar" count="1" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="16" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="9" />
     </counts>
@@ -676,7 +682,7 @@
       <entry feature="ide.settings.Tomcat_Server" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="3" />
       <entry feature="idea.caches.invalidated" count="4" />
-      <entry feature="ideaapp.started" count="218" />
+      <entry feature="ideaapp.started" count="220" />
       <entry feature="project.view.pane.PackagesPane" count="2" />
       <entry feature="project.view.pane.ProjectPane" count="2" />
       <entry feature="show.recent.tests.action" count="1" />
