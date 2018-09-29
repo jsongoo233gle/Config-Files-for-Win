@@ -6913,3 +6913,244 @@ java.net.SocketTimeoutException: Read timed out
 2018-09-20 15:05:58,850 [ 272155]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
 2018-09-20 15:06:01,425 [ 274730]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
 2018-09-20 15:06:05,236 [ 278541]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-21 15:03:22,938 [86516243]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-21 15:03:23,682 [86516987]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-21 15:03:24,174 [86517479]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-21 15:03:24,714 [86518019]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-21 15:03:25,032 [86518337]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-21 15:03:25,527 [86518832]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-21 15:03:25,809 [86519114]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-21 15:03:26,615 [86519920]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-21 15:03:26,994 [86520299]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-21 15:03:27,344 [86520649]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-21 18:01:58,384 [97231689]   INFO - tellij.openapi.util.IconLoader - replace '/icons/velocity.png' with 'jar:file:/D:/DevOps/IDE/ideaIU-2018.1.4.win/plugins/Velocity/lib/core.jar!/icons/velocity.svg' 
+2018-09-22 16:57:11,510 [179744815]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-22 16:57:12,699 [179746004]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-22 16:57:13,103 [179746408]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-22 16:57:13,551 [179746856]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-22 16:57:14,036 [179747341]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-22 16:57:14,450 [179747755]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-22 16:57:14,771 [179748076]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-22 16:57:15,268 [179748573]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-22 16:57:15,645 [179748950]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-22 16:57:16,441 [179749746]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-23 16:57:45,771 [266179076]   INFO - ateSettings.impl.UpdateChecker - Connection failed (Read timed out). Please check network connection and try again. 
+2018-09-24 17:02:19,017 [352852322]   INFO - ateSettings.impl.UpdateChecker - Connection failed (Cannot download 'https://plugins.jetbrains.com/plugins/list/?uuid=4145cf97-893e-43ba-b1aa-5bf397536983&build=IU-182.4505.22': Read timed out
+, response: 200 OK). Please check network connection and try again. 
+2018-09-25 17:02:05,285 [439238590]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-25 17:02:06,006 [439239311]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-25 17:02:06,349 [439239654]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-25 17:02:06,634 [439239939]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-25 17:02:07,003 [439240308]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-25 17:02:07,437 [439240742]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-25 17:02:07,825 [439241130]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-25 17:02:08,225 [439241530]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-25 17:02:08,494 [439241799]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-25 17:02:08,773 [439242078]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-26 17:01:47,973 [525621278]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-26 17:01:48,473 [525621778]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-26 17:01:48,768 [525622073]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-26 17:01:49,065 [525622370]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-26 17:01:49,368 [525622673]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-26 17:01:49,685 [525622990]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-26 17:01:49,950 [525623255]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-26 17:01:50,268 [525623573]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-26 17:01:50,544 [525623849]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-26 17:01:50,824 [525624129]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-27 17:01:44,419 [612017724]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-27 17:01:44,943 [612018248]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-27 17:01:45,222 [612018527]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-27 17:01:45,512 [612018817]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-27 17:01:45,803 [612019108]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-27 17:01:46,127 [612019432]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-27 17:01:46,422 [612019727]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-27 17:01:46,896 [612020201]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-27 17:01:47,662 [612020967]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-27 17:01:47,934 [612021239]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-28 17:01:48,120 [698421425]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-28 17:01:48,984 [698422289]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-28 17:01:49,361 [698422666]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-28 17:01:49,690 [698422995]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-28 17:01:50,173 [698423478]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-28 17:01:51,005 [698424310]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-28 17:01:51,511 [698424816]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-28 17:01:52,588 [698425893]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-28 17:01:53,312 [698426617]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-28 17:01:53,783 [698427088]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-29 14:50:16,397 [776929702]   WARN - ess.util.ProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress. 
+2018-09-29 14:50:16,405 [776929710]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-09-29 14:50:16,873 [776930178]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-09-29 14:50:17,372 [776930677]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-09-29 14:50:17,642 [776930947]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-09-29 14:50:17,924 [776931229]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-09-29 14:50:18,210 [776931515]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-09-29 14:50:18,483 [776931788]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-09-29 14:50:18,789 [776932094]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-09-29 14:50:19,038 [776932343]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-09-29 14:50:19,299 [776932604]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-09-29 14:50:44,777 [776958082]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-09-29 14:50:44,777 [776958082]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-09-29 14:50:44,778 [776958083]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-09-29 14:50:44,881 [776958186]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-09-29 14:50:44,936 [776958241]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-09-29 14:50:45,006 [776958311]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 2 auto-detected files
+Elapsed time on auto-detect: 30 ms 
+2018-09-29 14:50:45,043 [776958348]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-09-29 14:50:45,050 [776958355]   INFO - mbokPluginApplicationComponent - Lombok plugin disposed for IntelliJ 
+2018-09-29 14:50:45,051 [776958356]  ERROR - ij.components.ComponentManager - null 
+java.lang.NullPointerException
+	at com.maddyhome.idea.vim.EventFacade.getTypedAction(EventFacade.java:125)
+	at com.maddyhome.idea.vim.EventFacade.restoreTypedActionHandler(EventFacade.java:69)
+	at com.maddyhome.idea.vim.VimPlugin.disposeComponent(VimPlugin.java:183)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.disposeComponents(ComponentManagerImpl.java:136)
+	at com.intellij.openapi.application.impl.ApplicationImpl.dispose(ApplicationImpl.java:494)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:48)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:44)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:138)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:182)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:151)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:129)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$disposeSelf$7(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1038)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:800)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:770)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:759)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:755)
+	at com.intellij.openapi.application.impl.ApplicationImpl.restart(ApplicationImpl.java:732)
+	at com.intellij.ide.plugins.PluginManagerMain$6.hyperlinkUpdate(PluginManagerMain.java:781)
+	at com.intellij.notification.impl.ui.NotificationsUtil$1.hyperlinkUpdate(NotificationsUtil.java:155)
+	at javax.swing.JEditorPane.fireHyperlinkUpdate(JEditorPane.java:342)
+	at javax.swing.text.html.HTMLEditorKit$LinkController.activateLink(HTMLEditorKit.java:875)
+	at javax.swing.text.html.HTMLEditorKit$LinkController.mouseClicked(HTMLEditorKit.java:674)
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270)
+	at java.awt.Component.processMouseEvent(Component.java:6551)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3325)
+	at java.awt.Component.processEvent(Component.java:6313)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:718)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-09-29 14:50:45,057 [776958362]  ERROR - ij.components.ComponentManager - IntelliJ IDEA 2018.2.4  Build #IU-182.4505.22 
+2018-09-29 14:50:45,057 [776958362]  ERROR - ij.components.ComponentManager - JDK: 1.8.0_152-release 
+2018-09-29 14:50:45,058 [776958363]  ERROR - ij.components.ComponentManager - VM: OpenJDK 64-Bit Server VM 
+2018-09-29 14:50:45,058 [776958363]  ERROR - ij.components.ComponentManager - Vendor: JetBrains s.r.o 
+2018-09-29 14:50:45,058 [776958363]  ERROR - ij.components.ComponentManager - OS: Windows 10 
+2018-09-29 14:50:45,058 [776958363]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-09-29 14:50:45,095 [776958400]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-09-29 14:50:45,097 [776958402]   INFO -   #com.intellij.util.Restarter - restart: [] 
+2018-09-29 14:50:45,703 [776959008]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-09-29 14:50:45,705 [776959010]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-09-29 14:50:58,705 [      1]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-09-29 14:50:58,940 [    236]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-182.4505.22, 18 Sep 2018 19:58) 
+2018-09-29 14:50:58,941 [    237]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-09-29 14:50:58,941 [    237]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1248-b8 (JetBrains s.r.o) 
+2018-09-29 14:50:58,941 [    237]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b8 (OpenJDK 64-Bit Server VM) 
+2018-09-29 14:50:59,011 [    307]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2018.2 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2018-09-29 14:50:59,012 [    308]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-09-29 14:50:59,012 [    308]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2018-09-29 14:50:59,146 [    442]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 133 ms 
+2018-09-29 14:50:59,164 [    460]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-09-29 14:51:00,761 [   2057]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-09-29 14:51:19,909 [  21205]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@40f3a503[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4e2adc15 
+2018-09-29 14:51:20,394 [  21690]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2018-09-29 14:51:23,303 [  24599]   INFO - llij.ide.plugins.PluginManager - 143 plugins initialized in 1560 ms 
+2018-09-29 14:51:23,304 [  24600]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.1.2), AngularJS (182.4505.22), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (182.4505.22), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (182.4505.22), Copyright (8.1), Coverage (182.4505.22), Cucumber for Groovy (182.4505.22), Cucumber for Java (182.4505.22), DSM Analysis (1.0.0), Database Tools and SQL (182.4505.22), Eclipse Integration (3.0), EditorConfig (182.4505.22), Emma (182.4505.22), Flash/Flex Support (182.4505.22), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (182.4505.22), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Gradle (182.4505.22), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (182.4505.22), Haml (182.4505.22), Heroku integration (182.4505.22), Hibernate Support (1.0), I18n for Java (182.4505.22), IDE Settings Sync (182.4505.22), IDEA CORE (182.4505.22), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (182.4505.22), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (182.4505.22), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.2.51-release-IJ2018.2-1), Less support (182.4505.22), Markdown support (182.4505.22), Maven Integration (182.4505.22), Maven Integration Extension (182.4505.22), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.12), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (182.4505.22), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (182.4505.22), Settings Repository (182.4505.22), Smali Support (1.0), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (182.4505.22), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (182.4505.22), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (182.4505.22), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (182.4505.22) 
+2018-09-29 14:51:23,305 [  24601]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.0), BashSupport (1.6.13.182), Generate Tests (1.0.2), Grep Console (8.4.162.000.1), IdeaVim (0.49), Lombok Plugin (0.19-LATEST-EAP-SNAPSHOT), Maven Helper (3.7.172.1454.3), NodeJS (182.3911.9), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (182.4129.13) 
+2018-09-29 14:51:34,026 [  35322]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-09-29 14:51:34,474 [  35770]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-09-29 14:51:34,647 [  35943]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2018-09-29 14:51:34,704 [  36000]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-09-29 14:51:36,066 [  37362]   INFO - tellij.openapi.util.IconLoader - replace '/nodes/newFolder.png' with 'AllIcons.Nodes.Folder' 
+2018-09-29 14:51:41,010 [  42306]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-09-29 14:51:43,497 [  44793]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2018-09-29 14:51:44,336 [  45632]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-09-29 14:51:48,544 [  49840]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-09-29 14:51:48,757 [  50053]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-09-29 14:51:51,737 [  53033]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:2532, number of extensions:79 
+2018-09-29 14:51:52,725 [  54021]   INFO - j.ide.ui.OptionsTopHitProvider - 4398 ms spent to cache options in application 
+2018-09-29 14:51:52,725 [  54021]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 4398 ms 
+2018-09-29 14:51:52,733 [  54029]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:996 
+2018-09-29 14:51:53,648 [  54944]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:887, number of extensions:124 
+2018-09-29 14:51:53,679 [  54975]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:31 
+2018-09-29 14:52:02,799 [  64095]   INFO - mbokPluginApplicationComponent - Lombok plugin initialized for IntelliJ 
+2018-09-29 14:52:02,806 [  64102]   INFO - mbokPluginApplicationComponent - Runtime path support is enabled 
+2018-09-29 14:52:02,807 [  64103]   INFO - mbokPluginApplicationComponent - Starting injection of IntelliJ-Patch 
+2018-09-29 14:52:02,830 [  64126]   INFO - mbokPluginApplicationComponent - Injector use agentSourceFile: C:\Users\gson\.IntelliJIdea2018.2\config\plugins\lombok-plugin\lib\intellij-patcher-agent-0.19.jar 
+2018-09-29 14:52:09,290 [  70586]   INFO - plication.impl.ApplicationImpl - 109 application components initialized in 47615ms 
+2018-09-29 14:52:09,426 [  70722]   INFO - .intellij.idea.IdeaApplication - App initialization took 76682 ms 
+2018-09-29 14:52:11,891 [  73187]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2018-09-29 14:52:15,215 [  76511]   INFO - pl$FileIndexDataInitialization - Initialization done:22470 
+2018-09-29 14:52:15,886 [  77182]   INFO - exImpl$StubIndexInitialization - Initialization done:670 
+2018-09-29 14:52:21,135 [  82431]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-09-29 14:52:21,148 [  82444]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-09-29 14:52:21,224 [  82520]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-09-29 14:52:21,233 [  82529]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2018-09-29 14:52:21,237 [  82533]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-09-29 14:52:21,240 [  82536]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-09-29 14:52:21,244 [  82540]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-09-29 14:52:21,250 [  82546]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-09-29 14:52:21,250 [  82546]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-09-29 14:52:23,033 [  84329]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-09-29 14:52:29,354 [  90650]   INFO - ellij.project.impl.ProjectImpl - 199 project components initialized in 15483 ms 
+2018-09-29 14:52:31,550 [  92846]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 2185 ms 
+2018-09-29 14:52:32,435 [  93731]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 39695 ms 
+2018-09-29 14:52:35,001 [  96297]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-09-29 14:52:35,903 [  97199]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-09-29 14:52:40,856 [ 102152]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 8419 ms 
+2018-09-29 14:52:44,503 [ 105799]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 69 ms 
+2018-09-29 14:52:45,122 [ 106418]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 695ms under project opening modal progress 
+2018-09-29 14:52:45,807 [ 107103]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 4950 ms 
+2018-09-29 14:52:45,935 [ 107231]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 128 ms 
+2018-09-29 14:52:46,069 [ 107365]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2142ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-09-29 14:52:50,820 [ 112116]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-09-29 14:52:51,824 [ 113120]   INFO - m.maddyhome.idea.vim.VimPlugin - Sending statistics: https://plugins.jetbrains.com/plugins/list?pluginId=IdeaVIM&build=IU-182.4505.22&pluginVersion=0.49&os=Windows+10+10.0&uuid=4145cf97-893e-43ba-b1aa-5bf397536983 
+2018-09-29 14:52:54,369 [ 115665]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 9203ms under project opening modal progress 
+2018-09-29 14:52:55,173 [ 116469]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 42 millis 
+2018-09-29 14:52:55,187 [ 116483]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 759ms under project opening modal progress 
+2018-09-29 14:52:55,421 [ 116717]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 11883ms; general responsiveness: ok; EDT responsiveness: 2/11 sluggish, 4/11 very slow 
+2018-09-29 14:52:58,720 [ 120016]   INFO - j.ide.ui.OptionsTopHitProvider - 1227 ms spent on EDT to cache options in application 
+2018-09-29 14:52:58,846 [ 120142]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2018-09-29 14:52:58,893 [ 120189]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-09-29 14:52:59,240 [ 120536]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-09-29 14:53:00,758 [ 122054]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 47274 ms 
+2018-09-29 14:53:02,959 [ 124255]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 16887ms; general responsiveness: ok; EDT responsiveness: 3/17 sluggish, 7/17 very slow 
+2018-09-29 14:53:03,946 [ 125242]   INFO - j.ide.ui.OptionsTopHitProvider - 662 ms spent to cache options in project 
+2018-09-29 14:53:03,946 [ 125242]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-09-29 14:53:03,946 [ 125242]   INFO - tartup.impl.StartupManagerImpl - Activity run in 662ms on UI thread 
+2018-09-29 14:53:04,139 [ 125435]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 187ms on UI thread 
+2018-09-29 14:53:04,362 [ 125658]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2018-09-29 14:53:04,612 [ 125908]   INFO - tartup.impl.StartupManagerImpl - GradleJvmStartupActivity run in 107ms on UI thread 
+2018-09-29 14:53:04,697 [ 125993]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 9/29/2018 2:50 PM) 
+2018-09-29 14:53:06,291 [ 127587]   INFO - j.ide.ui.OptionsTopHitProvider - 1037 ms spent on EDT to cache options in project 
+2018-09-29 14:53:16,583 [ 137879]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  

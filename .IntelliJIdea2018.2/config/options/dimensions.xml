@@ -84,7 +84,7 @@
     <location key="FileChooserDialogImpl.0.0.1366.768@120dpi" x="159" y="74" />
     <location key="new project wizard.0.0.1366.768@120dpi" x="277" y="30" />
     <location key="WELCOME_SCREEN.0.0.1366.768@120dpi" x="716" y="366" />
-    <location key="find.popup.0.0.1366.768@120dpi" x="353" y="56" />
+    <location key="find.popup.0.0.1366.768@120dpi" x="351" y="54" />
     <location key="StructurePopup.0.0.1366.768@120dpi" x="359" y="187" />
     <location key="#Project_Structure.0.0.1366.768@120dpi" x="35" y="30" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768@120dpi" x="380" y="238" />
@@ -125,7 +125,7 @@
     <size key="Vcs.Push.Dialog.0.0.1366.768" width="793" height="519" />
     <size key="XPathView.FindDialog.DIMENSION_SERVICE_KEY.SIMPLE.0.0.1366.768" width="666" height="350" />
     <size key="ProcessPopupWindow.0.0.1366.768@120dpi" width="500" height="202" />
-    <size key="find.popup.0.0.1366.768@120dpi" width="1006" height="708" />
+    <size key="find.popup.0.0.1366.768@120dpi" width="1010" height="712" />
     <size key="StructurePopup.0.0.1366.768@120dpi" width="725" height="375" />
     <size key="GridCell.Tab.0.left.0.0.1366.768@120dpi" width="1316" height="160" />
     <size key="GridCell.Tab.0.center.0.0.1366.768@120dpi" width="1316" height="160" />

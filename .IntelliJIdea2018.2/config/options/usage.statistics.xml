@@ -25,7 +25,7 @@
       <entry action="ChangesView.Rename" count="1" />
       <entry action="ChangesView.Revert" count="14" />
       <entry action="ChangesView.Shelve" count="1" />
-      <entry action="CheckForUpdate" count="46" />
+      <entry action="CheckForUpdate" count="47" />
       <entry action="CheckinFiles" count="7" />
       <entry action="CheckinProject" count="17" />
       <entry action="ChooseDebugConfiguration" count="1" />
@@ -93,7 +93,7 @@
       <entry action="FileChooser.ShowHiddens" count="2" />
       <entry action="FileStructurePopup" count="25" />
       <entry action="Find" count="9" />
-      <entry action="FindInPath" count="79" />
+      <entry action="FindInPath" count="81" />
       <entry action="FindUsages" count="2" />
       <entry action="Forward" count="3" />
       <entry action="Generate" count="2" />
@@ -111,7 +111,7 @@
       <entry action="GotoAction" count="5" />
       <entry action="GotoClass" count="2" />
       <entry action="GotoDeclaration" count="742" />
-      <entry action="GotoFile" count="8" />
+      <entry action="GotoFile" count="9" />
       <entry action="GotoImplementation" count="25" />
       <entry action="GotoTest" count="1" />
       <entry action="HideAllWindows" count="51" />
@@ -163,7 +163,7 @@
       <entry action="RunToCursor" count="4" />
       <entry action="Runner.RestoreLayout" count="3" />
       <entry action="SaveAll" count="658" />
-      <entry action="SearchEverywhere" count="26" />
+      <entry action="SearchEverywhere" count="28" />
       <entry action="SelectIn" count="12" />
       <entry action="ShelveChanges.UnshelveWithDialog" count="1" />
       <entry action="ShelvedChanges.CleanMarkedToDelete" count="1" />
@@ -180,7 +180,7 @@
       <entry action="StepInto" count="4" />
       <entry action="StepOut" count="1" />
       <entry action="StepOver" count="295" />
-      <entry action="Stop" count="34" />
+      <entry action="Stop" count="35" />
       <entry action="SurroundWith" count="6" />
       <entry action="Synchronize" count="3" />
       <entry action="TemplateProjectProperties" count="15" />
@@ -218,8 +218,8 @@
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
         <counts>
-          <entry key="ide.close" value="20" />
-          <entry key="ide.close.restart" value="3" />
+          <entry key="ide.close" value="21" />
+          <entry key="ide.close.restart" value="4" />
           <entry key="ide.error" value="4" />
           <entry key="ide.freeze.11" value="1" />
           <entry key="ide.freeze.23" value="1" />
@@ -266,7 +266,7 @@
     <feature id="codeassists.complete.statement" count="209" last-shown="0" last-used="1527940780540" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.variable.name" count="2481" last-shown="0" last-used="1536776639982" shown-count="0" />
-    <feature id="navigation.popup.file" count="106" last-shown="0" last-used="1536771334524" shown-count="0" />
+    <feature id="navigation.popup.file" count="107" last-shown="0" last-used="1537524116231" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="13" last-shown="0" last-used="1505680249800" shown-count="0" />
     <feature id="editing.completion.smarttype.casting" count="2" last-shown="0" last-used="1496348697456" shown-count="0" />
     <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -297,7 +297,7 @@
     <feature id="ant.quickfix.CreateProperty" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="1496333930767" last-used="0" shown-count="3" />
     <feature id="navigation.popup.camelprefix" count="2" last-shown="0" last-used="1504073163840" shown-count="0" />
-    <feature id="SearchEverywhere" count="84" last-shown="0" last-used="1536771331263" shown-count="0" />
+    <feature id="SearchEverywhere" count="86" last-shown="0" last-used="1537524123446" shown-count="0" />
     <feature id="navigation.popup.class" count="7" last-shown="0" last-used="1505253979395" shown-count="0" />
     <feature id="editor.delete.line" count="533" last-shown="0" last-used="1536565193171" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="176" last-shown="0" last-used="1505806462033" shown-count="0" />
@@ -376,7 +376,7 @@
       <entry path="File -&gt; Project Structure..." count="23" />
       <entry path="File -&gt; Settings..." count="23" />
       <entry path="Help -&gt; About" count="2" />
-      <entry path="Help -&gt; Check for Updates..." count="28" />
+      <entry path="Help -&gt; Check for Updates..." count="29" />
       <entry path="Help -&gt; Edit Custom VM Options..." count="1" />
       <entry path="Help -&gt; Register..." count="9" />
       <entry path="Run -&gt; Debug" count="1" />
@@ -411,7 +411,7 @@
       <entry shortcut="Alt+Slash" count="431" />
       <entry shortcut="Alt+T" count="2" />
       <entry shortcut="Alt+Up" count="184" />
-      <entry shortcut="Backspace" count="8176" />
+      <entry shortcut="Backspace" count="8180" />
       <entry shortcut="Ctrl+1" count="1" />
       <entry shortcut="Ctrl+A" count="73" />
       <entry shortcut="Ctrl+Alt+C" count="1" />
@@ -431,7 +431,7 @@
       <entry shortcut="Ctrl+F2" count="1" />
       <entry shortcut="Ctrl+F9" count="2" />
       <entry shortcut="Ctrl+G" count="7" />
-      <entry shortcut="Ctrl+H" count="512" />
+      <entry shortcut="Ctrl+H" count="514" />
       <entry shortcut="Ctrl+I" count="3" />
       <entry shortcut="Ctrl+Insert" count="1" />
       <entry shortcut="Ctrl+J" count="1" />
@@ -455,7 +455,7 @@
       <entry shortcut="Ctrl+Shift+K" count="1" />
       <entry shortcut="Ctrl+Shift+M" count="1" />
       <entry shortcut="Ctrl+Shift+O" count="68" />
-      <entry shortcut="Ctrl+Shift+R" count="82" />
+      <entry shortcut="Ctrl+Shift+R" count="83" />
       <entry shortcut="Ctrl+Shift+Semicolon" count="1" />
       <entry shortcut="Ctrl+Shift+Slash" count="1" />
       <entry shortcut="Ctrl+Shift+T" count="2" />
@@ -473,7 +473,7 @@
       <entry shortcut="Down" count="2812" />
       <entry shortcut="End" count="6" />
       <entry shortcut="Enter" count="4173" />
-      <entry shortcut="Escape" count="1255" />
+      <entry shortcut="Escape" count="1259" />
       <entry shortcut="F" count="2" />
       <entry shortcut="F2" count="100" />
       <entry shortcut="F5" count="136" />
@@ -489,7 +489,7 @@
       <entry shortcut="Shift+Enter" count="22" />
       <entry shortcut="Shift+Left" count="98" />
       <entry shortcut="Shift+Right" count="99" />
-      <entry shortcut="Shift+Shift" count="54" />
+      <entry shortcut="Shift+Shift" count="56" />
       <entry shortcut="Shift+Tab" count="3" />
       <entry shortcut="Tab" count="2056" />
       <entry shortcut="Up" count="748" />
@@ -543,7 +543,7 @@
       <entry action="ShowProjectStructureSettings@MainToolbar" count="1" />
       <entry action="SpringBoot.OpenInBrowser@DebuggerToolbar" count="1" />
       <entry action="Stop@DebuggerToolbar" count="55" />
-      <entry action="Stop@MainToolbar" count="13" />
+      <entry action="Stop@MainToolbar" count="14" />
       <entry action="Stop@NavBarToolbar" count="28" />
       <entry action="Stop@RunnerToolbar" count="18" />
       <entry action="Synchronize@MainToolbar" count="3" />
