@@ -40,38 +40,21 @@
 !/.vim/
 !/.fzf/
 
+#emacs
 !/AppData/
 
 /AppData/*
-
 !/AppData/Roaming/
 
 /AppData/Roaming/*
-
-#emacs
 !/AppData/Roaming/.emacs
+!/AppData/Roaming/.emacs.withoutOrgMode.bak
 !/AppData/Roaming/.emacs.d/
 
 /AppData/Roaming/.emacs.d/*
 !/AppData/Roaming/.emacs.d/elpa/
 !/AppData/Roaming/.emacs.d/lisp/
 !/AppData/Roaming/.emacs.d/org/
-
-!/AppData/Local/
-
-/AppData/Local/*
-!/AppData/Local/Temp/
-
-/AppData/Local/Temp/*
-
-#MobaXterm
-!/AppData/Local/Temp/Mxt110/
-
-/AppData/Local/Temp/Mxt110/*
-!/AppData/Local/Temp/Mxt110/etc/
-
-/AppData/Local/Temp/Mxt110/etc/*
-!/AppData/Local/Temp/Mxt110/etc/ssh_config
 
 #idea
 !/.IntelliJIdea2018.2/
