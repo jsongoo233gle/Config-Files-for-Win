@@ -76,7 +76,7 @@
 > - ### [Environment Variables](#目录)
 Variable\Env|System|User
 :-:|:-|-:
-Path|%GIT_HOME%\cmd;<br>%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;<br>D:\DevOps\Lang\Python\;D:\DevOps\Lang\Python\Scripts\;<br>%NODE_HOME%;<br>%MYSQL_HOME%\bin;%MONGODB_HOME%\bin;<br>%CURL_HOME%\src;%ARIA2_HOME%;%FFmpeg_HOME%\bin;<br>%EXT_PATH%;<br>C:\ProgramData\Oracle\Java\javapath;<br>C:\WINDOWS\system32;C:\WINDOWS;<br>C:\WINDOWS\System32\Wbem;<br>C:\WINDOWS\System32\WindowsPowerShell\v1.0\;<br>C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;<br>%SystemRoot%\system32;%SystemRoot%;<br>%SystemRoot%\System32\Wbem;<br>%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;<br>%SYSTEMROOT%\System32\OpenSSH\; | D:\DevOps\Lang\Python\Scripts\;<br>D:\DevOps\Lang\Python\;<br>C:\Users\gson\AppData\Local\Programs\Python\Launcher\;<br>D:\DevOps\Other\Fiddler;<br>D:\DevOps\Lang\Node.js\node-win-x64\node_global;<br>C:\Users\gson\AppData\Local\Microsoft\WindowsApps;<br>C:\Users\gson\AppData\Local\atom\bin;
+Path|[System variables](#system-variables)|[User variables](#user-variables)
 - Path
   - #### [System variables](#目录)
 
@@ -93,7 +93,7 @@ Path|%GIT_HOME%\cmd;<br>%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;<br>D:
     ```
     - CLASSPATH
     ```
-    .;%JAVA_HOME%\lib;
+    .;%JAVA_HOME%\lib\;
     ```
     - M2_HOME
     ```
@@ -137,21 +137,17 @@ Path|%GIT_HOME%\cmd;<br>%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;<br>D:
     %GIT_HOME%\cmd;
     %JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
     %M2_HOME%\bin;
-    D:\DevOps\Lang\Python\;D:\DevOps\Lang\Python\Scripts\;
+    D:\DevOps\Lang\Python;D:\DevOps\Lang\Python\Scripts;
     %NODE_HOME%;
     %MYSQL_HOME%\bin;%MONGODB_HOME%\bin;
     %CURL_HOME%\src;
     %ARIA2_HOME%;%FFmpeg_HOME%\bin;
     %EXT_PATH%;
     C:\ProgramData\Oracle\Java\javapath;
-    C:\WINDOWS\system32;C:\WINDOWS;
-    C:\WINDOWS\System32\Wbem;
-    C:\WINDOWS\System32\WindowsPowerShell\v1.0\;
-    C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;
-    %SystemRoot%\system32;
-    %SystemRoot%;%SystemRoot%\System32\Wbem;
+    %SystemRoot%\system32;%SystemRoot%\;%SystemRoot%\System32\Wbem;
     %SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
-    %SYSTEMROOT%\System32\OpenSSH\;
+    C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;
+    %SYSTEMROOT%\System32\OpenSSH;
     ```
   </details>
 
@@ -162,12 +158,12 @@ Path|%GIT_HOME%\cmd;<br>%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;<br>D:
 
     - Path
     ```
-    D:\DevOps\Lang\Python\Scripts\;
-    D:\DevOps\Lang\Python\;
-    C:\Users\gson\AppData\Local\Programs\Python\Launcher\;
+    D:\DevOps\Lang\Python\Scripts;
+    D:\DevOps\Lang\Python;
+    C:\Users\gson\AppData\Local\Programs\Python\Launcher;
     D:\DevOps\Other\Fiddler;
     D:\DevOps\Lang\Node.js\node-win-x64\node_global;
-    C:\Users\gson\AppData\Local\Microsoft\WindowsApps;
+    %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
     C:\Users\gson\AppData\Local\atom\bin;
     ```
   </details>
@@ -219,10 +215,12 @@ E:.
 │  ├─War3
 │  └─YGOPro2完整版
 └─Res
-    ├─Gson
+    ├─Gson 
     │  ├─JsonGoow3cgle
-    │  │  └─唯吾是从
-    │  ├─own
+    |  │  ├─own
+    |  │  └─唯吾是从
+    |  │      ├─CoCo
+    |  │      └─tmp
     │  └─x010.org.com
     │      |─5B
     |      └─7986
@@ -273,7 +271,7 @@ E:.
         │  │  ├─VCS
         │  │  └─VM
         │  ├─Ops
-        │  │  └─Soft-- CLI vs. GUI
+        │  │  └─Soft-- CLI&TUI vs GUI
         │  │      └─tmux
         │  └─Other
         └─video

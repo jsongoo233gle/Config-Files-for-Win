@@ -201,3 +201,4 @@ java.class.shortname
 java.class.fqn
 java.module.name
 LombokConfigIndex
+spring.spiFileIndex
