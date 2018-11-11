@@ -65,13 +65,13 @@
     <property name="file.gist.reindex.count" value="20052" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="gradle.runner.text.console_str" value="false" />
-    <property name="ideavim.statistics.timestamp" value="1541169125799" />
+    <property name="ideavim.statistics.timestamp" value="1541907963687" />
     <property name="installed.kotlin.plugin.version" value="1.2.51-release-IJ2018.2-1" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="885" />
     <property name="last.imported.location" value="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/girl" />
     <property name="last.used.gradle.home" value="D:/DevOps/Dev/gradle-3.5-bin" />
-    <property name="lastTip" value="140" />
+    <property name="lastTip" value="142" />
     <property name="project.wizard.group" value="SpringInitializr" />
     <property name="project.wizard.template" value="Spring Initializr" />
     <property name="run.configuration.edit.ad" value="true" />
