@@ -120,10 +120,6 @@ Path|[System variables](#system-variables)|[User variables](#user-variables)
     %HOMEPATH%\Desktop\ExtPath;
     %USERPROFILE%\Desktop\ExtPath;
     ```
-    - CURL_HOME
-    ```
-    D:\DevOps\Other\curl-7.61.1-win64-mingw
-    ```
     - ARIA2_HOME
     ```
     D:\DevOps\Other\aria2-1.33.1-win-64bit-build1
@@ -140,8 +136,7 @@ Path|[System variables](#system-variables)|[User variables](#user-variables)
     D:\DevOps\Lang\Python;D:\DevOps\Lang\Python\Scripts;
     %NODE_HOME%;
     %MYSQL_HOME%\bin;%MONGODB_HOME%\bin;
-    %CURL_HOME%\src;
-    %ARIA2_HOME%;%FFmpeg_HOME%\bin;
+    D:\DevOps\Other\lftp-4.7.7.win64-openssl\bin;%ARIA2_HOME%;%FFmpeg_HOME%\bin;
     %EXT_PATH%;
     C:\ProgramData\Oracle\Java\javapath;
     %SystemRoot%\system32;%SystemRoot%\;%SystemRoot%\System32\Wbem;
@@ -221,7 +216,7 @@ E:.
     |  │  └─唯吾是从
     |  │      ├─CoCo
     |  │      └─tmp
-    │  └─x010.org.com
+    │  └─x010.pro
     │      |─5B
     |      └─7986
     └─R.24
