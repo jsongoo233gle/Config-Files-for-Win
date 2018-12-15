@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".gitignoreglobal" type="Git file" />
+      <mapping pattern="aes" type="JavaScript" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

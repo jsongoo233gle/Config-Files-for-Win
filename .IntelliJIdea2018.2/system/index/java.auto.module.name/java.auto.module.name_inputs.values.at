@@ -1,6 +1,0 @@
-/Header Record For PersistentHashMapValueStorage	lombokspring.bootspring.boot.starterspring.boot.starter.webspring.boot.autoconfigurespring.boot.starter.logginglogback.classiclogback.coreorg.apache.logging.slf4jjul.to.slf4jjava.annotation	snakeyamlspring.boot.starter.json!com.fasterxml.jackson.databindjackson.annotationscom.fasterxml.jackson.core&#com.fasterxml.jackson.datatype.jdk8(%com.fasterxml.jackson.datatype.jsr310*'com.fasterxml.jackson.module.paramnamesspring.boot.starter.tomcattomcat.embed.coretomcat.embed.eltomcat.embed.websocketorg.hibernate.validatorjava.validationorg.jboss.loggingcom.fasterxml.classmate
-spring.webspring.beansspring.webmvc
-spring.aopspring.contextspring.expressionspring.boot.starter.testspring.boot.test!spring.boot.test.autoconfigure	json.path
-json.smartaccessors.smartasm	slf4j.apijunitassertj.coreorg.mockitonet.bytebuddynet.bytebuddy.agent	objenesishamcrest.corehamcrest.library
-jsonassertandroid.jsonspring.core
-spring.jclspring.testxmlunit.core

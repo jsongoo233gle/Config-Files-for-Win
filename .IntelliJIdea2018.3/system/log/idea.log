@@ -1,0 +1,523 @@
+2018-12-16 04:49:56,835 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-12-16 04:49:56,884 [     49]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-183.4588.61, 04 Dec 2018 21:56) 
+2018-12-16 04:49:56,884 [     49]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-12-16 04:49:56,884 [     49]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1343-b16 (JetBrains s.r.o) 
+2018-12-16 04:49:56,884 [     49]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b16 (OpenJDK 64-Bit Server VM) 
+2018-12-16 04:49:56,888 [     53]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2018.3 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2018-12-16 04:49:56,909 [     74]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-12-16 04:49:56,910 [     75]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2018-12-16 04:49:57,019 [    184]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 109 ms 
+2018-12-16 04:49:57,024 [    189]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-12-16 04:49:57,482 [    647]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-12-16 04:49:57,764 [    929]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2018-12-16 04:50:17,477 [  20642]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:50:17,487 [  20652]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:50:18,648 [  21813]   INFO - j.ide.license.impl.LicenseFile -  
+2018-12-16 04:50:18,663 [  21828]   INFO - j.ide.license.impl.LicenseFile -  
+2018-12-16 04:50:23,751 [  26916]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-12-16 04:50:23,770 [  26935]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-12-16 04:51:06,131 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-12-16 04:51:06,171 [     40]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-183.4588.61, 04 Dec 2018 21:06) 
+2018-12-16 04:51:06,172 [     41]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-12-16 04:51:06,172 [     41]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1343-b16 (JetBrains s.r.o) 
+2018-12-16 04:51:06,172 [     41]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b16 (OpenJDK 64-Bit Server VM) 
+2018-12-16 04:51:06,176 [     45]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsCrack-3.1-release-enc.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2018.3 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2018-12-16 04:51:06,177 [     46]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-12-16 04:51:06,177 [     46]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2018-12-16 04:51:06,223 [     92]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 45 ms 
+2018-12-16 04:51:06,226 [     95]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-12-16 04:51:06,731 [    600]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-12-16 04:51:09,182 [   3051]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:51:09,190 [   3059]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:51:10,317 [   4186]   INFO - j.ide.license.impl.LicenseFile -  
+2018-12-16 04:51:10,331 [   4200]   INFO - j.ide.license.impl.LicenseFile -  
+2018-12-16 04:51:10,541 [   4410]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2018-12-16 04:51:28,352 [  22221]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@3d30bac9[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@58dcfb92 
+2018-12-16 04:51:29,046 [  22915]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:51:29,053 [  22922]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:51:29,657 [  23526]   INFO - llij.ide.plugins.PluginManager - Plugin 'Lombok Plugin' can't be loaded because: Plugin since-build or until-build don't match this product's build number 
+2018-12-16 04:51:29,991 [  23860]   INFO - llij.ide.plugins.PluginManager - 147 plugins initialized in 1241 ms 
+2018-12-16 04:51:29,992 [  23861]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.1.2), AngularJS (183.4588.61), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (183.4588.61), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (183.4588.61), Copyright (8.1), Coverage (183.4588.61), Cucumber for Groovy (183.4588.61), Cucumber for Java (183.4588.61), DSM Analysis (1.0.0), Database Tools and SQL (183.4588.61), Docker integration (183.4588.61), Eclipse Integration (3.0), EditorConfig (183.4588.61), Emma (183.4588.61), Flash/Flex Support (183.4588.61), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (183.4588.61), GlassFish Integration (1.0), Google App Engine (1.1.4), Gradle (183.4588.61), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (183.4588.61), Haml (183.4588.61), Heroku integration (183.4588.61), Hibernate Support (1.0), I18n for Java (183.4588.61), IDE Settings Sync (183.4588.61), IDEA CORE (183.4588.61), IntelliJ Configuration Script (183.4588.61), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (183.4588.61), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (183.4588.61), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.3.10-release-IJ2018.3-1), Less support (183.4588.61), Markdown support (183.4588.61), Maven Integration (183.4588.61), Maven Integration Extension (183.4588.61), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.12), Perforce Integration (2.0), Performance Testing (183.4588.61), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (183.4588.61), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (183.4588.61), Settings Repository (183.4588.61), Smali Support (1.0), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (183.4588.61), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (183.4588.61), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WSL Support Framework (183.4588.61), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (183.4588.61), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (183.4588.61) 
+2018-12-16 04:51:29,992 [  23861]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.2), BashSupport (1.7.4), Generate Tests (1.0.2), Grep Console (8.5.162.000.1), IdeaVim (0.50), Maven Helper (3.7.172.1454.3), NodeJS (183.4588.3), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (183.4588.3) 
+2018-12-16 04:51:29,993 [  23862]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Lombok Plugin (0.22.2018.2) 
+2018-12-16 04:51:32,780 [  26649]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-12-16 04:51:33,052 [  26921]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\gson\.IntelliJIdea2018.3\system\caches\names.dat' does not exist 
+2018-12-16 04:51:33,064 [  26933]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-12-16 04:51:33,125 [  26994]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2018-12-16 04:51:33,154 [  27023]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-12-16 04:51:34,226 [  28095]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:51:35,017 [  28886]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-12-16 04:51:35,018 [  28887]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-12-16 04:51:35,479 [  29348]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2018-12-16 04:51:35,646 [  29515]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-12-16 04:51:35,822 [  29691]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-12-16 04:51:35,853 [  29722]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-12-16 04:51:36,379 [  30248]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:469, number of extensions:82 
+2018-12-16 04:51:36,408 [  30277]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:28 
+2018-12-16 04:51:36,789 [  30658]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:360, number of extensions:135 
+2018-12-16 04:51:36,790 [  30659]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2018-12-16 04:51:38,518 [  32387]   INFO - j.ide.ui.OptionsTopHitProvider - 2840 ms spent to cache options in application 
+2018-12-16 04:51:38,519 [  32388]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 2841 ms 
+2018-12-16 04:51:41,974 [  35843]   INFO - plication.impl.ApplicationImpl - 101 application components initialized in 13232ms 
+2018-12-16 04:51:42,029 [  35898]   INFO - .intellij.idea.IdeaApplication - App initialization took 38843 ms 
+2018-12-16 04:51:43,332 [  37201]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2018-12-16 04:51:45,227 [  39096]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Angular Metadata JSON,FTL,JSP,Stylus,Properties,spring.factories,TypeScript,HTML,Angular2Html,Markdown,Flow,kotlin_builtins,ECMAScript 6,SQL,XML,Bash,Less,JavaScript,CSS,KJSM,CoffeeScript,JSX Harmony,SCSS,CFML,CLASS,TypeScript JSX,SWF,Groovy,Literate CoffeeScript,DGM File Type,Kotlin,AspectJ,ActionScript,JAVA,Vue.js,Sass,KNM 
+2018-12-16 04:51:46,640 [  40509]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:51:46,643 [  40512]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:51:46,712 [  40581]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:51:46,716 [  40585]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:51:46,720 [  40589]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:51:46,723 [  40592]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:51:46,729 [  40598]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:51:46,731 [  40600]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:51:46,731 [  40600]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:51:47,561 [  41430]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-12-16 04:51:50,318 [  44187]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 153 ms 
+2018-12-16 04:51:50,524 [  44393]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-12-16 04:51:52,072 [  45941]   INFO - ellij.project.impl.ProjectImpl - 201 project components initialized in 7811 ms 
+2018-12-16 04:51:52,274 [  46143]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 13735 ms 
+2018-12-16 04:51:53,462 [  47331]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-12-16 04:51:53,972 [  47841]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-12-16 04:51:55,157 [  49026]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 3074 ms 
+2018-12-16 04:51:55,379 [  49248]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-12-16 04:51:56,062 [  49931]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-12-16 04:51:56,528 [  50397]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-12-16 04:51:56,648 [  50517]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-12-16 04:51:57,001 [  50870]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-12-16 04:51:57,308 [  51177]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-12-16 04:51:57,890 [  51759]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-12-16 04:51:58,534 [  52403]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-12-16 04:51:58,931 [  52800]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-12-16 04:51:59,542 [  53411]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-12-16 04:51:59,818 [  53687]   INFO - pl$FileIndexDataInitialization - Initialization done:23376 
+2018-12-16 04:51:59,857 [  53726]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-12-16 04:52:00,142 [  54011]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2018-12-16 04:52:00,227 [  54096]   INFO - dea.updater.SdkComponentSource - File C:\Users\gson\.android\repositories.cfg could not be loaded. 
+2018-12-16 04:52:01,290 [  55159]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 9015 ms 
+2018-12-16 04:52:01,959 [  55828]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 338ms under project opening modal progress 
+2018-12-16 04:52:02,237 [  56106]   INFO - exImpl$StubIndexInitialization - Initialization done:2417 
+2018-12-16 04:52:02,484 [  56353]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 405 ms 
+2018-12-16 04:52:02,681 [  56550]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 860ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-12-16 04:52:02,900 [  56769]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 1610 ms 
+2018-12-16 04:52:02,917 [  56786]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 15 ms 
+2018-12-16 04:52:05,014 [  58883]   INFO - .TypeScriptLibraryProviderImpl - Start refreshing typescript libraries 
+2018-12-16 04:52:06,393 [  60262]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 4387ms under project opening modal progress 
+2018-12-16 04:52:06,658 [  60527]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 7 millis 
+2018-12-16 04:52:06,663 [  60532]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 212ms under project opening modal progress 
+2018-12-16 04:52:07,160 [  61029]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 5746ms; general responsiveness: ok; EDT responsiveness: 1/5 sluggish, 1/5 very slow 
+2018-12-16 04:52:07,854 [  61723]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 4927 ms 
+2018-12-16 04:52:08,774 [  62643]   INFO - j.ide.ui.OptionsTopHitProvider - 504 ms spent on EDT to cache options in application 
+2018-12-16 04:52:08,915 [  62784]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2018-12-16 04:52:09,059 [  62928]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-12-16 04:52:09,184 [  63053]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-12-16 04:52:09,228 [  63097]   INFO - .TypeScriptLibraryProviderImpl - End refreshing typescript libraries 
+2018-12-16 04:52:09,618 [  63487]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2018-12-16 04:52:10,047 [  63916]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 26013 ms 
+2018-12-16 04:52:19,289 [  73158]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 16605ms; general responsiveness: ok; EDT responsiveness: 4/16 sluggish, 2/16 very slow 
+2018-12-16 04:52:19,341 [  73210]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 83090 files to update 
+2018-12-16 04:52:24,551 [  78420]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from C:\Users\gson\.IntelliJIdea2018.3\system\index\.persistent\prebuilt\JavaScript\sdk-stubs.input 
+2018-12-16 04:52:28,993 [  82862]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-12-16 04:52:29,002 [  82871]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-12-16 04:52:30,607 [  84476]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 54623/Maven3ServerImpl4214f1f4 
+2018-12-16 04:52:31,223 [  85092]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-12-16 04:52:31,223 [  85092]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-12-16 04:52:31,225 [  85094]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-12-16 04:52:33,118 [  86987]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-12-16 04:52:33,121 [  86990]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-12-16 04:52:33,155 [  87024]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 395 auto-detected files
+Elapsed time on auto-detect: 1091 ms 
+2018-12-16 04:52:33,213 [  87082]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-12-16 04:52:36,248 [  90117]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-12-16 04:52:36,452 [  90321]  ERROR - ij.components.ComponentManager - null 
+java.lang.NullPointerException
+	at com.maddyhome.idea.vim.EventFacade.getTypedAction(EventFacade.java:125)
+	at com.maddyhome.idea.vim.EventFacade.restoreTypedActionHandler(EventFacade.java:69)
+	at com.maddyhome.idea.vim.VimPlugin.disposeComponent(VimPlugin.java:181)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.disposeComponents(ComponentManagerImpl.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.dispose(ApplicationImpl.java:512)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:48)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:44)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:138)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:182)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:151)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:129)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$disposeSelf$7(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1057)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:818)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:788)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:777)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:773)
+	at com.intellij.openapi.application.impl.ApplicationImpl.restart(ApplicationImpl.java:750)
+	at com.intellij.ide.plugins.PluginManagerMain$6.hyperlinkUpdate(PluginManagerMain.java:782)
+	at com.intellij.notification.impl.ui.NotificationsUtil$1.hyperlinkUpdate(NotificationsUtil.java:155)
+	at javax.swing.JEditorPane.fireHyperlinkUpdate(JEditorPane.java:342)
+	at javax.swing.text.html.HTMLEditorKit$LinkController.activateLink(HTMLEditorKit.java:875)
+	at javax.swing.text.html.HTMLEditorKit$LinkController.mouseClicked(HTMLEditorKit.java:674)
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270)
+	at java.awt.Component.processMouseEvent(Component.java:6551)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3325)
+	at java.awt.Component.processEvent(Component.java:6313)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:719)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:664)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-16 04:52:36,455 [  90324]  ERROR - ij.components.ComponentManager - IntelliJ IDEA 2018.3.1  Build #IU-183.4588.61 
+2018-12-16 04:52:36,456 [  90325]  ERROR - ij.components.ComponentManager - JDK: 1.8.0_152-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2018-12-16 04:52:36,456 [  90325]  ERROR - ij.components.ComponentManager - OS: Windows 10 
+2018-12-16 04:52:36,469 [  90338]  ERROR - ij.components.ComponentManager - Plugin to blame: IdeaVim version: 0.50 
+2018-12-16 04:52:36,470 [  90339]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-12-16 04:52:36,564 [  90433]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-12-16 04:52:36,565 [  90434]   INFO -   #com.intellij.util.Restarter - restart: [] 
+2018-12-16 04:52:37,100 [  90969]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-12-16 04:52:37,103 [  90972]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-12-16 04:52:43,588 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-12-16 04:52:43,628 [     40]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-183.4588.61, 04 Dec 2018 21:43) 
+2018-12-16 04:52:43,628 [     40]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-12-16 04:52:43,628 [     40]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1343-b16 (JetBrains s.r.o) 
+2018-12-16 04:52:43,628 [     40]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b16 (OpenJDK 64-Bit Server VM) 
+2018-12-16 04:52:43,632 [     44]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsCrack-3.1-release-enc.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2018.3 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2018-12-16 04:52:43,633 [     45]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-12-16 04:52:43,633 [     45]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2018-12-16 04:52:43,681 [     93]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 47 ms 
+2018-12-16 04:52:43,685 [     97]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-12-16 04:52:44,276 [    688]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-12-16 04:52:47,092 [   3504]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:52:47,095 [   3507]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:52:49,116 [   5528]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@59ecfac5[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4bb9961a 
+2018-12-16 04:52:49,196 [   5608]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2018-12-16 04:52:50,035 [   6447]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:52:50,037 [   6449]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:52:51,070 [   7482]   INFO - llij.ide.plugins.PluginManager - 147 plugins initialized in 1407 ms 
+2018-12-16 04:52:51,072 [   7484]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.1.2), AngularJS (183.4588.61), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (183.4588.61), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (183.4588.61), Copyright (8.1), Coverage (183.4588.61), Cucumber for Groovy (183.4588.61), Cucumber for Java (183.4588.61), DSM Analysis (1.0.0), Database Tools and SQL (183.4588.61), Docker integration (183.4588.61), Eclipse Integration (3.0), EditorConfig (183.4588.61), Emma (183.4588.61), Flash/Flex Support (183.4588.61), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (183.4588.61), GlassFish Integration (1.0), Google App Engine (1.1.4), Gradle (183.4588.61), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (183.4588.61), Haml (183.4588.61), Heroku integration (183.4588.61), Hibernate Support (1.0), I18n for Java (183.4588.61), IDE Settings Sync (183.4588.61), IDEA CORE (183.4588.61), IntelliJ Configuration Script (183.4588.61), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (183.4588.61), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (183.4588.61), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.3.10-release-IJ2018.3-1), Less support (183.4588.61), Markdown support (183.4588.61), Maven Integration (183.4588.61), Maven Integration Extension (183.4588.61), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.12), Perforce Integration (2.0), Performance Testing (183.4588.61), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (183.4588.61), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (183.4588.61), Settings Repository (183.4588.61), Smali Support (1.0), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (183.4588.61), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (183.4588.61), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WSL Support Framework (183.4588.61), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (183.4588.61), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (183.4588.61) 
+2018-12-16 04:52:51,072 [   7484]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.2), BashSupport (1.7.4), Generate Tests (1.0.2), Grep Console (8.5.162.000.1), IdeaVim (0.50), Lombok Plugin (0.22.IDEA-EAP), Maven Helper (3.7.172.1454.3), NodeJS (183.4588.3), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (183.4588.3) 
+2018-12-16 04:52:54,383 [  10795]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-12-16 04:52:54,697 [  11109]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-12-16 04:52:54,847 [  11259]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2018-12-16 04:52:54,946 [  11358]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-12-16 04:52:56,344 [  12756]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:52:58,615 [  15027]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2018-12-16 04:52:58,831 [  15243]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-12-16 04:52:59,035 [  15447]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-12-16 04:52:59,131 [  15543]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-12-16 04:52:59,506 [  15918]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:369, number of extensions:83 
+2018-12-16 04:52:59,529 [  15941]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:23 
+2018-12-16 04:52:59,663 [  16075]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:121, number of extensions:135 
+2018-12-16 04:52:59,664 [  16076]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2018-12-16 04:53:00,596 [  17008]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index filetypes. The index will be rebuilt. 
+2018-12-16 04:53:01,945 [  18357]   INFO - j.ide.ui.OptionsTopHitProvider - 3228 ms spent to cache options in application 
+2018-12-16 04:53:01,945 [  18357]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 3226 ms 
+2018-12-16 04:53:03,495 [  19907]   INFO - plication.impl.ApplicationImpl - 101 application components initialized in 13839ms 
+2018-12-16 04:53:03,544 [  19956]   INFO - .intellij.idea.IdeaApplication - App initialization took 23187 ms 
+2018-12-16 04:53:04,989 [  21401]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2018-12-16 04:53:06,784 [  23196]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index IdIndex. The index will be rebuilt. 
+2018-12-16 04:53:10,940 [  27352]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:53:10,967 [  27379]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:53:11,055 [  27467]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:53:11,059 [  27471]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:53:11,062 [  27474]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:53:11,064 [  27476]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:53:11,084 [  27496]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:53:11,086 [  27498]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:53:11,086 [  27498]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:53:11,657 [  28069]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-12-16 04:53:12,652 [  29064]   INFO - pl$FileIndexDataInitialization - Initialization done:13098 
+2018-12-16 04:53:13,218 [  29630]   INFO - exImpl$StubIndexInitialization - Initialization done:565 
+2018-12-16 04:53:13,694 [  30106]   INFO - ellij.project.impl.ProjectImpl - 203 project components initialized in 8147 ms 
+2018-12-16 04:53:13,991 [  30403]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 12030 ms 
+2018-12-16 04:53:14,466 [  30878]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 770 ms 
+2018-12-16 04:53:15,205 [  31617]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-12-16 04:53:15,348 [  31760]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-12-16 04:53:15,624 [  32036]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-12-16 04:53:18,186 [  34598]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2018-12-16 04:53:18,488 [  34900]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 4497 ms 
+2018-12-16 04:53:19,089 [  35501]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 24 ms 
+2018-12-16 04:53:19,362 [  35774]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 442ms under project opening modal progress 
+2018-12-16 04:53:19,687 [  36099]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 508 ms 
+2018-12-16 04:53:20,008 [  36420]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 893ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-12-16 04:53:20,273 [  36685]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 1784 ms 
+2018-12-16 04:53:20,292 [  36704]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 15 ms 
+2018-12-16 04:53:24,754 [  41166]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 5360ms under project opening modal progress 
+2018-12-16 04:53:24,940 [  41352]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 11 millis 
+2018-12-16 04:53:24,950 [  41362]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 133ms under project opening modal progress 
+2018-12-16 04:53:25,181 [  41593]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 6446ms; general responsiveness: ok; EDT responsiveness: 2/6 sluggish, 2/6 very slow 
+2018-12-16 04:53:25,608 [  42020]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 5313 ms 
+2018-12-16 04:53:26,811 [  43223]   INFO - j.ide.ui.OptionsTopHitProvider - 559 ms spent on EDT to cache options in application 
+2018-12-16 04:53:26,887 [  43299]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2018-12-16 04:53:26,946 [  43358]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-12-16 04:53:27,212 [  43624]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-12-16 04:53:27,593 [  44005]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 22251 ms 
+2018-12-16 04:53:31,977 [  48389]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 11967ms; general responsiveness: ok; EDT responsiveness: 3/11 sluggish, 3/11 very slow 
+2018-12-16 04:53:32,059 [  48471]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 83090 files to update 
+2018-12-16 04:53:42,979 [  59391]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from C:\Users\gson\.IntelliJIdea2018.3\system\index\.persistent\prebuilt\JavaScript\sdk-stubs.input 
+2018-12-16 04:55:06,280 [ 142692]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 94226ms; general responsiveness: 2/94 sluggish; EDT responsiveness: ok 
+2018-12-16 04:55:06,496 [ 142908]   INFO - j.ide.ui.OptionsTopHitProvider - 196 ms spent to cache options in project 
+2018-12-16 04:55:06,496 [ 142908]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-12-16 04:55:06,496 [ 142908]   INFO - tartup.impl.StartupManagerImpl - Activity run in 196ms on UI thread 
+2018-12-16 04:55:06,534 [ 142946]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2018-12-16 04:55:06,617 [ 143029]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2018-12-16 04:55:07,039 [ 143451]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 12/16/2018 4:51 AM) 
+2018-12-16 04:55:07,325 [ 143737]   INFO - j.ide.ui.OptionsTopHitProvider - 356 ms spent on EDT to cache options in project 
+2018-12-16 04:55:45,115 [ 181527]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-12-16 04:55:45,116 [ 181528]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-12-16 04:55:45,120 [ 181532]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 32873/Maven3ServerImpl11a71484 
+2018-12-16 04:55:45,813 [ 182225]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-12-16 04:55:45,814 [ 182226]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-12-16 04:55:45,817 [ 182229]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-12-16 04:55:45,817 [ 182229]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-12-16 04:55:46,043 [ 182455]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-12-16 04:55:46,071 [ 182483]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 1 auto-detected files
+Elapsed time on auto-detect: 17 ms 
+2018-12-16 04:55:46,213 [ 182625]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-12-16 04:55:46,220 [ 182632]  ERROR - ij.components.ComponentManager - null 
+java.lang.NullPointerException
+	at com.maddyhome.idea.vim.EventFacade.getTypedAction(EventFacade.java:125)
+	at com.maddyhome.idea.vim.EventFacade.restoreTypedActionHandler(EventFacade.java:69)
+	at com.maddyhome.idea.vim.VimPlugin.disposeComponent(VimPlugin.java:181)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.disposeComponents(ComponentManagerImpl.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.dispose(ApplicationImpl.java:512)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:48)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:44)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:138)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:182)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:151)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:129)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$disposeSelf$7(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1057)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:818)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:788)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:777)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:773)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:740)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:735)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$3.windowClosing(IdeFrameImpl.java:275)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.Window.processWindowEvent(Window.java:2054)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2013)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:719)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:668)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-16 04:55:46,223 [ 182635]  ERROR - ij.components.ComponentManager - IntelliJ IDEA 2018.3.1  Build #IU-183.4588.61 
+2018-12-16 04:55:46,224 [ 182636]  ERROR - ij.components.ComponentManager - JDK: 1.8.0_152-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2018-12-16 04:55:46,224 [ 182636]  ERROR - ij.components.ComponentManager - OS: Windows 10 
+2018-12-16 04:55:46,233 [ 182645]  ERROR - ij.components.ComponentManager - Plugin to blame: IdeaVim version: 0.50 
+2018-12-16 04:55:46,233 [ 182645]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-12-16 04:55:46,247 [ 182659]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-12-16 04:55:46,273 [ 182685]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-12-16 04:55:46,299 [ 182711]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-12-16 04:57:04,497 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-12-16 04:57:04,550 [     53]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-183.4588.61, 04 Dec 2018 21:04) 
+2018-12-16 04:57:04,551 [     54]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-12-16 04:57:04,551 [     54]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1343-b16 (JetBrains s.r.o) 
+2018-12-16 04:57:04,551 [     54]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b16 (OpenJDK 64-Bit Server VM) 
+2018-12-16 04:57:04,556 [     59]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsCrack-3.1-release-enc.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2018.3 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2018-12-16 04:57:04,557 [     60]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-12-16 04:57:04,557 [     60]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2018-12-16 04:57:04,622 [    125]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 64 ms 
+2018-12-16 04:57:04,626 [    129]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-12-16 04:57:05,215 [    718]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-12-16 04:57:08,148 [   3651]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:57:08,151 [   3654]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:57:10,430 [   5933]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@475dcf5d[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@52b3cd01 
+2018-12-16 04:57:10,502 [   6005]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2018-12-16 04:57:11,370 [   6873]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2018-12-16 04:57:11,374 [   6877]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2018-12-16 04:57:12,477 [   7980]   INFO - llij.ide.plugins.PluginManager - 147 plugins initialized in 1485 ms 
+2018-12-16 04:57:12,477 [   7980]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.1.2), AngularJS (183.4588.61), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (183.4588.61), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (183.4588.61), Copyright (8.1), Coverage (183.4588.61), Cucumber for Groovy (183.4588.61), Cucumber for Java (183.4588.61), DSM Analysis (1.0.0), Database Tools and SQL (183.4588.61), Docker integration (183.4588.61), Eclipse Integration (3.0), EditorConfig (183.4588.61), Emma (183.4588.61), Flash/Flex Support (183.4588.61), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (183.4588.61), GlassFish Integration (1.0), Google App Engine (1.1.4), Gradle (183.4588.61), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (183.4588.61), Haml (183.4588.61), Heroku integration (183.4588.61), Hibernate Support (1.0), I18n for Java (183.4588.61), IDE Settings Sync (183.4588.61), IDEA CORE (183.4588.61), IntelliJ Configuration Script (183.4588.61), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (183.4588.61), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (183.4588.61), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.3.10-release-IJ2018.3-1), Less support (183.4588.61), Markdown support (183.4588.61), Maven Integration (183.4588.61), Maven Integration Extension (183.4588.61), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.12), Perforce Integration (2.0), Performance Testing (183.4588.61), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (183.4588.61), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (183.4588.61), Settings Repository (183.4588.61), Smali Support (1.0), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (183.4588.61), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (183.4588.61), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WSL Support Framework (183.4588.61), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (183.4588.61), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (183.4588.61) 
+2018-12-16 04:57:12,478 [   7981]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.2), BashSupport (1.7.4), Generate Tests (1.0.2), Grep Console (8.5.162.000.1), IdeaVim (0.50), Lombok Plugin (0.22.IDEA-EAP), Maven Helper (3.7.172.1454.3), NodeJS (183.4588.3), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (183.4588.3) 
+2018-12-16 04:57:15,658 [  11161]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-12-16 04:57:16,015 [  11518]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-12-16 04:57:16,160 [  11663]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2018-12-16 04:57:16,218 [  11721]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-12-16 04:57:17,354 [  12857]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:57:19,276 [  14779]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2018-12-16 04:57:19,477 [  14980]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-12-16 04:57:19,714 [  15217]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-12-16 04:57:19,787 [  15290]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-12-16 04:57:20,217 [  15720]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:377, number of extensions:83 
+2018-12-16 04:57:20,242 [  15745]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:24 
+2018-12-16 04:57:20,370 [  15873]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:110, number of extensions:135 
+2018-12-16 04:57:20,371 [  15874]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2018-12-16 04:57:22,469 [  17972]   INFO - j.ide.ui.OptionsTopHitProvider - 3075 ms spent to cache options in application 
+2018-12-16 04:57:22,470 [  17973]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 3074 ms 
+2018-12-16 04:57:23,241 [  18744]   INFO - plication.impl.ApplicationImpl - 101 application components initialized in 12258ms 
+2018-12-16 04:57:23,289 [  18792]   INFO - .intellij.idea.IdeaApplication - App initialization took 22586 ms 
+2018-12-16 04:57:24,558 [  20061]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2018-12-16 04:57:28,498 [  24001]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:57:28,503 [  24006]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:57:28,642 [  24145]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:57:28,676 [  24179]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:57:28,680 [  24183]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:57:28,682 [  24185]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:57:28,685 [  24188]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:57:28,709 [  24212]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2018-12-16 04:57:28,709 [  24212]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-12-16 04:57:29,356 [  24859]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2018-12-16 04:57:29,793 [  25296]   INFO - pl$FileIndexDataInitialization - Initialization done:9526 
+2018-12-16 04:57:30,569 [  26072]   INFO - exImpl$StubIndexInitialization - Initialization done:774 
+2018-12-16 04:57:31,917 [  27420]   INFO - ellij.project.impl.ProjectImpl - 203 project components initialized in 6811 ms 
+2018-12-16 04:57:32,749 [  28252]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 10271 ms 
+2018-12-16 04:57:32,877 [  28380]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 956 ms 
+2018-12-16 04:57:33,959 [  29462]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-12-16 04:57:34,072 [  29575]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-12-16 04:57:34,364 [  29867]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-12-16 04:57:36,895 [  32398]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2018-12-16 04:57:37,810 [  33313]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 24 ms 
+2018-12-16 04:57:38,219 [  33722]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 440ms under project opening modal progress 
+2018-12-16 04:57:38,597 [  34100]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 831 ms 
+2018-12-16 04:57:38,981 [  34484]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1324ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-12-16 04:57:40,484 [  35987]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 7725 ms 
+2018-12-16 04:57:45,664 [  41167]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 7432ms under project opening modal progress 
+2018-12-16 04:57:45,924 [  41427]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 5419 ms 
+2018-12-16 04:57:45,982 [  41485]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 52 ms 
+2018-12-16 04:57:46,017 [  41520]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 23 millis 
+2018-12-16 04:57:46,035 [  41538]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 222ms under project opening modal progress 
+2018-12-16 04:57:46,468 [  41971]   INFO - tartup.impl.StartupManagerImpl - DatabaseConfigFileWatcher run in 151ms under project opening modal progress 
+2018-12-16 04:57:46,652 [  42155]   INFO - tartup.impl.StartupManagerImpl - MvcProjectWithoutLibraryNotificator run in 142ms under project opening modal progress 
+2018-12-16 04:57:47,402 [  42905]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 9933ms; general responsiveness: ok; EDT responsiveness: 0/9 sluggish, 3/9 very slow 
+2018-12-16 04:57:48,813 [  44316]   INFO - j.ide.ui.OptionsTopHitProvider - 605 ms spent on EDT to cache options in application 
+2018-12-16 04:57:49,040 [  44543]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2018-12-16 04:57:49,096 [  44599]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-12-16 04:57:49,333 [  44836]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-12-16 04:57:49,833 [  45336]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2018-12-16 04:57:50,065 [  45568]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 25201 ms 
+2018-12-16 04:57:53,661 [  49164]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 14675ms; general responsiveness: ok; EDT responsiveness: 2/14 sluggish, 4/14 very slow 
+2018-12-16 04:57:53,663 [  49166]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 7 files to update 
+2018-12-16 04:57:54,531 [  50034]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 8534 ms 
+2018-12-16 04:57:55,416 [  50919]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 1753ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-12-16 04:57:55,642 [  51145]   INFO - j.ide.ui.OptionsTopHitProvider - 152 ms spent to cache options in project 
+2018-12-16 04:57:55,642 [  51145]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-12-16 04:57:55,642 [  51145]   INFO - tartup.impl.StartupManagerImpl - Activity run in 152ms on UI thread 
+2018-12-16 04:57:55,725 [  51228]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2018-12-16 04:57:55,886 [  51389]   INFO - tartup.impl.StartupManagerImpl - MaintenanceActivity run in 133ms on UI thread 
+2018-12-16 04:57:56,248 [  51751]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 12/16/2018 4:51 AM) 
+2018-12-16 04:57:56,558 [  52061]   INFO - j.ide.ui.OptionsTopHitProvider - 405 ms spent on EDT to cache options in project 
+2018-12-16 04:58:14,187 [  69690]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 50759/Maven3ServerImplf7f2dcea 
+2018-12-16 04:58:14,809 [  70312]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-12-16 04:58:14,810 [  70313]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-12-16 04:58:14,810 [  70313]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-12-16 04:58:14,880 [  70383]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-12-16 04:58:14,883 [  70386]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-12-16 04:58:14,913 [  70416]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 1 auto-detected files
+Elapsed time on auto-detect: 31 ms 
+2018-12-16 04:58:15,047 [  70550]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-12-16 04:58:15,056 [  70559]  ERROR - ij.components.ComponentManager - null 
+java.lang.NullPointerException
+	at com.maddyhome.idea.vim.EventFacade.getTypedAction(EventFacade.java:125)
+	at com.maddyhome.idea.vim.EventFacade.restoreTypedActionHandler(EventFacade.java:69)
+	at com.maddyhome.idea.vim.VimPlugin.disposeComponent(VimPlugin.java:181)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.disposeComponents(ComponentManagerImpl.java:133)
+	at com.intellij.openapi.application.impl.ApplicationImpl.dispose(ApplicationImpl.java:512)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:48)
+	at com.intellij.openapi.util.Disposer$1.execute(Disposer.java:44)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:138)
+	at com.intellij.openapi.util.objectTree.ObjectNode$1.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeActionWithRecursiveGuard(ObjectTree.java:182)
+	at com.intellij.openapi.util.objectTree.ObjectNode.execute(ObjectNode.java:107)
+	at com.intellij.openapi.util.objectTree.ObjectTree.executeAll(ObjectTree.java:151)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:129)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$disposeSelf$7(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1057)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:253)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:818)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:788)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:777)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:773)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:740)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:735)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$3.windowClosing(IdeFrameImpl.java:275)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.Window.processWindowEvent(Window.java:2054)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2013)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:719)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:668)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-12-16 04:58:15,062 [  70565]  ERROR - ij.components.ComponentManager - IntelliJ IDEA 2018.3.1  Build #IU-183.4588.61 
+2018-12-16 04:58:15,062 [  70565]  ERROR - ij.components.ComponentManager - JDK: 1.8.0_152-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2018-12-16 04:58:15,062 [  70565]  ERROR - ij.components.ComponentManager - OS: Windows 10 
+2018-12-16 04:58:15,072 [  70575]  ERROR - ij.components.ComponentManager - Plugin to blame: IdeaVim version: 0.50 
+2018-12-16 04:58:15,073 [  70576]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-12-16 04:58:15,104 [  70607]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-12-16 04:58:15,114 [  70617]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-12-16 04:58:15,126 [  70629]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
