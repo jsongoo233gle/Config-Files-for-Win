@@ -6,19 +6,20 @@
         <usage id="project.open.time.20" value="1" />
         <usage id="project.open.time.21" value="1" />
         <usage id="project.open.time.22" value="2" />
-        <usage id="project.open.time.23" value="1" />
+        <usage id="project.open.time.23" value="2" />
         <usage id="project.open.time.34" value="1" />
         <usage id="project.open.time.45" value="1" />
         <usage id="project.open.time.4" value="1" />
         <usage id="project.open.time.36" value="1" />
         <usage id="project.open.time.47" value="1" />
-        <usage id="project.closed" value="16" />
-        <usage id="project.opened" value="16" />
+        <usage id="project.closed" value="19" />
+        <usage id="project.opened" value="19" />
         <usage id="project.open.time.50" value="1" />
         <usage id="project.open.time.41" value="1" />
         <usage id="project.open.time.52" value="1" />
         <usage id="project.open.time.26" value="1" />
         <usage id="project.open.time.25" value="1" />
+        <usage id="project.open.time.42" value="1" />
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>

@@ -218,14 +218,14 @@
   <component name="FUSApplicationUsageTrigger">
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
-        <usage id="ide.close.restart" value="9" />
+        <usage id="ide.close.restart" value="10" />
         <usage id="ide.error" value="4" />
         <usage id="ide.freeze.28" value="1" />
-        <usage id="ide.close" value="33" />
+        <usage id="ide.close" value="36" />
         <usage id="ide.freeze.27" value="1" />
         <usage id="ide.freeze.19" value="1" />
         <usage id="ide.freeze.24" value="3" />
-        <usage id="ide.start" value="33" />
+        <usage id="ide.start" value="36" />
         <usage id="ide.freeze.23" value="1" />
         <usage id="ide.freeze.26" value="1" />
         <usage id="ide.freeze.25" value="2" />
@@ -238,7 +238,7 @@
         <usage id="ide.freeze.9" value="3" />
         <usage id="ide.freeze.10" value="1" />
         <usage id="ide.freeze.21" value="1" />
-        <usage id="ide.freeze" value="1">
+        <usage id="ide.freeze" value="2">
           <context>
             <entry key="data_1" value="timeSecondsGrouped" />
             <entry key="data_2" value="9" />
@@ -250,17 +250,21 @@
             <entry key="data_2" value="7" />
           </context>
         </usage>
+        <usage id="ide.freeze" value="1">
+          <context>
+            <entry key="data_1" value="timeSecondsGrouped" />
+            <entry key="data_2" value="20+" />
+          </context>
+        </usage>
       </usages-collector>
       <usages-collector id="statistics.ide.self.update">
-        <counts>
-          <entry key="dialog.shown" value="6" />
-          <entry key="dialog.update.started" value="6" />
-          <entry key="notification.clicked" value="5" />
-          <entry key="notification.shown" value="5" />
-        </counts>
+        <usage id="notification.clicked" value="6" />
+        <usage id="dialog.shown" value="7" />
+        <usage id="dialog.update.started" value="7" />
+        <usage id="notification.shown" value="6" />
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
-        <usage id="shown.automatically" value="27" />
+        <usage id="shown.automatically" value="30" />
       </usages-collector>
     </session>
   </component>

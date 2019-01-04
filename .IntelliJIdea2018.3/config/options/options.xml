@@ -66,13 +66,13 @@
     <property name="file.gist.reindex.count" value="20055" />
     <property name="fileTypeChangedCounter" value="5" />
     <property name="gradle.runner.text.console_str" value="false" />
-    <property name="ideavim.statistics.timestamp" value="1544905307894" />
+    <property name="ideavim.statistics.timestamp" value="1546584945228" />
     <property name="installed.kotlin.plugin.version" value="1.3.10-release-IJ2018.3-1" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="885" />
     <property name="last.imported.location" value="D:/DevOps/Dev/IDE/ideaIU.win/IdeaProjects/girl" />
     <property name="last.used.gradle.home" value="D:/DevOps/Dev/gradle-3.5-bin" />
-    <property name="lastTip" value="147" />
+    <property name="lastTip" value="150" />
     <property name="project.wizard.group" value="SpringInitializr" />
     <property name="project.wizard.template" value="Spring Initializr" />
     <property name="run.configuration.edit.ad" value="true" />
@@ -81,6 +81,6 @@
     <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
     <property name="spring.initializr.service.url.history" value="" />
     <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
-    <property name="ts.lib.d.ts.version" value="3.1.1" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
   </component>
 </application>

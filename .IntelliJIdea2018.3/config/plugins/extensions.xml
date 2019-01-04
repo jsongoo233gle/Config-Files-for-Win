@@ -91,12 +91,30 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.aab">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.aar">
       <plugins>
         <option name="myPlugins">
           <set>
             <plugin>
               <option name="myPluginId" value="com.github.b3er.idea.plugins.arc.browser" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -169,6 +187,32 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ap">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.ap_">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.apex">
       <plugins>
         <option name="myPlugins">
@@ -193,6 +237,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.github.b3er.idea.plugins.arc.browser" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.apks">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -477,6 +534,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.awb">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.bal">
       <plugins>
         <option name="myPlugins">
@@ -494,11 +564,6 @@
       <plugins>
         <option name="myPlugins">
           <set>
-            <plugin>
-              <option name="myPluginId" value="Batch Scripts Support" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
             <plugin>
               <option name="myPluginId" value="CMD Support" />
               <option name="myPluginName" />
@@ -1001,11 +1066,6 @@
       <plugins>
         <option name="myPlugins">
           <set>
-            <plugin>
-              <option name="myPluginId" value="Batch Scripts Support" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
             <plugin>
               <option name="myPluginId" value="CMD Support" />
               <option name="myPluginName" />
@@ -1674,6 +1734,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.dropbox.djinni.ideaplugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.doclua">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -3219,6 +3292,32 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.jj">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.oowekyala.javacc" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.jjt">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.oowekyala.javacc" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.jl">
       <plugins>
         <option name="myPlugins">
@@ -3817,6 +3916,11 @@
       <plugins>
         <option name="myPlugins">
           <set>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
             <plugin>
               <option name="myPluginId" value="com.tang" />
               <option name="myPluginName" />
@@ -6097,19 +6201,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.screen">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.hand.hec.aurora.ide.plugin.idea" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.secarc">
       <plugins>
         <option name="myPlugins">
@@ -6395,6 +6486,19 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="com.illuminatedcloud.intellij" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.so">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.lizhangqu.intellij.plugin.android.bundle" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -7619,6 +7723,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.wlua">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.workflow">
       <plugins>
         <option name="myPlugins">
@@ -7645,6 +7762,32 @@
               <option name="myPluginId" value="WebServicesPlugin" />
               <option name="myPluginName" value="WebServicesPlugin" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.wxml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.ytw88.weappsupport" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.wxss">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.ytw88.weappsupport" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
@@ -7842,6 +7985,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="org.eclipse.xtend.idea" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.y">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="idea.goyacc" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
