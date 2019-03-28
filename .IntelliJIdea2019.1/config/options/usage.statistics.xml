@@ -1,0 +1,100 @@
+<application>
+  <component name="FeatureUsageStatistics" first-run="1494658107733" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="1" last-shown="0" last-used="1494661454669" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="164" last-shown="0" last-used="1527940674947" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.aslist" count="0" last-shown="1496333930767" last-used="0" shown-count="3" />
+    <feature id="codeassists.surroundwith.statement" count="16" last-shown="0" last-used="1505254101428" shown-count="0" />
+    <feature id="refactoring.rename" count="41" last-shown="0" last-used="1505681393536" shown-count="0" />
+    <feature id="navigation.popup.action" count="9" last-shown="0" last-used="1517847503224" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="3" last-shown="0" last-used="1495990792482" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="5" last-shown="1536832326964" last-used="1504607936453" shown-count="538" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="41" last-shown="0" last-used="1504259897428" shown-count="0" />
+    <feature id="editing.completion.replace" count="2496" last-shown="1536582213925" last-used="1536832275506" shown-count="1351" />
+    <feature id="switcher" count="10" last-shown="0" last-used="1499150281631" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="209" last-shown="0" last-used="1527940780540" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="2481" last-shown="0" last-used="1536776639982" shown-count="0" />
+    <feature id="navigation.popup.file" count="107" last-shown="0" last-used="1537524116231" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="13" last-shown="0" last-used="1505680249800" shown-count="0" />
+    <feature id="editing.completion.smarttype.casting" count="2" last-shown="0" last-used="1496348697456" shown-count="0" />
+    <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="6" last-shown="0" last-used="1503335424028" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="14" last-shown="0" last-used="1503657116880" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console.execute" count="1" last-shown="0" last-used="1496427377249" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="1482" last-shown="0" last-used="1536772774216" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="5240" last-shown="0" last-used="1536776655592" shown-count="0" />
+    <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="11" last-shown="1536832326964" last-used="1506552866918" shown-count="430" />
+    <feature id="navigation.goto.implementation" count="154" last-shown="0" last-used="1511711309663" shown-count="0" />
+    <feature id="refactoring.move.moveInner" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="14" last-shown="0" last-used="1536947469195" shown-count="0" />
+    <feature id="editing.completion.global.member.name" count="1" last-shown="1505763311327" last-used="1508572928197" shown-count="68" />
+    <feature id="editing.completion.finishByExclamation" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="1234" last-shown="0" last-used="1536771972478" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.copyClass" count="30" last-shown="0" last-used="1503345195294" shown-count="0" />
+    <feature id="move.element.left.right" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="jar.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="173" last-shown="0" last-used="1510508104675" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.chain" count="10" last-shown="1496320807898" last-used="1496333941256" shown-count="2" />
+    <feature id="ant.quickfix.CreateProperty" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="1496333930767" last-used="0" shown-count="3" />
+    <feature id="navigation.popup.camelprefix" count="2" last-shown="0" last-used="1504073163840" shown-count="0" />
+    <feature id="SearchEverywhere" count="93" last-shown="0" last-used="1539652755413" shown-count="0" />
+    <feature id="navigation.popup.class" count="7" last-shown="0" last-used="1505253979395" shown-count="0" />
+    <feature id="editor.delete.line" count="533" last-shown="0" last-used="1536565193171" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="176" last-shown="0" last-used="1505806462033" shown-count="0" />
+    <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1536832326964" last-used="0" shown-count="775" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="4009" last-shown="0" last-used="1536832326910" shown-count="0" />
+    <feature id="tag.name.completion" count="1" last-shown="0" last-used="1496362086164" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.postfix" count="97" last-shown="0" last-used="1510508432598" shown-count="0" />
+    <feature id="diagram.show.popup" count="2" last-shown="0" last-used="1504169593251" shown-count="0" />
+    <feature id="refactoring.introduceVariable.incompleteStatement" count="65" last-shown="0" last-used="1510508432614" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="15538" last-shown="0" last-used="1536568133636" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="1" last-shown="1506552851681" last-used="1496348745524" shown-count="437" />
+    <feature id="ui.scheme.quickswitch" count="4" last-shown="0" last-used="1505204195145" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="31" last-shown="1536776695558" last-used="1496442988316" shown-count="2022" />
+    <feature id="codeassist.inspect.batch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="728" last-shown="0" last-used="1536771345994" shown-count="0" />
+    <feature id="db.table.editor" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ant.quickfix.CreateTarget" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassist.locate.duplicates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="15" last-shown="0" last-used="1505679262983" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.block" count="4" last-shown="0" last-used="1500616610183" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="25" last-shown="1536832326964" last-used="1505761798947" shown-count="193" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="2" last-shown="0" last-used="1505185753033" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="786" last-shown="0" last-used="1536832296853" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="16898" />
+      <option name="invocations" value="2086" />
+      <option name="startDate" value="1494604800000" />
+      <option name="dayCount" value="66" />
+      <option name="lastDate" value="1536768000000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="134" />
+      <option name="startDate" value="1494691200000" />
+      <option name="dayCount" value="41" />
+      <option name="lastDate" value="1536508800000" />
+    </fixesStatsTag>
+  </component>
+  <component name="UsagesStatistic" show-notification="false" />
+</application>

@@ -1,0 +1,1421 @@
+2019-03-28 20:07:45,800 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-03-28 20:07:45,898 [     98]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-191.6183.87, 27 Mar 2019 13:38) 
+2019-03-28 20:07:45,898 [     98]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-03-28 20:07:45,898 [     98]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2019-03-28 20:07:45,898 [     98]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2019-03-28 20:07:45,905 [    105]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2019.1 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2019-03-28 20:07:45,918 [    118]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2019-03-28 20:07:45,918 [    118]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2019-03-28 20:07:46,046 [    246]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 127 ms 
+2019-03-28 20:07:46,066 [    266]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-03-28 20:07:46,913 [   1113]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-03-28 20:07:47,499 [   1699]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-03-28 20:08:29,215 [  43415]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 2642 ms 
+2019-03-28 20:08:30,201 [  44401]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@293ed5e6[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@619a5111 
+2019-03-28 20:08:32,067 [  46267]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1285 ms 
+2019-03-28 20:08:32,118 [  46318]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:08:32,122 [  46322]   INFO - llij.ide.plugins.PluginManager - Plugin 'Lombok Plugin' can't be loaded because: Plugin since-build(183.4284) or until-build(183.*) don't match this product's build number(IU-191.6183.87). 
+2019-03-28 20:08:32,848 [  47048]   INFO - llij.ide.plugins.PluginManager - 145 plugins initialized in 2066 ms 
+2019-03-28 20:08:32,850 [  47050]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.6183.87), Android Support (10.3.3), AngularJS (191.6183.87), Ant Support (191.6183.87), Application Servers View (191.6183.87), AspectJ Support (191.6183.87), Bytecode Viewer (191.6183.87), CFML Support (191.6183.87), CSS Support (191.6183.87), Cloud Foundry integration (191.6183.87), CloudBees integration (191.6183.87), CoffeeScript (191.6183.87), Copyright (191.6183.87), Coverage (191.6183.87), Cucumber for Groovy (191.6183.87), Cucumber for Java (191.6183.87), DSM Analysis (191.6183.87), Database Tools and SQL (191.6183.87), Docker integration (191.6183.87), Eclipse Integration (191.6183.87), EditorConfig (191.6183.87), Emma (191.6183.87), Flash/Flex Support (191.6183.87), FreeMarker support (191.6183.87), GWT Support (191.6183.87), Geronimo Integration (191.6183.87), Gherkin (191.6183.87), Git Integration (191.6183.87), GitHub (191.6183.87), GlassFish Integration (191.6183.87), Google App Engine (191.6183.87), Gradle (191.6183.87), Grails (191.6183.87), Groovy (191.6183.87), Guice (191.6183.87), HTML Tools (191.6183.87), HTTP Client (191.6183.87), Haml (191.6183.87), Heroku integration (191.6183.87), Hibernate Support (191.6183.87), I18n for Java (191.6183.87), IDE Settings Sync (191.6183.87), IDEA CORE (191.6183.87), IntelliJ Configuration Script (191.6183.87), IntelliLang (191.6183.87), J2ME (191.6183.87), JBoss Arquillian Support (191.6183.87), JBoss Drools Support (191.6183.87), JBoss Frameworks Base Support (191.6183.87), JBoss Integration (191.6183.87), JBoss Seam Pageflow Support (191.6183.87), JBoss Seam Pages Support (191.6183.87), JBoss Seam Support (191.6183.87), JBoss jBPM (191.6183.87), JSR45 Integration (1.0), JUnit (191.6183.87), Java Bytecode Decompiler (191.6183.87), Java EE: Batch Applications (191.6183.87), Java EE: Bean Validation Support (191.6183.87), Java EE: Contexts and Dependency Injection (191.6183.87), Java EE: EJB, JPA, Servlets (191.6183.87), Java EE: JMS, JSON Processing, Concurrency, Transaction  (191.6183.87), Java EE: Java Server Faces (191.6183.87), Java EE: RESTful Web Services (JAX-RS) (191.6183.87), Java EE: Web Services (JAX-WS) (191.6183.87), Java EE: WebSockets (191.6183.87), Java Server Pages (JSP) Integration (191.6183.87), Java Stream Debugger (191.6183.87), JavaFX (191.6183.87), JavaScript Debugger (191.6183.87), JavaScript Intention Power Pack (191.6183.87), JavaScript Support (191.6183.87), Jetty Integration (191.6183.87), Kotlin (1.3.21-release-IJ2019.1-2), Less support (191.6183.87), Markdown support (191.6183.87), Maven Integration (191.6183.87), Maven Integration Extension (191.6183.87), Mercurial Integration (191.6183.87), OpenShift integration (191.6183.87), Osmorc (191.6183.87), Perforce Integration (191.6183.87), Performance Testing (191.6183.87), Persistence Frameworks Support (191.6183.87), Playframework Support (191.6183.87), Plugin DevKit (191.6183.87), Properties Support (191.6183.87), Reactor framework support (191.6183.87), Refactor-X (191.6183.87), Remote Hosts Access (191.6183.87), Resin Integration (191.6183.87), SSH Remote Run (191.6183.87), Sass support (191.6183.87), Settings Repository (191.6183.87), Smali Support (191.6183.87), Spring AOP/@AspectJ (191.6183.87), Spring Batch (191.6183.87), Spring Boot (191.6183.87), Spring Data (191.6183.87), Spring Integration Patterns (191.6183.87), Spring MVC (191.6183.87), Spring OSGi (191.6183.87), Spring Security (191.6183.87), Spring Support (191.6183.87), Spring Web Flow (191.6183.87), Spring Web Services (191.6183.87), Spring WebSocket (191.6183.87), Spy-js (191.6183.87), Struts 1.x (191.6183.87), Struts 2 (191.6183.87), Stylus support (191.6183.87), Subversion (191.6183.87), Tapestry support (191.6183.87), Task Management (191.6183.87), Terminal (191.6183.87), TestNG-J (191.6183.87), Thymeleaf (191.6183.87), Time Tracking (191.6183.87), Tomcat and TomEE Integration (191.6183.87), UI Designer (191.6183.87), UML Support (191.6183.87), Vaadin Support (191.6183.87), Velocity support (191.6183.87), W3C Validators (191.6183.87), WSL Support Framework (191.6183.87), WebLogic Integration (191.6183.87), WebSphere Integration (191.6183.87), XPathView + XSLT Support (191.6183.87), XSLT-Debugger (191.6183.87), YAML (191.6183.87), ZKM-Unscramble (191.6183.87), dmServer Support (191.6183.87), tslint (191.6183.87) 
+2019-03-28 20:08:32,850 [  47050]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.5), BashSupport (1.7.6), Generate Tests (1.0.2), Grep Console (8.6.162.000.5), IdeaVim (0.51), Maven Helper (3.7.172.1454.3), NodeJS (191.6183.20), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (191.6183.20) 
+2019-03-28 20:08:32,850 [  47050]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Lombok Plugin (0.23-2018.3) 
+2019-03-28 20:08:38,330 [  52530]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2019-03-28 20:08:38,779 [  52979]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\gson\.IntelliJIdea2019.1\system\caches\names.dat' does not exist 
+2019-03-28 20:08:38,796 [  52996]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-03-28 20:08:38,939 [  53139]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2019-03-28 20:08:39,074 [  53274]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-03-28 20:08:39,270 [  53470]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:08:41,785 [  55985]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2019-03-28 20:08:41,785 [  55985]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2019-03-28 20:08:43,318 [  57518]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2019-03-28 20:08:43,453 [  57653]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-03-28 20:08:43,518 [  57718]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-03-28 20:08:43,618 [  57818]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-03-28 20:08:43,687 [  57887]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-03-28 20:08:45,139 [  59339]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:1351, number of extensions:83 
+2019-03-28 20:08:45,174 [  59374]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:34 
+2019-03-28 20:08:45,275 [  59475]   INFO - il.indexing.FileBasedIndexImpl - Index FilenameIndex will be built. 
+2019-03-28 20:08:45,773 [  59973]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:581, number of extensions:138 
+2019-03-28 20:08:45,774 [  59974]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2019-03-28 20:08:46,332 [  60532]   INFO - il.indexing.FileBasedIndexImpl - Index filetypes will be built. 
+2019-03-28 20:08:46,437 [  60637]   INFO - il.indexing.FileBasedIndexImpl - Index java.auto.module.name will be built. 
+2019-03-28 20:08:46,468 [  60668]   INFO - il.indexing.FileBasedIndexImpl - Index GroovyDslFileIndex will be built. 
+2019-03-28 20:08:48,077 [  62277]   INFO - il.indexing.FileBasedIndexImpl - Index FrameworkDetectionIndex will be built. 
+2019-03-28 20:08:49,224 [  63424]   INFO - il.indexing.FileBasedIndexImpl - Index TodoIndex will be built. 
+2019-03-28 20:08:50,784 [  64984]   INFO - il.indexing.FileBasedIndexImpl - Index IdIndex will be built. 
+2019-03-28 20:08:52,034 [  66234]   INFO - il.indexing.FileBasedIndexImpl - Index Stubs will be built. 
+2019-03-28 20:08:52,568 [  66768]   INFO - plication.impl.ApplicationImpl - 96 application components initialized in 21792ms 
+2019-03-28 20:08:52,671 [  66871]   INFO - .intellij.idea.IdeaApplication - App initialization took 77448 ms 
+2019-03-28 20:08:53,796 [  67996]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-03-28 20:08:54,704 [  68904]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:spring.binders,Angular2Html,kotlin_builtins,JSP,JavaScript,KJSM,Markdown,ECMAScript 6,SQL,Angular Metadata JSON,XML,ActionScript,TypeScript,spring.factories,Stylus,Sass,Groovy,KNM,CoffeeScript,FTL,Bash,Vue.js,Properties,JAVA,CFML,HTML,CLASS,Less,JSX Harmony,Flow,DGM File Type,TypeScript JSX,SCSS,Kotlin,AspectJ,SWF,Literate CoffeeScript,CSS 
+2019-03-28 20:08:56,686 [  70886]   INFO - il.indexing.FileBasedIndexImpl - Index Trigram.Index will be built. 
+2019-03-28 20:08:56,741 [  70941]   INFO - il.indexing.FileBasedIndexImpl - Index fileIncludes will be built. 
+2019-03-28 20:08:56,956 [  71156]   INFO - il.indexing.FileBasedIndexImpl - Index DomFileIndex will be built. 
+2019-03-28 20:08:57,010 [  71210]   INFO - il.indexing.FileBasedIndexImpl - Index RelaxSymbolIndex will be built. 
+2019-03-28 20:08:57,047 [  71247]   INFO - il.indexing.FileBasedIndexImpl - Index XmlTagNames will be built. 
+2019-03-28 20:08:57,085 [  71285]   INFO - il.indexing.FileBasedIndexImpl - Index XmlNamespaces will be built. 
+2019-03-28 20:08:57,120 [  71320]   INFO - il.indexing.FileBasedIndexImpl - Index html5.custom.attributes.index will be built. 
+2019-03-28 20:08:57,161 [  71361]   INFO - il.indexing.FileBasedIndexImpl - Index SchemaTypeInheritance will be built. 
+2019-03-28 20:08:57,186 [  71386]   INFO - il.indexing.FileBasedIndexImpl - Index json.file.root.values will be built. 
+2019-03-28 20:08:57,229 [  71429]   INFO - il.indexing.FileBasedIndexImpl - Index ImageFileInfoIndex will be built. 
+2019-03-28 20:08:57,253 [  71453]   INFO - il.indexing.FileBasedIndexImpl - Index bytecodeAnalysis will be built. 
+2019-03-28 20:08:57,287 [  71487]   INFO - il.indexing.FileBasedIndexImpl - Index java.null.method.argument will be built. 
+2019-03-28 20:08:57,315 [  71515]   INFO - il.indexing.FileBasedIndexImpl - Index java.simple.property will be built. 
+2019-03-28 20:08:57,336 [  71536]   INFO - il.indexing.FileBasedIndexImpl - Index java.fun.expression will be built. 
+2019-03-28 20:08:57,382 [  71582]   INFO - il.indexing.FileBasedIndexImpl - Index java.binary.plus.expression will be built. 
+2019-03-28 20:08:57,402 [  71602]   INFO - il.indexing.FileBasedIndexImpl - Index jvm.hierarchy will be built. 
+2019-03-28 20:08:57,419 [  71619]   INFO - il.indexing.FileBasedIndexImpl - Index RefQueueIndex will be built. 
+2019-03-28 20:08:57,533 [  71733]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 535 ms 
+2019-03-28 20:08:57,895 [  72095]   INFO - il.indexing.FileBasedIndexImpl - Index HashFragmentIndex will be built. 
+2019-03-28 20:08:57,982 [  72182]   INFO - il.indexing.FileBasedIndexImpl - Index HtmlTagIdIndex will be built. 
+2019-03-28 20:08:58,031 [  72231]   INFO - il.indexing.FileBasedIndexImpl - Index XsltSymbolIndex will be built. 
+2019-03-28 20:08:58,116 [  72316]   INFO - il.indexing.FileBasedIndexImpl - Index CssIndex will be built. 
+2019-03-28 20:08:58,140 [  72340]   INFO - il.indexing.FileBasedIndexImpl - Index css.template.selectors will be built. 
+2019-03-28 20:08:58,154 [  72354]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:08:58,158 [  72358]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:08:58,160 [  72360]   INFO - il.indexing.FileBasedIndexImpl - Index xmlProperties will be built. 
+2019-03-28 20:08:58,182 [  72382]   INFO - il.indexing.FileBasedIndexImpl - Index ant-imports will be built. 
+2019-03-28 20:08:58,208 [  72408]   INFO - il.indexing.FileBasedIndexImpl - Index FormClassIndex will be built. 
+2019-03-28 20:08:58,244 [  72444]   INFO - il.indexing.FileBasedIndexImpl - Index VtlFileIndex will be built. 
+2019-03-28 20:08:58,267 [  72467]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:08:58,272 [  72472]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:08:58,276 [  72476]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:08:58,279 [  72479]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:08:58,286 [  72486]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:08:58,303 [  72503]   INFO - j.ide.ui.OptionsTopHitProvider - 14881 ms spent to cache options in application 
+2019-03-28 20:08:58,303 [  72503]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 14881 ms 
+2019-03-28 20:08:58,317 [  72517]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:08:58,332 [  72532]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:08:58,338 [  72538]   INFO - il.indexing.FileBasedIndexImpl - Index java.cucumber.java8.step will be built. 
+2019-03-28 20:08:58,358 [  72558]   INFO - il.indexing.FileBasedIndexImpl - Index IgnoreFilesIndex will be built. 
+2019-03-28 20:08:58,375 [  72575]   INFO - il.indexing.FileBasedIndexImpl - Index editorconfig.index.name will be built. 
+2019-03-28 20:08:58,721 [  72921]   INFO - il.indexing.FileBasedIndexImpl - Index sql.types.count.index will be built. 
+2019-03-28 20:08:59,150 [  73350]   INFO - il.indexing.FileBasedIndexImpl - Index sql.routine.index will be built. 
+2019-03-28 20:08:59,377 [  73577]   INFO - il.indexing.FileBasedIndexImpl - Index groovy.trait.fields will be built. 
+2019-03-28 20:08:59,540 [  73740]   INFO - il.indexing.FileBasedIndexImpl - Index groovy.trait.methods will be built. 
+2019-03-28 20:08:59,632 [  73832]   INFO - il.indexing.FileBasedIndexImpl - Index aj.declarations will be built. 
+2019-03-28 20:08:59,699 [  73899]   INFO - il.indexing.FileBasedIndexImpl - Index IdeaPluginRegistrationIndex will be built. 
+2019-03-28 20:08:59,790 [  73990]   INFO - il.indexing.FileBasedIndexImpl - Index drools.declareStatementFileIndex will be built. 
+2019-03-28 20:08:59,843 [  74043]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-03-28 20:08:59,923 [  74123]   INFO - il.indexing.FileBasedIndexImpl - Index taglibUris will be built. 
+2019-03-28 20:09:00,152 [  74352]   INFO - il.indexing.FileBasedIndexImpl - Index JavaFxControllerClassIndex will be built. 
+2019-03-28 20:09:00,216 [  74416]   INFO - il.indexing.FileBasedIndexImpl - Index javafx.id.name will be built. 
+2019-03-28 20:09:00,309 [  74509]   INFO - il.indexing.FileBasedIndexImpl - Index javafx.custom.component will be built. 
+2019-03-28 20:09:00,766 [  74966]   INFO - il.indexing.FileBasedIndexImpl - Index javafx.stylesheets.name will be built. 
+2019-03-28 20:09:00,889 [  75089]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:09:00,890 [  75090]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:09:01,109 [  75309]   INFO - il.indexing.FileBasedIndexImpl - Index CompassFunctionsIndex will be built. 
+2019-03-28 20:09:01,257 [  75457]   INFO - il.indexing.FileBasedIndexImpl - Index js.test.names will be built. 
+2019-03-28 20:09:01,333 [  75533]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2019-03-28 20:09:01,800 [  76000]   INFO - il.indexing.FileBasedIndexImpl - Index js.package.index will be built. 
+2019-03-28 20:09:02,043 [  76243]   INFO - il.indexing.FileBasedIndexImpl - Index js.custom.single.entry.index will be built. 
+2019-03-28 20:09:02,127 [  76327]   INFO - il.indexing.FileBasedIndexImpl - Index js.implicit.elements.index will be built. 
+2019-03-28 20:09:02,234 [  76434]   INFO - il.indexing.FileBasedIndexImpl - Index angularjs.template.cache will be built. 
+2019-03-28 20:09:02,425 [  76625]   INFO - il.indexing.FileBasedIndexImpl - Index angularjs.ui.router.views.index will be built. 
+2019-03-28 20:09:02,485 [  76685]   INFO - il.indexing.FileBasedIndexImpl - Index angularjs.app.index will be built. 
+2019-03-28 20:09:02,681 [  76881]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex will be built. 
+2019-03-28 20:09:02,915 [  77115]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex will be built. 
+2019-03-28 20:09:03,253 [  77453]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex will be built. 
+2019-03-28 20:09:03,683 [  77883]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex will be built. 
+2019-03-28 20:09:03,717 [  77917]   INFO - dea.updater.SdkComponentSource - File C:\Users\gson\.android\repositories.cfg could not be loaded. 
+2019-03-28 20:09:03,747 [  77947]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2019-03-28 20:09:03,751 [  77951]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2019-03-28 20:09:03,757 [  77957]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2019-03-28 20:09:03,757 [  77957]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2019-03-28 20:09:03,758 [  77958]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2019-03-28 20:09:03,762 [  77962]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2019-03-28 20:09:03,769 [  77969]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2019-03-28 20:09:03,769 [  77969]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2019-03-28 20:09:03,773 [  77973]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2019-03-28 20:09:03,779 [  77979]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2019-03-28 20:09:03,992 [  78192]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex will be built. 
+2019-03-28 20:09:04,256 [  78456]   INFO - ellij.project.impl.ProjectImpl - 203 project components initialized in 8347 ms 
+2019-03-28 20:09:04,506 [  78706]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex will be built. 
+2019-03-28 20:09:05,497 [  79697]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex will be built. 
+2019-03-28 20:09:06,057 [  80257]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex will be built. 
+2019-03-28 20:09:06,289 [  80489]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex will be built. 
+2019-03-28 20:09:06,569 [  80769]   INFO - il.indexing.FileBasedIndexImpl - Index org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex will be built. 
+2019-03-28 20:09:06,664 [  80864]   INFO - il.indexing.FileBasedIndexImpl - Index FlexXmlBackedSuperClassesIndex will be built. 
+2019-03-28 20:09:07,000 [  81200]   INFO - il.indexing.FileBasedIndexImpl - Index FlexXmlBackedImplementedInterfacesIndex will be built. 
+2019-03-28 20:09:07,137 [  81337]   INFO - il.indexing.FileBasedIndexImpl - Index FlexXmlBackedMembersIndex will be built. 
+2019-03-28 20:09:07,436 [  81636]   INFO - il.indexing.FileBasedIndexImpl - Index js.style.index will be built. 
+2019-03-28 20:09:07,586 [  81786]   INFO - il.indexing.FileBasedIndexImpl - Index SpringXmlBeansIndex will be built. 
+2019-03-28 20:09:08,083 [  82283]   INFO - il.indexing.FileBasedIndexImpl - Index spring.spiFileIndex will be built. 
+2019-03-28 20:09:08,242 [  82442]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 3976 ms 
+2019-03-28 20:09:08,471 [  82671]   INFO - il.indexing.FileBasedIndexImpl - Index FileBasedWSIndex will be built. 
+2019-03-28 20:09:09,092 [  83292]   INFO - il.indexing.FileBasedIndexImpl - Index FtlFileIndex will be built. 
+2019-03-28 20:09:09,179 [  83379]   INFO - il.indexing.FileBasedIndexImpl - Index GwtHtmlFile will be built. 
+2019-03-28 20:09:09,998 [  84198]   INFO - il.indexing.FileBasedIndexImpl - Index GwtXmlFile will be built. 
+2019-03-28 20:09:10,222 [  84422]   INFO - il.indexing.FileBasedIndexImpl - Index GwtXmlFileSuperSource will be built. 
+2019-03-28 20:09:10,316 [  84516]   INFO - il.indexing.FileBasedIndexImpl - Index http.request.execution.environment will be built. 
+2019-03-28 20:09:10,388 [  84588]   INFO - il.indexing.FileBasedIndexImpl - Index GspIncludeIndex will be built. 
+2019-03-28 20:09:10,452 [  84652]   INFO - il.indexing.FileBasedIndexImpl - Index yaml.keys.name will be built. 
+2019-03-28 20:09:10,536 [  84736]   INFO - il.indexing.FileBasedIndexImpl - Index docker.compose.services will be built. 
+2019-03-28 20:09:10,750 [  84950]   INFO - il.indexing.FileBasedIndexImpl - Index spring.autoConfigureMetadataIndex will be built. 
+2019-03-28 20:09:10,987 [  85187]   INFO - pl$FileIndexDataInitialization - Initialization done:25811 
+2019-03-28 20:09:11,112 [  85312]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index dom.namespaceKey will be built. 
+2019-03-28 20:09:11,485 [  85685]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index dom.elementClass will be built. 
+2019-03-28 20:09:11,538 [  85738]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.module.name will be built. 
+2019-03-28 20:09:11,584 [  85784]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.method.parameter.types will be built. 
+2019-03-28 20:09:11,619 [  85819]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.class.extlist will be built. 
+2019-03-28 20:09:11,646 [  85846]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.class.shortname will be built. 
+2019-03-28 20:09:11,669 [  85869]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index jvm.static.member.type will be built. 
+2019-03-28 20:09:11,713 [  85913]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index jvm.static.member.name will be built. 
+2019-03-28 20:09:11,754 [  85954]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.method.name will be built. 
+2019-03-28 20:09:11,820 [  86020]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.class.fqn will be built. 
+2019-03-28 20:09:11,855 [  86055]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.field.name will be built. 
+2019-03-28 20:09:11,898 [  86098]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.anonymous.baseref will be built. 
+2019-03-28 20:09:11,926 [  86126]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.annotations will be built. 
+2019-03-28 20:09:11,957 [  86157]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Css.ampersand.selector will be built. 
+2019-03-28 20:09:12,007 [  86207]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Css.class will be built. 
+2019-03-28 20:09:12,028 [  86228]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Css.id will be built. 
+2019-03-28 20:09:12,059 [  86259]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Css.attr will be built. 
+2019-03-28 20:09:12,121 [  86321]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Css.custom.property will be built. 
+2019-03-28 20:09:12,153 [  86353]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Css.custom.mixin will be built. 
+2019-03-28 20:09:12,177 [  86377]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index properties.index will be built. 
+2019-03-28 20:09:12,232 [  86432]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index sql.table.shortName will be built. 
+2019-03-28 20:09:12,350 [  86550]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index sql.column.name will be built. 
+2019-03-28 20:09:12,613 [  86813]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index sql.names will be built. 
+2019-03-28 20:09:12,690 [  86890]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index cfml.component.shortName will be built. 
+2019-03-28 20:09:12,721 [  86921]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index cfml.inheritors.shortName will be built. 
+2019-03-28 20:09:12,806 [  87006]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index cfml.interface.shortName will be built. 
+2019-03-28 20:09:12,918 [  87118]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.class.fqn will be built. 
+2019-03-28 20:09:12,951 [  87151]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.script.fqn will be built. 
+2019-03-28 20:09:12,999 [  87199]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.field.name will be built. 
+2019-03-28 20:09:13,058 [  87258]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.method.name will be built. 
+2019-03-28 20:09:13,099 [  87299]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.annot.method.name will be built. 
+2019-03-28 20:09:13,122 [  87322]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.annot.members will be built. 
+2019-03-28 20:09:13,140 [  87340]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.script.class will be built. 
+2019-03-28 20:09:13,166 [  87366]  ERROR - etbrains.android.AndroidPlugin - Unable to get current time from Google's servers 
+java.net.ConnectException: Connection timed out: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:666)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:162)
+	at com.android.tools.analytics.WebServerDateProvider.readDateHeaderWithHeadRequest(WebServerDateProvider.kt:52)
+	at com.android.tools.analytics.WebServerDateProvider.updateServerTimestampWithHeadRequest(WebServerDateProvider.kt:57)
+	at com.android.tools.analytics.WebServerDateProvider.<init>(WebServerDateProvider.kt:41)
+	at com.android.tools.analytics.AnalyticsSettings$initialize$2.run(AnalyticsSettings.kt:215)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-28 20:09:13,177 [  87377]  ERROR - etbrains.android.AndroidPlugin - IntelliJ IDEA 2019.1  Build #IU-191.6183.87 
+2019-03-28 20:09:13,177 [  87377]  ERROR - etbrains.android.AndroidPlugin - JDK: 1.8.0_202-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2019-03-28 20:09:13,177 [  87377]  ERROR - etbrains.android.AndroidPlugin - OS: Windows 10 
+2019-03-28 20:09:13,221 [  87421]  ERROR - etbrains.android.AndroidPlugin - Last Action:  
+2019-03-28 20:09:13,262 [  87462]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.class.super will be built. 
+2019-03-28 20:09:13,309 [  87509]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index gr.anonymous.class will be built. 
+2019-03-28 20:09:13,370 [  87570]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index markdown.header will be built. 
+2019-03-28 20:09:13,493 [  87693]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index aj.itd.field will be built. 
+2019-03-28 20:09:13,532 [  87732]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index aj.itd.method will be built. 
+2019-03-28 20:09:13,580 [  87780]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index aj.itd.class will be built. 
+2019-03-28 20:09:13,604 [  87804]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index aj.class.short.name will be built. 
+2019-03-28 20:09:13,620 [  87820]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Less.mixins will be built. 
+2019-03-28 20:09:13,636 [  87836]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Less.variables will be built. 
+2019-03-28 20:09:13,652 [  87852]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Scss.variable will be built. 
+2019-03-28 20:09:13,679 [  87879]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Scss.placeholder.selector will be built. 
+2019-03-28 20:09:13,709 [  87909]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Scss.function will be built. 
+2019-03-28 20:09:13,747 [  87947]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Scss.mixin will be built. 
+2019-03-28 20:09:13,764 [  87964]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Stylus.variables will be built. 
+2019-03-28 20:09:13,786 [  87986]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index Stylus.mixins will be built. 
+2019-03-28 20:09:13,803 [  88003]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.function.name will be built. 
+2019-03-28 20:09:13,852 [  88052]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.script.name will be built. 
+2019-03-28 20:09:13,901 [  88101]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.included will be built. 
+2019-03-28 20:09:13,919 [  88119]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.includers will be built. 
+2019-03-28 20:09:13,940 [  88140]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.scriptCommandReference will be built. 
+2019-03-28 20:09:13,959 [  88159]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.vardef will be built. 
+2019-03-28 20:09:13,976 [  88176]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index bash.var will be built. 
+2019-03-28 20:09:14,005 [  88205]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.qualified.shortName will be built. 
+2019-03-28 20:09:14,024 [  88224]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.element.qualifiedName will be built. 
+2019-03-28 20:09:14,053 [  88253]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index JS.global.qualified.elements will be built. 
+2019-03-28 20:09:14,074 [  88274]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index ts.external.module.index will be built. 
+2019-03-28 20:09:14,090 [  88290]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index JS.class.super will be built. 
+2019-03-28 20:09:14,120 [  88320]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index JS.class.implements will be built. 
+2019-03-28 20:09:14,140 [  88340]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index JS.custom.stub.index will be built. 
+2019-03-28 20:09:14,158 [  88358]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.symbol.index2 will be built. 
+2019-03-28 20:09:14,175 [  88375]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.typedef.index2 will be built. 
+2019-03-28 20:09:14,195 [  88395]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.generics.index will be built. 
+2019-03-28 20:09:14,239 [  88439]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index JS.base.types.index will be built. 
+2019-03-28 20:09:14,298 [  88498]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.class.index2 will be built. 
+2019-03-28 20:09:14,314 [  88514]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.namespace.index will be built. 
+2019-03-28 20:09:14,337 [  88537]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.namespace.including.local.members.index will be built. 
+2019-03-28 20:09:14,352 [  88552]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index JS.subclass.stub.index will be built. 
+2019-03-28 20:09:14,365 [  88565]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.symbol.qualified.names.index will be built. 
+2019-03-28 20:09:14,380 [  88580]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index amd.baseUrl.index will be built. 
+2019-03-28 20:09:14,393 [  88593]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index amd.requirePaths.index will be built. 
+2019-03-28 20:09:14,408 [  88608]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.global.symbol.index will be built. 
+2019-03-28 20:09:14,421 [  88621]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.exported.index will be built. 
+2019-03-28 20:09:14,437 [  88637]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index es6.exported.index will be built. 
+2019-03-28 20:09:14,450 [  88650]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index es6.assignment.index will be built. 
+2019-03-28 20:09:14,462 [  88662]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index ts.local.classes will be built. 
+2019-03-28 20:09:14,478 [  88678]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index ts.embedded.content.index will be built. 
+2019-03-28 20:09:14,494 [  88694]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.nonglobal.symbol.index will be built. 
+2019-03-28 20:09:14,507 [  88707]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.gcl.modules will be built. 
+2019-03-28 20:09:14,527 [  88727]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.doc.modules will be built. 
+2019-03-28 20:09:14,563 [  88763]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index js.amd.modules will be built. 
+2019-03-28 20:09:14,583 [  88783]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.directives.index will be built. 
+2019-03-28 20:09:14,597 [  88797]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.directives.doc.index will be built. 
+2019-03-28 20:09:14,614 [  88814]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.controller.index will be built. 
+2019-03-28 20:09:14,634 [  88834]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.module.index will be built. 
+2019-03-28 20:09:14,653 [  88853]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.filter.index will be built. 
+2019-03-28 20:09:14,669 [  88869]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.symbol.index will be built. 
+2019-03-28 20:09:14,683 [  88883]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.ui.router.states.index will be built. 
+2019-03-28 20:09:14,698 [  88898]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.ui.router.generic.states.index will be built. 
+2019-03-28 20:09:14,710 [  88910]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.templateUrl.index will be built. 
+2019-03-28 20:09:14,724 [  88924]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.generic.modules.index will be built. 
+2019-03-28 20:09:14,741 [  88941]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angularjs.delimiter.index will be built. 
+2019-03-28 20:09:14,756 [  88956]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.templateUrl.index will be built. 
+2019-03-28 20:09:14,774 [  88974]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.source.pipe.index will be built. 
+2019-03-28 20:09:14,788 [  88988]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.source.directive.index will be built. 
+2019-03-28 20:09:14,802 [  89002]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.source.module.index will be built. 
+2019-03-28 20:09:14,814 [  89014]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.metadata.pipe.index will be built. 
+2019-03-28 20:09:14,828 [  89028]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.metadata.entityClassName.index will be built. 
+2019-03-28 20:09:14,842 [  89042]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.metadata.directive.index will be built. 
+2019-03-28 20:09:14,856 [  89056]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.metadata.node.index will be built. 
+2019-03-28 20:09:14,871 [  89071]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.metadata.function.index will be built. 
+2019-03-28 20:09:14,889 [  89089]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index angular2.metadata.module.index will be built. 
+2019-03-28 20:09:14,907 [  89107]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex will be built. 
+2019-03-28 20:09:14,917 [  89117]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 16612 ms 
+2019-03-28 20:09:14,935 [  89135]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex will be built. 
+2019-03-28 20:09:14,987 [  89187]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex will be built. 
+2019-03-28 20:09:15,009 [  89209]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex will be built. 
+2019-03-28 20:09:15,140 [  89340]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex will be built. 
+2019-03-28 20:09:15,254 [  89454]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex will be built. 
+2019-03-28 20:09:15,757 [  89957]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex will be built. 
+2019-03-28 20:09:15,901 [  90101]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex will be built. 
+2019-03-28 20:09:15,938 [  90138]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex will be built. 
+2019-03-28 20:09:15,957 [  90157]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex will be built. 
+2019-03-28 20:09:15,980 [  90180]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex will be built. 
+2019-03-28 20:09:16,178 [  90378]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex will be built. 
+2019-03-28 20:09:16,233 [  90433]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex will be built. 
+2019-03-28 20:09:16,271 [  90471]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex will be built. 
+2019-03-28 20:09:16,361 [  90561]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex will be built. 
+2019-03-28 20:09:16,404 [  90604]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex will be built. 
+2019-03-28 20:09:16,477 [  90677]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex will be built. 
+2019-03-28 20:09:16,783 [  90983]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex will be built. 
+2019-03-28 20:09:16,960 [  91160]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex will be built. 
+2019-03-28 20:09:17,039 [  91239]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex will be built. 
+2019-03-28 20:09:17,117 [  91317]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex will be built. 
+2019-03-28 20:09:17,490 [  91690]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex will be built. 
+2019-03-28 20:09:17,719 [  91919]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex will be built. 
+2019-03-28 20:09:17,801 [  92001]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex will be built. 
+2019-03-28 20:09:17,864 [  92064]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex will be built. 
+2019-03-28 20:09:17,952 [  92152]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex will be built. 
+2019-03-28 20:09:18,144 [  92344]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex will be built. 
+2019-03-28 20:09:18,229 [  92429]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vue.components.index will be built. 
+2019-03-28 20:09:18,373 [  92573]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vue.options.index will be built. 
+2019-03-28 20:09:18,504 [  92704]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vue.mixin.binding.index will be built. 
+2019-03-28 20:09:18,640 [  92840]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vue.extends.binding.index will be built. 
+2019-03-28 20:09:18,692 [  92892]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vue.global.directives.index will be built. 
+2019-03-28 20:09:18,897 [  93097]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vue.local.directives.index will be built. 
+2019-03-28 20:09:18,950 [  93150]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index vuex.store.index will be built. 
+2019-03-28 20:09:19,045 [  93245]   INFO - exImpl$StubIndexInitialization - Initialization done:8058 
+2019-03-28 20:09:25,764 [  99964]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 10846 ms 
+2019-03-28 20:09:30,076 [ 104276]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 4312 ms 
+2019-03-28 20:09:30,092 [ 104292]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 14 ms 
+2019-03-28 20:09:42,587 [ 116787]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 12494 ms 
+2019-03-28 20:10:21,941 [ 156141]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID 
+2019-03-28 20:10:21,946 [ 156146]   INFO - eventLog.EventLogConfiguration - Generating salt for the device 
+2019-03-28 20:10:22,067 [ 156267]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-03-28 20:10:22,264 [ 156464]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-03-28 20:10:22,721 [ 156921]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-03-28 20:10:25,737 [ 159937]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-03-28 20:10:27,273 [ 161473]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 131 ms 
+2019-03-28 20:10:27,355 [ 161555]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 519ms under project opening modal progress 
+2019-03-28 20:10:28,254 [ 162454]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1674ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-03-28 20:10:33,177 [ 167377]   INFO - .TypeScriptLibraryProviderImpl - Start refreshing typescript libraries 
+2019-03-28 20:10:36,766 [ 170966]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 9387ms under project opening modal progress 
+2019-03-28 20:10:37,714 [ 171914]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 76 millis 
+2019-03-28 20:10:37,722 [ 171922]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 808ms under project opening modal progress 
+2019-03-28 20:10:38,229 [ 172429]   INFO - tartup.impl.StartupManagerImpl - ReprocessContentRootDataActivity run in 506ms under project opening modal progress 
+2019-03-28 20:10:38,967 [ 173167]   INFO - tartup.impl.StartupManagerImpl - CleanStaleModuleOutputsActivity run in 642ms under project opening modal progress 
+2019-03-28 20:10:39,124 [ 173324]   INFO - tartup.impl.StartupManagerImpl - DatabaseConfigFileWatcher run in 118ms under project opening modal progress 
+2019-03-28 20:10:39,191 [ 173391]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2019-03-28 20:10:39,193 [ 173393]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2019-03-28 20:10:39,194 [ 173394]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2019-03-28 20:10:39,287 [ 173487]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 12994ms; general responsiveness: 1/13 sluggish; EDT responsiveness: 2/13 sluggish, 1/13 very slow 
+2019-03-28 20:10:39,310 [ 173510]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-03-28 20:10:39,951 [ 174151]   INFO - j.ide.ui.OptionsTopHitProvider - 613 ms spent on EDT to cache options in application 
+2019-03-28 20:10:40,480 [ 174680]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 16 ms, GrepConsole took 13 ms 
+2019-03-28 20:10:40,835 [ 175035]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoExternalProjectsManager took 21 ms, ProjectView took 11 ms, RunManager took 29 ms, XDebuggerManager took 26 ms, libraryTable took 25 ms 
+2019-03-28 20:10:41,471 [ 175671]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2019-03-28 20:10:42,246 [ 176446]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-03-28 20:10:42,246 [ 176446]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-03-28 20:10:42,246 [ 176446]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-03-28 20:10:42,457 [ 176657]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-03-28 20:10:42,465 [ 176665]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:10:42,602 [ 176802]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 5 auto-detected files
+Elapsed time on auto-detect: 200 ms 
+2019-03-28 20:10:42,637 [ 176837]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-03-28 20:10:45,781 [ 179981]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-03-28 20:10:45,814 [ 180014]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-03-28 20:10:45,820 [ 180020]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-03-28 20:10:45,825 [ 180025]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:14:09,149 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-03-28 20:14:09,324 [    175]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-191.6183.87, 27 Mar 2019 13:38) 
+2019-03-28 20:14:09,325 [    176]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-03-28 20:14:09,325 [    176]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2019-03-28 20:14:09,325 [    176]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2019-03-28 20:14:09,331 [    182]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsIdesCrack-4.2-release.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2019.1 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2019-03-28 20:14:09,332 [    183]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2019-03-28 20:14:09,333 [    184]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2019-03-28 20:14:09,407 [    258]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 73 ms 
+2019-03-28 20:14:09,411 [    262]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-03-28 20:14:10,120 [    971]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-03-28 20:14:15,729 [   6580]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 2897 ms 
+2019-03-28 20:14:15,958 [   6809]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-03-28 20:22:10,762 [ 481613]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-03-28 20:22:10,787 [ 481638]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:22:35,326 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-03-28 20:22:35,565 [    239]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-191.6183.87, 27 Mar 2019 13:38) 
+2019-03-28 20:22:35,566 [    240]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-03-28 20:22:35,566 [    240]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2019-03-28 20:22:35,566 [    240]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2019-03-28 20:22:35,572 [    246]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsIdesCrack-4.2-release.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2019.1 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2019-03-28 20:22:35,573 [    247]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2019-03-28 20:22:35,573 [    247]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2019-03-28 20:22:35,693 [    367]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 119 ms 
+2019-03-28 20:22:35,699 [    373]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-03-28 20:22:36,693 [   1367]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-03-28 20:22:42,852 [   7526]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 3917 ms 
+2019-03-28 20:22:43,265 [   7939]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-03-28 20:23:29,118 [  53792]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@4cb68d61[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@5fa757b 
+2019-03-28 20:23:31,115 [  55789]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1516 ms 
+2019-03-28 20:23:31,153 [  55827]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:23:31,154 [  55828]   INFO - llij.ide.plugins.PluginManager - Plugin 'Lombok Plugin' can't be loaded because: Plugin since-build(183.4284) or until-build(183.*) don't match this product's build number(IU-191.6183.87). 
+2019-03-28 20:23:31,796 [  56470]   INFO - llij.ide.plugins.PluginManager - 145 plugins initialized in 2198 ms 
+2019-03-28 20:23:31,797 [  56471]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.6183.87), Android Support (10.3.3), AngularJS (191.6183.87), Ant Support (191.6183.87), Application Servers View (191.6183.87), AspectJ Support (191.6183.87), Bytecode Viewer (191.6183.87), CFML Support (191.6183.87), CSS Support (191.6183.87), Cloud Foundry integration (191.6183.87), CloudBees integration (191.6183.87), CoffeeScript (191.6183.87), Copyright (191.6183.87), Coverage (191.6183.87), Cucumber for Groovy (191.6183.87), Cucumber for Java (191.6183.87), DSM Analysis (191.6183.87), Database Tools and SQL (191.6183.87), Docker integration (191.6183.87), Eclipse Integration (191.6183.87), EditorConfig (191.6183.87), Emma (191.6183.87), Flash/Flex Support (191.6183.87), FreeMarker support (191.6183.87), GWT Support (191.6183.87), Geronimo Integration (191.6183.87), Gherkin (191.6183.87), Git Integration (191.6183.87), GitHub (191.6183.87), GlassFish Integration (191.6183.87), Google App Engine (191.6183.87), Gradle (191.6183.87), Grails (191.6183.87), Groovy (191.6183.87), Guice (191.6183.87), HTML Tools (191.6183.87), HTTP Client (191.6183.87), Haml (191.6183.87), Heroku integration (191.6183.87), Hibernate Support (191.6183.87), I18n for Java (191.6183.87), IDE Settings Sync (191.6183.87), IDEA CORE (191.6183.87), IntelliJ Configuration Script (191.6183.87), IntelliLang (191.6183.87), J2ME (191.6183.87), JBoss Arquillian Support (191.6183.87), JBoss Drools Support (191.6183.87), JBoss Frameworks Base Support (191.6183.87), JBoss Integration (191.6183.87), JBoss Seam Pageflow Support (191.6183.87), JBoss Seam Pages Support (191.6183.87), JBoss Seam Support (191.6183.87), JBoss jBPM (191.6183.87), JSR45 Integration (1.0), JUnit (191.6183.87), Java Bytecode Decompiler (191.6183.87), Java EE: Batch Applications (191.6183.87), Java EE: Bean Validation Support (191.6183.87), Java EE: Contexts and Dependency Injection (191.6183.87), Java EE: EJB, JPA, Servlets (191.6183.87), Java EE: JMS, JSON Processing, Concurrency, Transaction  (191.6183.87), Java EE: Java Server Faces (191.6183.87), Java EE: RESTful Web Services (JAX-RS) (191.6183.87), Java EE: Web Services (JAX-WS) (191.6183.87), Java EE: WebSockets (191.6183.87), Java Server Pages (JSP) Integration (191.6183.87), Java Stream Debugger (191.6183.87), JavaFX (191.6183.87), JavaScript Debugger (191.6183.87), JavaScript Intention Power Pack (191.6183.87), JavaScript Support (191.6183.87), Jetty Integration (191.6183.87), Kotlin (1.3.21-release-IJ2019.1-2), Less support (191.6183.87), Markdown support (191.6183.87), Maven Integration (191.6183.87), Maven Integration Extension (191.6183.87), Mercurial Integration (191.6183.87), OpenShift integration (191.6183.87), Osmorc (191.6183.87), Perforce Integration (191.6183.87), Performance Testing (191.6183.87), Persistence Frameworks Support (191.6183.87), Playframework Support (191.6183.87), Plugin DevKit (191.6183.87), Properties Support (191.6183.87), Reactor framework support (191.6183.87), Refactor-X (191.6183.87), Remote Hosts Access (191.6183.87), Resin Integration (191.6183.87), SSH Remote Run (191.6183.87), Sass support (191.6183.87), Settings Repository (191.6183.87), Smali Support (191.6183.87), Spring AOP/@AspectJ (191.6183.87), Spring Batch (191.6183.87), Spring Boot (191.6183.87), Spring Data (191.6183.87), Spring Integration Patterns (191.6183.87), Spring MVC (191.6183.87), Spring OSGi (191.6183.87), Spring Security (191.6183.87), Spring Support (191.6183.87), Spring Web Flow (191.6183.87), Spring Web Services (191.6183.87), Spring WebSocket (191.6183.87), Spy-js (191.6183.87), Struts 1.x (191.6183.87), Struts 2 (191.6183.87), Stylus support (191.6183.87), Subversion (191.6183.87), Tapestry support (191.6183.87), Task Management (191.6183.87), Terminal (191.6183.87), TestNG-J (191.6183.87), Thymeleaf (191.6183.87), Time Tracking (191.6183.87), Tomcat and TomEE Integration (191.6183.87), UI Designer (191.6183.87), UML Support (191.6183.87), Vaadin Support (191.6183.87), Velocity support (191.6183.87), W3C Validators (191.6183.87), WSL Support Framework (191.6183.87), WebLogic Integration (191.6183.87), WebSphere Integration (191.6183.87), XPathView + XSLT Support (191.6183.87), XSLT-Debugger (191.6183.87), YAML (191.6183.87), ZKM-Unscramble (191.6183.87), dmServer Support (191.6183.87), tslint (191.6183.87) 
+2019-03-28 20:23:31,799 [  56473]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.5), BashSupport (1.7.6), Generate Tests (1.0.2), Grep Console (8.6.162.000.5), IdeaVim (0.51), Maven Helper (3.7.172.1454.3), NodeJS (191.6183.20), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (191.6183.20) 
+2019-03-28 20:23:31,799 [  56473]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Lombok Plugin (0.23-2018.3) 
+2019-03-28 20:23:35,027 [  59701]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2019-03-28 20:23:35,464 [  60138]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-03-28 20:23:35,614 [  60288]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2019-03-28 20:23:35,838 [  60512]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:23:35,874 [  60548]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:23:36,174 [  60848]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-03-28 20:23:38,297 [  62971]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2019-03-28 20:23:38,493 [  63167]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-03-28 20:23:38,617 [  63291]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-03-28 20:23:38,832 [  63506]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-03-28 20:23:38,885 [  63559]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-03-28 20:23:39,929 [  64603]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:998, number of extensions:83 
+2019-03-28 20:23:39,958 [  64632]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:29 
+2019-03-28 20:23:40,162 [  64836]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:137, number of extensions:138 
+2019-03-28 20:23:40,163 [  64837]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2019-03-28 20:23:43,621 [  68295]   INFO - plication.impl.ApplicationImpl - 96 application components initialized in 14032ms 
+2019-03-28 20:23:43,685 [  68359]   INFO - .intellij.idea.IdeaApplication - App initialization took 79383 ms 
+2019-03-28 20:23:44,784 [  69458]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-03-28 20:23:50,590 [  75264]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:23:50,594 [  75268]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:23:50,675 [  75349]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:23:50,682 [  75356]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:23:50,689 [  75363]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:23:50,692 [  75366]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:23:50,700 [  75374]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:23:50,701 [  75375]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:23:50,702 [  75376]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:23:50,729 [  75403]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 573 ms 
+2019-03-28 20:23:51,015 [  75689]   INFO - pl$FileIndexDataInitialization - Initialization done:11028 
+2019-03-28 20:23:51,501 [  76175]   INFO - j.ide.ui.OptionsTopHitProvider - 13041 ms spent to cache options in application 
+2019-03-28 20:23:51,502 [  76176]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 13040 ms 
+2019-03-28 20:23:51,717 [  76391]   INFO - exImpl$StubIndexInitialization - Initialization done:702 
+2019-03-28 20:23:51,901 [  76575]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-03-28 20:23:53,503 [  78177]   INFO - ellij.project.impl.ProjectImpl - 203 project components initialized in 7938 ms 
+2019-03-28 20:23:54,470 [  79144]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 961 ms 
+2019-03-28 20:23:55,440 [  80114]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-03-28 20:23:55,574 [  80248]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-03-28 20:23:55,936 [  80610]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-03-28 20:23:58,256 [  82930]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-03-28 20:23:59,180 [  83854]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 106 ms 
+2019-03-28 20:23:59,225 [  83899]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 153ms under project opening modal progress 
+2019-03-28 20:23:59,435 [  84109]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 477ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-03-28 20:24:00,057 [  84731]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 8555 ms 
+2019-03-28 20:24:04,025 [  88699]  ERROR - etbrains.android.AndroidPlugin - Unable to get current time from Google's servers 
+java.net.ConnectException: Connection timed out: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:666)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:162)
+	at com.android.tools.analytics.WebServerDateProvider.readDateHeaderWithHeadRequest(WebServerDateProvider.kt:52)
+	at com.android.tools.analytics.WebServerDateProvider.updateServerTimestampWithHeadRequest(WebServerDateProvider.kt:57)
+	at com.android.tools.analytics.WebServerDateProvider.<init>(WebServerDateProvider.kt:41)
+	at com.android.tools.analytics.AnalyticsSettings$initialize$2.run(AnalyticsSettings.kt:215)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-28 20:24:04,031 [  88705]  ERROR - etbrains.android.AndroidPlugin - IntelliJ IDEA 2019.1  Build #IU-191.6183.87 
+2019-03-28 20:24:04,031 [  88705]  ERROR - etbrains.android.AndroidPlugin - JDK: 1.8.0_202-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2019-03-28 20:24:04,031 [  88705]  ERROR - etbrains.android.AndroidPlugin - OS: Windows 10 
+2019-03-28 20:24:04,051 [  88725]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 4814ms under project opening modal progress 
+2019-03-28 20:24:04,058 [  88732]  ERROR - etbrains.android.AndroidPlugin - Last Action:  
+2019-03-28 20:24:06,034 [  90708]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 6 millis 
+2019-03-28 20:24:06,039 [  90713]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 1948ms under project opening modal progress 
+2019-03-28 20:24:06,359 [  91033]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 7607ms; general responsiveness: ok; EDT responsiveness: 2/7 sluggish, 2/7 very slow 
+2019-03-28 20:24:06,499 [  91173]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 6435 ms 
+2019-03-28 20:24:07,540 [  92214]   INFO - j.ide.ui.OptionsTopHitProvider - 673 ms spent on EDT to cache options in application 
+2019-03-28 20:24:08,303 [  92977]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2019-03-28 20:24:08,332 [  93006]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-03-28 20:24:08,571 [  93245]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2019-03-28 20:24:08,738 [  93412]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 23603 ms 
+2019-03-28 20:24:09,923 [  94597]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 3422 ms 
+2019-03-28 20:24:09,939 [  94613]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 14 ms 
+2019-03-28 20:24:10,621 [  95295]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-03-28 20:24:19,726 [ 104400]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 20285ms; general responsiveness: ok; EDT responsiveness: 6/20 sluggish, 2/20 very slow 
+2019-03-28 20:24:19,837 [ 104511]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 83100 files to update 
+2019-03-28 20:24:23,378 [ 108052]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from C:\Users\gson\.IntelliJIdea2019.1\system\index\.persistent\prebuilt\JavaScript\sdk-stubs.input 
+2019-03-28 20:24:27,502 [ 112176]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 17559 ms 
+2019-03-28 20:24:50,459 [ 135133]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings. 
+2019-03-28 20:24:50,459 [ 135133]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:24:50,459 [ 135133]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/IDE/ideaIU-2018.1.4.win/plugins/maven/lib/maven36-server-impl.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:24:50,459 [ 135133]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/Build/maven/apache-maven-3.6.0/lib/maven-slf4j-provider-3.6.0.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:24:50,459 [ 135133]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:24:50,460 [ 135134]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation. 
+2019-03-28 20:24:50,460 [ 135134]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:24:50,478 [ 135152]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory] 
+2019-03-28 20:24:50,478 [ 135152]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:24:50,822 [ 135496]   WARN - gin.utils.ProfilingUtilAdapter - YourKit controller initialization failed : To profile application, you should run it with the profiler agent 
+2019-03-28 20:25:12,087 [ 156761]   INFO - net.ssl.ConfirmingTrustManager - Certificate was accepted by user 
+2019-03-28 20:25:12,209 [ 156883]   INFO - ateSettings.impl.UpdateChecker - java.security.cert.CertificateException: No name matching www.jetbrains.com found 
+javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1639)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:615)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:383)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:392)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:410)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:403)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:171)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:50)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:528)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:504)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:357)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPlatformUpdate(UpdateChecker.kt:168)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.doUpdateAndShowResult(UpdateChecker.kt:119)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:50)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$2.run(UpdateChecker.kt:96)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:731)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:586)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:86)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:311)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.util.HostnameChecker.matchDNS(HostnameChecker.java:231)
+	at sun.security.util.HostnameChecker.match(HostnameChecker.java:96)
+	at sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:455)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkAdditionalTrust(SSLContextImpl.java:1125)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1092)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1621)
+	... 42 more
+2019-03-28 20:25:12,222 [ 156896]   INFO - ateSettings.impl.UpdateChecker - Connection failed (java.security.cert.CertificateException: No name matching www.jetbrains.com found). Please check network connection and try again. 
+2019-03-28 20:25:32,284 [ 176958]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 14 ms, GrepConsole took 11 ms, NodeJsLocalInterpreters took 28 ms 
+2019-03-28 20:25:32,367 [ 177041]   INFO - rationStore.ComponentStoreImpl - Saving default projectCompilerConfiguration took 21 ms 
+2019-03-28 20:25:32,643 [ 177317]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoJsBuildToolPackageJson took 30 ms, PerforceNumberNameSynchronizer took 13 ms, RunManager took 17 ms, XDebuggerManager took 48 ms, libraryTable took 13 ms 
+2019-03-28 20:25:33,847 [ 178521]   WARN -      #org.jetbrains.idea.maven - Failed to update Maven indices for: [local] D:/DevOps/Build/maven/m2.repo 
+org.jetbrains.idea.maven.server.MavenServerIndexerException: Error scanning context Index0-update: null
+	at org.jetbrains.idea.maven.server.Maven3ServerIndexerImpl.updateIndex(Maven3ServerIndexerImpl.java:218)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:573)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:834)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:687)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(StreamRemoteCall.java:283)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(StreamRemoteCall.java:260)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:161)
+	at java.rmi.server.RemoteObjectInvocationHandler.invokeRemoteMethod(RemoteObjectInvocationHandler.java:227)
+	at java.rmi.server.RemoteObjectInvocationHandler.invoke(RemoteObjectInvocationHandler.java:179)
+	at com.sun.proxy.$Proxy140.updateIndex(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.execution.rmi.RemoteUtil.invokeRemote(RemoteUtil.java:175)
+	at com.intellij.execution.rmi.RemoteUtil.access$200(RemoteUtil.java:38)
+	at com.intellij.execution.rmi.RemoteUtil$1$1$1.compute(RemoteUtil.java:156)
+	at com.intellij.openapi.util.ClassLoaderUtil.runWithClassLoader(ClassLoaderUtil.java:66)
+	at com.intellij.execution.rmi.RemoteUtil.executeWithClassLoader(RemoteUtil.java:227)
+	at com.intellij.execution.rmi.RemoteUtil$1$1.invoke(RemoteUtil.java:153)
+	at com.sun.proxy.$Proxy140.updateIndex(Unknown Source)
+	at org.jetbrains.idea.maven.server.MavenIndexerWrapper.lambda$updateIndex$2(MavenIndexerWrapper.java:107)
+	at org.jetbrains.idea.maven.server.RemoteObjectWrapper.performCancelable(RemoteObjectWrapper.java:89)
+	at org.jetbrains.idea.maven.server.MavenIndexerWrapper.updateIndex(MavenIndexerWrapper.java:104)
+	at org.jetbrains.idea.maven.indices.MavenIndex.updateContext(MavenIndex.java:397)
+	at org.jetbrains.idea.maven.indices.MavenIndex.updateOrRepair(MavenIndex.java:352)
+	at org.jetbrains.idea.maven.indices.MavenIndices.updateOrRepair(MavenIndices.java:128)
+	at org.jetbrains.idea.maven.indices.MavenIndicesManager.doUpdateIndices(MavenIndicesManager.java:262)
+	at org.jetbrains.idea.maven.indices.MavenIndicesManager.access$200(MavenIndicesManager.java:37)
+	at org.jetbrains.idea.maven.indices.MavenIndicesManager$3.run(MavenIndicesManager.java:229)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:731)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:586)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:86)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:311)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: Error scanning context Index0-update: null
+	at org.sonatype.nexus.index.DefaultNexusIndexer.scan(DefaultNexusIndexer.java:277)
+	at org.jetbrains.idea.maven.server.Maven3ServerIndexerImpl.updateIndex(Maven3ServerIndexerImpl.java:151)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:573)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:834)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:687)
+	... 3 more
+2019-03-28 20:25:33,893 [ 178567]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-03-28 20:25:33,905 [ 178579]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-03-28 20:25:33,933 [ 178607]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 9845/Maven3ServerImpld6da7bdf 
+2019-03-28 20:25:34,846 [ 179520]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-03-28 20:25:34,847 [ 179521]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-03-28 20:25:34,850 [ 179524]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-03-28 20:25:37,977 [ 182651]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-03-28 20:25:37,982 [ 182656]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:25:38,030 [ 182704]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 391 auto-detected files
+Elapsed time on auto-detect: 1681 ms 
+2019-03-28 20:25:38,103 [ 182777]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-03-28 20:25:41,168 [ 185842]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2019-03-28 20:25:41,360 [ 186034]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-03-28 20:25:41,446 [ 186120]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-03-28 20:25:41,464 [ 186138]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-03-28 20:25:41,483 [ 186157]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:25:58,597 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-03-28 20:25:58,736 [    139]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-191.6183.87, 27 Mar 2019 13:38) 
+2019-03-28 20:25:58,736 [    139]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-03-28 20:25:58,736 [    139]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2019-03-28 20:25:58,736 [    139]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2019-03-28 20:25:58,742 [    145]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsIdesCrack-4.2-release.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2019.1 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2019-03-28 20:25:58,743 [    146]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2019-03-28 20:25:58,743 [    146]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2019-03-28 20:25:58,819 [    222]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 75 ms 
+2019-03-28 20:25:58,824 [    227]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-03-28 20:25:59,608 [   1011]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-03-28 20:26:06,071 [   7474]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 3876 ms 
+2019-03-28 20:26:08,386 [   9789]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@22b07055[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@3c236ee4 
+2019-03-28 20:26:08,512 [   9915]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-03-28 20:26:10,285 [  11688]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1120 ms 
+2019-03-28 20:26:10,318 [  11721]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:26:10,322 [  11725]   INFO - llij.ide.plugins.PluginManager - Plugin 'Lombok Plugin' can't be loaded because: Plugin since-build(183.4284) or until-build(183.*) don't match this product's build number(IU-191.6183.87). 
+2019-03-28 20:26:10,916 [  12319]   INFO - llij.ide.plugins.PluginManager - 145 plugins initialized in 1751 ms 
+2019-03-28 20:26:10,920 [  12323]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.6183.87), Android Support (10.3.3), AngularJS (191.6183.87), Ant Support (191.6183.87), Application Servers View (191.6183.87), AspectJ Support (191.6183.87), Bytecode Viewer (191.6183.87), CFML Support (191.6183.87), CSS Support (191.6183.87), Cloud Foundry integration (191.6183.87), CloudBees integration (191.6183.87), CoffeeScript (191.6183.87), Copyright (191.6183.87), Coverage (191.6183.87), Cucumber for Groovy (191.6183.87), Cucumber for Java (191.6183.87), DSM Analysis (191.6183.87), Database Tools and SQL (191.6183.87), Docker integration (191.6183.87), Eclipse Integration (191.6183.87), EditorConfig (191.6183.87), Emma (191.6183.87), Flash/Flex Support (191.6183.87), FreeMarker support (191.6183.87), GWT Support (191.6183.87), Geronimo Integration (191.6183.87), Gherkin (191.6183.87), Git Integration (191.6183.87), GitHub (191.6183.87), GlassFish Integration (191.6183.87), Google App Engine (191.6183.87), Gradle (191.6183.87), Grails (191.6183.87), Groovy (191.6183.87), Guice (191.6183.87), HTML Tools (191.6183.87), HTTP Client (191.6183.87), Haml (191.6183.87), Heroku integration (191.6183.87), Hibernate Support (191.6183.87), I18n for Java (191.6183.87), IDE Settings Sync (191.6183.87), IDEA CORE (191.6183.87), IntelliJ Configuration Script (191.6183.87), IntelliLang (191.6183.87), J2ME (191.6183.87), JBoss Arquillian Support (191.6183.87), JBoss Drools Support (191.6183.87), JBoss Frameworks Base Support (191.6183.87), JBoss Integration (191.6183.87), JBoss Seam Pageflow Support (191.6183.87), JBoss Seam Pages Support (191.6183.87), JBoss Seam Support (191.6183.87), JBoss jBPM (191.6183.87), JSR45 Integration (1.0), JUnit (191.6183.87), Java Bytecode Decompiler (191.6183.87), Java EE: Batch Applications (191.6183.87), Java EE: Bean Validation Support (191.6183.87), Java EE: Contexts and Dependency Injection (191.6183.87), Java EE: EJB, JPA, Servlets (191.6183.87), Java EE: JMS, JSON Processing, Concurrency, Transaction  (191.6183.87), Java EE: Java Server Faces (191.6183.87), Java EE: RESTful Web Services (JAX-RS) (191.6183.87), Java EE: Web Services (JAX-WS) (191.6183.87), Java EE: WebSockets (191.6183.87), Java Server Pages (JSP) Integration (191.6183.87), Java Stream Debugger (191.6183.87), JavaFX (191.6183.87), JavaScript Debugger (191.6183.87), JavaScript Intention Power Pack (191.6183.87), JavaScript Support (191.6183.87), Jetty Integration (191.6183.87), Kotlin (1.3.21-release-IJ2019.1-2), Less support (191.6183.87), Markdown support (191.6183.87), Maven Integration (191.6183.87), Maven Integration Extension (191.6183.87), Mercurial Integration (191.6183.87), OpenShift integration (191.6183.87), Osmorc (191.6183.87), Perforce Integration (191.6183.87), Performance Testing (191.6183.87), Persistence Frameworks Support (191.6183.87), Playframework Support (191.6183.87), Plugin DevKit (191.6183.87), Properties Support (191.6183.87), Reactor framework support (191.6183.87), Refactor-X (191.6183.87), Remote Hosts Access (191.6183.87), Resin Integration (191.6183.87), SSH Remote Run (191.6183.87), Sass support (191.6183.87), Settings Repository (191.6183.87), Smali Support (191.6183.87), Spring AOP/@AspectJ (191.6183.87), Spring Batch (191.6183.87), Spring Boot (191.6183.87), Spring Data (191.6183.87), Spring Integration Patterns (191.6183.87), Spring MVC (191.6183.87), Spring OSGi (191.6183.87), Spring Security (191.6183.87), Spring Support (191.6183.87), Spring Web Flow (191.6183.87), Spring Web Services (191.6183.87), Spring WebSocket (191.6183.87), Spy-js (191.6183.87), Struts 1.x (191.6183.87), Struts 2 (191.6183.87), Stylus support (191.6183.87), Subversion (191.6183.87), Tapestry support (191.6183.87), Task Management (191.6183.87), Terminal (191.6183.87), TestNG-J (191.6183.87), Thymeleaf (191.6183.87), Time Tracking (191.6183.87), Tomcat and TomEE Integration (191.6183.87), UI Designer (191.6183.87), UML Support (191.6183.87), Vaadin Support (191.6183.87), Velocity support (191.6183.87), W3C Validators (191.6183.87), WSL Support Framework (191.6183.87), WebLogic Integration (191.6183.87), WebSphere Integration (191.6183.87), XPathView + XSLT Support (191.6183.87), XSLT-Debugger (191.6183.87), YAML (191.6183.87), ZKM-Unscramble (191.6183.87), dmServer Support (191.6183.87), tslint (191.6183.87) 
+2019-03-28 20:26:10,921 [  12324]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.5), BashSupport (1.7.6), Generate Tests (1.0.2), Grep Console (8.6.162.000.5), IdeaVim (0.51), Maven Helper (3.7.172.1454.3), NodeJS (191.6183.20), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (191.6183.20) 
+2019-03-28 20:26:10,921 [  12324]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Lombok Plugin (0.23-2018.3) 
+2019-03-28 20:26:14,515 [  15918]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2019-03-28 20:26:14,972 [  16375]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-03-28 20:26:15,290 [  16693]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2019-03-28 20:26:15,577 [  16980]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:26:15,646 [  17049]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:26:16,743 [  18146]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-03-28 20:26:19,628 [  21031]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2019-03-28 20:26:19,840 [  21243]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-03-28 20:26:19,902 [  21305]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-03-28 20:26:20,069 [  21472]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-03-28 20:26:20,145 [  21548]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-03-28 20:26:21,275 [  22678]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:947, number of extensions:83 
+2019-03-28 20:26:21,301 [  22704]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:25 
+2019-03-28 20:26:21,496 [  22899]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:167, number of extensions:138 
+2019-03-28 20:26:21,498 [  22901]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2019-03-28 20:26:25,026 [  26429]   INFO - plication.impl.ApplicationImpl - 96 application components initialized in 15871ms 
+2019-03-28 20:26:25,132 [  26535]   INFO - .intellij.idea.IdeaApplication - App initialization took 34244 ms 
+2019-03-28 20:26:26,162 [  27565]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-03-28 20:26:33,164 [  34567]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:26:33,193 [  34596]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:26:33,280 [  34683]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:26:33,286 [  34689]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:26:33,294 [  34697]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:26:33,301 [  34704]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:26:33,303 [  34706]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:26:33,315 [  34718]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 573 ms 
+2019-03-28 20:26:33,335 [  34738]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:26:33,335 [  34738]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:26:35,493 [  36896]   INFO - pl$FileIndexDataInitialization - Initialization done:14191 
+2019-03-28 20:26:35,516 [  36919]   INFO - j.ide.ui.OptionsTopHitProvider - 15816 ms spent to cache options in application 
+2019-03-28 20:26:35,516 [  36919]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 15815 ms 
+2019-03-28 20:26:35,822 [  37225]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-03-28 20:26:36,595 [  37998]   INFO - exImpl$StubIndexInitialization - Initialization done:1101 
+2019-03-28 20:26:39,887 [  41290]   INFO - ellij.project.impl.ProjectImpl - 203 project components initialized in 12701 ms 
+2019-03-28 20:26:42,639 [  44042]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 2743 ms 
+2019-03-28 20:26:43,409 [  44812]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-03-28 20:26:43,539 [  44942]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-03-28 20:26:43,939 [  45342]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-03-28 20:26:46,057 [  47460]  ERROR - etbrains.android.AndroidPlugin - Unable to get current time from Google's servers 
+java.net.ConnectException: Connection timed out: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:666)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:162)
+	at com.android.tools.analytics.WebServerDateProvider.readDateHeaderWithHeadRequest(WebServerDateProvider.kt:52)
+	at com.android.tools.analytics.WebServerDateProvider.updateServerTimestampWithHeadRequest(WebServerDateProvider.kt:57)
+	at com.android.tools.analytics.WebServerDateProvider.<init>(WebServerDateProvider.kt:41)
+	at com.android.tools.analytics.AnalyticsSettings$initialize$2.run(AnalyticsSettings.kt:215)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-28 20:26:46,064 [  47467]  ERROR - etbrains.android.AndroidPlugin - IntelliJ IDEA 2019.1  Build #IU-191.6183.87 
+2019-03-28 20:26:46,064 [  47467]  ERROR - etbrains.android.AndroidPlugin - JDK: 1.8.0_202-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2019-03-28 20:26:46,064 [  47467]  ERROR - etbrains.android.AndroidPlugin - OS: Windows 10 
+2019-03-28 20:26:46,089 [  47492]  ERROR - etbrains.android.AndroidPlugin - Last Action:  
+2019-03-28 20:26:47,047 [  48450]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-03-28 20:26:48,786 [  50189]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 459 ms 
+2019-03-28 20:26:48,865 [  50268]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 511ms under project opening modal progress 
+2019-03-28 20:26:49,152 [  50555]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1012ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-03-28 20:27:00,794 [  62197]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 11890ms under project opening modal progress 
+2019-03-28 20:27:01,589 [  62992]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 48 millis 
+2019-03-28 20:27:01,625 [  63028]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 713ms under project opening modal progress 
+2019-03-28 20:27:01,634 [  63037]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 26118 ms 
+2019-03-28 20:27:02,004 [  63407]   INFO - tartup.impl.StartupManagerImpl - DatabaseConfigFileWatcher run in 319ms under project opening modal progress 
+2019-03-28 20:27:02,223 [  63626]   INFO - tartup.impl.StartupManagerImpl - JsbtStartupActivity run in 214ms under project opening modal progress 
+2019-03-28 20:27:02,462 [  63865]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 14644ms; general responsiveness: 1/14 sluggish; EDT responsiveness: 2/14 sluggish, 4/14 very slow 
+2019-03-28 20:27:04,053 [  65456]   INFO - j.ide.ui.OptionsTopHitProvider - 1217 ms spent on EDT to cache options in application 
+2019-03-28 20:27:04,860 [  66263]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2019-03-28 20:27:05,098 [  66501]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-03-28 20:27:05,265 [  66668]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2019-03-28 20:27:05,634 [  67037]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-03-28 20:27:05,848 [  67251]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 39262 ms 
+2019-03-28 20:27:10,862 [  72265]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 21706ms; general responsiveness: 4/20 sluggish; EDT responsiveness: 3/20 sluggish, 6/20 very slow 
+2019-03-28 20:27:11,004 [  72407]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 54661 files to update 
+2019-03-28 20:27:14,202 [  75605]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings. 
+2019-03-28 20:27:14,203 [  75606]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:27:14,203 [  75606]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/IDE/ideaIU-2018.1.4.win/plugins/maven/lib/maven36-server-impl.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:27:14,203 [  75606]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:27:14,205 [  75608]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/Build/maven/apache-maven-3.6.0/lib/maven-slf4j-provider-3.6.0.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:27:14,205 [  75608]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:27:14,205 [  75608]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation. 
+2019-03-28 20:27:14,205 [  75608]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:27:14,207 [  75610]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory] 
+2019-03-28 20:27:14,207 [  75610]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:27:48,565 [ 109968]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 46919 ms 
+2019-03-28 20:27:51,518 [ 112921]   WARN - gin.utils.ProfilingUtilAdapter - YourKit controller initialization failed : To profile application, you should run it with the profiler agent 
+2019-03-28 20:27:52,320 [ 113723]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 3749 ms 
+2019-03-28 20:27:52,345 [ 113748]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 11 ms 
+2019-03-28 20:28:00,016 [ 121419]   INFO - ateSettings.impl.UpdateChecker - java.security.cert.CertificateException: No name matching www.jetbrains.com found 
+javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1639)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:615)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:383)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:392)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:410)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:403)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:171)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:50)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:528)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:504)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:357)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPlatformUpdate(UpdateChecker.kt:168)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.doUpdateAndShowResult(UpdateChecker.kt:119)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:50)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$2.run(UpdateChecker.kt:96)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:731)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:586)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:86)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:311)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.util.HostnameChecker.matchDNS(HostnameChecker.java:231)
+	at sun.security.util.HostnameChecker.match(HostnameChecker.java:96)
+	at sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:455)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkAdditionalTrust(SSLContextImpl.java:1125)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1092)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1621)
+	... 42 more
+2019-03-28 20:28:00,019 [ 121422]   INFO - ateSettings.impl.UpdateChecker - Connection failed (java.security.cert.CertificateException: No name matching www.jetbrains.com found). Please check network connection and try again. 
+2019-03-28 20:28:08,328 [ 129731]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 15981 ms 
+2019-03-28 20:28:21,903 [ 143306]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 15 ms, GeneralSettings took 45 ms, GrepConsole took 25 ms, MavenVersion took 16 ms, VimSettings took 20 ms 
+2019-03-28 20:28:24,386 [ 145789]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoGrepConsole took 15 ms, PublishConfigData took 16 ms, RunManager took 48 ms, libraryTable took 34 ms 
+2019-03-28 20:28:25,138 [ 146541]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 3884 ms 
+2019-03-28 20:28:27,793 [ 149196]   INFO - rationStore.ComponentStoreImpl - Saving appEditorColorsManagerImpl took 18 ms, FileTypeManager took 16 ms, GrepConsole took 15 ms, ProjectJdkTable took 31 ms 
+2019-03-28 20:28:28,084 [ 149487]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 643 ms 
+2019-03-28 20:29:24,275 [ 205678]   INFO - rationStore.ComponentStoreImpl - Saving appProjectJdkTable took 35 ms 
+2019-03-28 20:29:24,343 [ 205746]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demolibraryTable took 24 ms 
+2019-03-28 20:29:24,383 [ 205786]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 387 ms 
+2019-03-28 20:29:33,922 [ 215325]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 20 ms 
+2019-03-28 20:29:33,978 [ 215381]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 247 ms 
+2019-03-28 20:29:37,378 [ 218781]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 454 ms 
+2019-03-28 20:29:37,603 [ 219006]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 146599ms; general responsiveness: 7/142 sluggish, 1/142 very slow; EDT responsiveness: 5/142 sluggish, 5/142 very slow 
+2019-03-28 20:29:38,071 [ 219474]   INFO - j.ide.ui.OptionsTopHitProvider - 379 ms spent to cache options in project 
+2019-03-28 20:29:38,072 [ 219475]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-03-28 20:29:38,072 [ 219475]   INFO - tartup.impl.StartupManagerImpl - Activity run in 380ms on UI thread 
+2019-03-28 20:29:38,198 [ 219601]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2019-03-28 20:29:40,261 [ 221664]   INFO - tartup.impl.StartupManagerImpl - CreateKotlinSdkActivity run in 1968ms on UI thread 
+2019-03-28 20:29:41,305 [ 222708]   INFO - j.ide.ui.OptionsTopHitProvider - 746 ms spent on EDT to cache options in project 
+2019-03-28 20:29:41,834 [ 223237]   INFO - rationStore.ComponentStoreImpl - Saving appEditorColorsManagerImpl took 21 ms 
+2019-03-28 20:29:42,556 [ 223959]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 1915 ms 
+2019-03-28 20:30:13,575 [ 254978]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-03-28 20:30:16,991 [ 258394]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 3/28/2019 8:29 PM) 
+2019-03-28 20:30:17,001 [ 258404]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 13626/Maven3ServerImpl188cdcac 
+2019-03-28 20:30:17,257 [ 258660]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:30:17,257 [ 258660]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:31:14,773 [ 316176]   INFO -              #AgreementUpdater - Error updating privacy policy: java.security.cert.CertificateException: No name matching www.jetbrains.com found 
+2019-03-28 20:31:52,777 [ 354180]   INFO - rationStore.ComponentStoreImpl - Saving appAceConfig took 13 ms, FileTypeManager took 31 ms, WindowManager took 20 ms 
+2019-03-28 20:31:52,952 [ 354355]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoXDebuggerManager took 28 ms 
+2019-03-28 20:31:53,050 [ 354453]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 499 ms 
+2019-03-28 20:31:54,968 [ 356371]   INFO - rationStore.ComponentStoreImpl - Saving appAceConfig took 13 ms, FileTypeManager took 14 ms, GeneralSettings took 11 ms, GrepConsole took 44 ms, JSCodeFoldingSettings took 14 ms, JavaCodeFoldingSettings took 23 ms, XmlEditorOptions took 14 ms 
+2019-03-28 20:31:55,040 [ 356443]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 416 ms 
+2019-03-28 20:32:39,811 [ 401214]   INFO - ateSettings.impl.UpdateChecker - java.security.cert.CertificateException: No name matching www.jetbrains.com found 
+javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1639)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:615)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:383)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:392)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:410)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:403)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:171)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:50)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:528)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:504)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:357)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPlatformUpdate(UpdateChecker.kt:168)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.doUpdateAndShowResult(UpdateChecker.kt:119)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:50)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$2.run(UpdateChecker.kt:96)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:731)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:586)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:86)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:311)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.util.HostnameChecker.matchDNS(HostnameChecker.java:231)
+	at sun.security.util.HostnameChecker.match(HostnameChecker.java:96)
+	at sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:455)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkAdditionalTrust(SSLContextImpl.java:1125)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1092)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1621)
+	... 42 more
+2019-03-28 20:32:39,827 [ 401230]   INFO - ateSettings.impl.UpdateChecker - Connection failed (java.security.cert.CertificateException: No name matching www.jetbrains.com found). Please check network connection and try again. 
+2019-03-28 20:39:13,094 [ 794497]   INFO - ateSettings.impl.UpdateChecker - java.security.cert.CertificateException: No name matching www.jetbrains.com found 
+javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1639)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:615)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:383)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:392)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:410)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:403)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:171)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:50)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:528)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:504)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:357)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPlatformUpdate(UpdateChecker.kt:168)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.doUpdateAndShowResult(UpdateChecker.kt:119)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:50)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$2.run(UpdateChecker.kt:96)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:731)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:586)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:86)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:311)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.util.HostnameChecker.matchDNS(HostnameChecker.java:231)
+	at sun.security.util.HostnameChecker.match(HostnameChecker.java:96)
+	at sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:455)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkAdditionalTrust(SSLContextImpl.java:1125)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1092)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1621)
+	... 42 more
+2019-03-28 20:39:13,097 [ 794500]   INFO - ateSettings.impl.UpdateChecker - Connection failed (java.security.cert.CertificateException: No name matching www.jetbrains.com found). Please check network connection and try again. 
+2019-03-28 20:39:21,433 [ 802836]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoKotlinCommonCompilerArguments took 20 ms 
+2019-03-28 20:39:22,965 [ 804368]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-03-28 20:39:22,966 [ 804369]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-03-28 20:39:22,966 [ 804369]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-03-28 20:39:23,193 [ 804596]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-03-28 20:39:23,198 [ 804601]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:39:23,253 [ 804656]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 1 auto-detected files
+Elapsed time on auto-detect: 15 ms 
+2019-03-28 20:39:23,305 [ 804708]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-03-28 20:39:23,307 [ 804710]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-03-28 20:39:23,331 [ 804734]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-03-28 20:39:23,349 [ 804752]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-03-28 20:39:23,373 [ 804776]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:39:50,992 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-03-28 20:39:51,169 [    177]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-191.6183.87, 27 Mar 2019 13:38) 
+2019-03-28 20:39:51,170 [    178]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-03-28 20:39:51,170 [    178]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2019-03-28 20:39:51,170 [    178]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2019-03-28 20:39:51,180 [    188]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsIdesCrack-4.2-release.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2019.1 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2019-03-28 20:39:51,181 [    189]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2019-03-28 20:39:51,181 [    189]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2019-03-28 20:39:51,282 [    290]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 100 ms 
+2019-03-28 20:39:51,293 [    301]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-03-28 20:39:52,556 [   1564]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-03-28 20:40:04,925 [  13933]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 9453 ms 
+2019-03-28 20:40:07,226 [  16234]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@77479f72[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4fb87b4b 
+2019-03-28 20:40:07,394 [  16402]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-03-28 20:40:10,253 [  19261]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1884 ms 
+2019-03-28 20:40:10,310 [  19318]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:40:10,315 [  19323]   INFO - llij.ide.plugins.PluginManager - Plugin 'Lombok Plugin' can't be loaded because: Plugin since-build(183.4284) or until-build(183.*) don't match this product's build number(IU-191.6183.87). 
+2019-03-28 20:40:11,082 [  20090]   INFO - llij.ide.plugins.PluginManager - 145 plugins initialized in 2713 ms 
+2019-03-28 20:40:11,083 [  20091]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.6183.87), Android Support (10.3.3), AngularJS (191.6183.87), Ant Support (191.6183.87), Application Servers View (191.6183.87), AspectJ Support (191.6183.87), Bytecode Viewer (191.6183.87), CFML Support (191.6183.87), CSS Support (191.6183.87), Cloud Foundry integration (191.6183.87), CloudBees integration (191.6183.87), CoffeeScript (191.6183.87), Copyright (191.6183.87), Coverage (191.6183.87), Cucumber for Groovy (191.6183.87), Cucumber for Java (191.6183.87), DSM Analysis (191.6183.87), Database Tools and SQL (191.6183.87), Docker integration (191.6183.87), Eclipse Integration (191.6183.87), EditorConfig (191.6183.87), Emma (191.6183.87), Flash/Flex Support (191.6183.87), FreeMarker support (191.6183.87), GWT Support (191.6183.87), Geronimo Integration (191.6183.87), Gherkin (191.6183.87), Git Integration (191.6183.87), GitHub (191.6183.87), GlassFish Integration (191.6183.87), Google App Engine (191.6183.87), Gradle (191.6183.87), Grails (191.6183.87), Groovy (191.6183.87), Guice (191.6183.87), HTML Tools (191.6183.87), HTTP Client (191.6183.87), Haml (191.6183.87), Heroku integration (191.6183.87), Hibernate Support (191.6183.87), I18n for Java (191.6183.87), IDE Settings Sync (191.6183.87), IDEA CORE (191.6183.87), IntelliJ Configuration Script (191.6183.87), IntelliLang (191.6183.87), J2ME (191.6183.87), JBoss Arquillian Support (191.6183.87), JBoss Drools Support (191.6183.87), JBoss Frameworks Base Support (191.6183.87), JBoss Integration (191.6183.87), JBoss Seam Pageflow Support (191.6183.87), JBoss Seam Pages Support (191.6183.87), JBoss Seam Support (191.6183.87), JBoss jBPM (191.6183.87), JSR45 Integration (1.0), JUnit (191.6183.87), Java Bytecode Decompiler (191.6183.87), Java EE: Batch Applications (191.6183.87), Java EE: Bean Validation Support (191.6183.87), Java EE: Contexts and Dependency Injection (191.6183.87), Java EE: EJB, JPA, Servlets (191.6183.87), Java EE: JMS, JSON Processing, Concurrency, Transaction  (191.6183.87), Java EE: Java Server Faces (191.6183.87), Java EE: RESTful Web Services (JAX-RS) (191.6183.87), Java EE: Web Services (JAX-WS) (191.6183.87), Java EE: WebSockets (191.6183.87), Java Server Pages (JSP) Integration (191.6183.87), Java Stream Debugger (191.6183.87), JavaFX (191.6183.87), JavaScript Debugger (191.6183.87), JavaScript Intention Power Pack (191.6183.87), JavaScript Support (191.6183.87), Jetty Integration (191.6183.87), Kotlin (1.3.21-release-IJ2019.1-2), Less support (191.6183.87), Markdown support (191.6183.87), Maven Integration (191.6183.87), Maven Integration Extension (191.6183.87), Mercurial Integration (191.6183.87), OpenShift integration (191.6183.87), Osmorc (191.6183.87), Perforce Integration (191.6183.87), Performance Testing (191.6183.87), Persistence Frameworks Support (191.6183.87), Playframework Support (191.6183.87), Plugin DevKit (191.6183.87), Properties Support (191.6183.87), Reactor framework support (191.6183.87), Refactor-X (191.6183.87), Remote Hosts Access (191.6183.87), Resin Integration (191.6183.87), SSH Remote Run (191.6183.87), Sass support (191.6183.87), Settings Repository (191.6183.87), Smali Support (191.6183.87), Spring AOP/@AspectJ (191.6183.87), Spring Batch (191.6183.87), Spring Boot (191.6183.87), Spring Data (191.6183.87), Spring Integration Patterns (191.6183.87), Spring MVC (191.6183.87), Spring OSGi (191.6183.87), Spring Security (191.6183.87), Spring Support (191.6183.87), Spring Web Flow (191.6183.87), Spring Web Services (191.6183.87), Spring WebSocket (191.6183.87), Spy-js (191.6183.87), Struts 1.x (191.6183.87), Struts 2 (191.6183.87), Stylus support (191.6183.87), Subversion (191.6183.87), Tapestry support (191.6183.87), Task Management (191.6183.87), Terminal (191.6183.87), TestNG-J (191.6183.87), Thymeleaf (191.6183.87), Time Tracking (191.6183.87), Tomcat and TomEE Integration (191.6183.87), UI Designer (191.6183.87), UML Support (191.6183.87), Vaadin Support (191.6183.87), Velocity support (191.6183.87), W3C Validators (191.6183.87), WSL Support Framework (191.6183.87), WebLogic Integration (191.6183.87), WebSphere Integration (191.6183.87), XPathView + XSLT Support (191.6183.87), XSLT-Debugger (191.6183.87), YAML (191.6183.87), ZKM-Unscramble (191.6183.87), dmServer Support (191.6183.87), tslint (191.6183.87) 
+2019-03-28 20:40:11,083 [  20091]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.5), BashSupport (1.7.6), Generate Tests (1.0.2), Grep Console (8.6.162.000.5), IdeaVim (0.51), Maven Helper (3.7.172.1454.3), NodeJS (191.6183.20), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (191.6183.20) 
+2019-03-28 20:40:11,084 [  20092]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Lombok Plugin (0.23-2018.3) 
+2019-03-28 20:40:15,554 [  24562]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2019-03-28 20:40:16,169 [  25177]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-03-28 20:40:16,477 [  25485]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2019-03-28 20:40:17,003 [  26011]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:40:17,088 [  26096]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:40:18,593 [  27601]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-03-28 20:40:22,024 [  31032]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2019-03-28 20:40:22,275 [  31283]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-03-28 20:40:22,362 [  31370]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-03-28 20:40:22,436 [  31444]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-03-28 20:40:22,612 [  31620]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-03-28 20:40:23,752 [  32760]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:982, number of extensions:83 
+2019-03-28 20:40:23,818 [  32826]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:64 
+2019-03-28 20:40:24,106 [  33114]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:256, number of extensions:138 
+2019-03-28 20:40:24,109 [  33117]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2019-03-28 20:40:28,620 [  37628]   INFO - plication.impl.ApplicationImpl - 96 application components initialized in 20258ms 
+2019-03-28 20:40:28,694 [  37702]   INFO - .intellij.idea.IdeaApplication - App initialization took 49686 ms 
+2019-03-28 20:40:29,742 [  38750]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-03-28 20:40:35,938 [  44946]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:40:35,944 [  44952]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:40:36,068 [  45076]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:40:36,075 [  45083]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:40:36,089 [  45097]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:40:36,094 [  45102]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:40:36,282 [  45290]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:40:36,284 [  45292]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:40:36,284 [  45292]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:40:36,364 [  45372]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 972 ms 
+2019-03-28 20:40:37,494 [  46502]   INFO - pl$FileIndexDataInitialization - Initialization done:13676 
+2019-03-28 20:40:38,052 [  47060]   INFO - j.ide.ui.OptionsTopHitProvider - 15951 ms spent to cache options in application 
+2019-03-28 20:40:38,052 [  47060]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 15951 ms 
+2019-03-28 20:40:38,597 [  47605]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-03-28 20:40:39,453 [  48461]   INFO - exImpl$StubIndexInitialization - Initialization done:1958 
+2019-03-28 20:40:41,713 [  50721]   INFO - ellij.project.impl.ProjectImpl - 203 project components initialized in 11010 ms 
+2019-03-28 20:40:43,371 [  52379]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1654 ms 
+2019-03-28 20:40:44,787 [  53795]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-03-28 20:40:44,966 [  53974]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-03-28 20:40:45,682 [  54690]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-03-28 20:40:49,227 [  58235]  ERROR - etbrains.android.AndroidPlugin - Unable to get current time from Google's servers 
+java.net.ConnectException: Connection timed out: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:666)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:162)
+	at com.android.tools.analytics.WebServerDateProvider.readDateHeaderWithHeadRequest(WebServerDateProvider.kt:52)
+	at com.android.tools.analytics.WebServerDateProvider.updateServerTimestampWithHeadRequest(WebServerDateProvider.kt:57)
+	at com.android.tools.analytics.WebServerDateProvider.<init>(WebServerDateProvider.kt:41)
+	at com.android.tools.analytics.AnalyticsSettings$initialize$2.run(AnalyticsSettings.kt:215)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-28 20:40:49,236 [  58244]  ERROR - etbrains.android.AndroidPlugin - IntelliJ IDEA 2019.1  Build #IU-191.6183.87 
+2019-03-28 20:40:49,236 [  58244]  ERROR - etbrains.android.AndroidPlugin - JDK: 1.8.0_202-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2019-03-28 20:40:49,236 [  58244]  ERROR - etbrains.android.AndroidPlugin - OS: Windows 10 
+2019-03-28 20:40:49,260 [  58268]  ERROR - etbrains.android.AndroidPlugin - Last Action:  
+2019-03-28 20:40:50,588 [  59596]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-03-28 20:40:52,934 [  61942]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 315 ms 
+2019-03-28 20:40:53,369 [  62377]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 981ms under project opening modal progress 
+2019-03-28 20:40:53,898 [  62906]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1827ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-03-28 20:41:07,445 [  76453]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 14046ms under project opening modal progress 
+2019-03-28 20:41:07,660 [  76668]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 162ms under project opening modal progress 
+2019-03-28 20:41:08,207 [  77215]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 13 millis 
+2019-03-28 20:41:08,212 [  77220]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 441ms under project opening modal progress 
+2019-03-28 20:41:08,530 [  77538]   INFO - tartup.impl.StartupManagerImpl - CleanStaleModuleOutputsActivity run in 260ms under project opening modal progress 
+2019-03-28 20:41:08,896 [  77904]   INFO - tartup.impl.StartupManagerImpl - DatabaseConfigFileWatcher run in 329ms under project opening modal progress 
+2019-03-28 20:41:09,341 [  78349]   INFO - tartup.impl.StartupManagerImpl - JsbtStartupActivity run in 428ms under project opening modal progress 
+2019-03-28 20:41:09,553 [  78561]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 17859ms; general responsiveness: 1/18 sluggish; EDT responsiveness: 1/17 sluggish, 3/17 very slow 
+2019-03-28 20:41:11,051 [  80059]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 32993 ms 
+2019-03-28 20:41:11,189 [  80197]   INFO - j.ide.ui.OptionsTopHitProvider - 1131 ms spent on EDT to cache options in application 
+2019-03-28 20:41:12,024 [  81032]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2019-03-28 20:41:12,117 [  81125]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2019-03-28 20:41:12,235 [  81243]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-03-28 20:41:12,663 [  81671]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-03-28 20:41:12,752 [  81760]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 42587 ms 
+2019-03-28 20:41:19,946 [  88954]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 26040ms; general responsiveness: 2/25 sluggish; EDT responsiveness: 1/25 sluggish, 5/25 very slow 
+2019-03-28 20:41:19,949 [  88957]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 7 files to update 
+2019-03-28 20:41:21,063 [  90071]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings. 
+2019-03-28 20:41:21,063 [  90071]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/IDE/ideaIU-2018.1.4.win/plugins/maven/lib/maven36-server-impl.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:41:21,063 [  90071]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/Build/maven/apache-maven-3.6.0/lib/maven-slf4j-provider-3.6.0.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:41:21,063 [  90071]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation. 
+2019-03-28 20:41:21,065 [  90073]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory] 
+2019-03-28 20:41:28,201 [  97209]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 8252ms; general responsiveness: 0/8 sluggish, 1/8 very slow; EDT responsiveness: 3/7 sluggish, 2/7 very slow 
+2019-03-28 20:41:29,939 [  98947]   INFO - j.ide.ui.OptionsTopHitProvider - 1703 ms spent to cache options in project 
+2019-03-28 20:41:29,939 [  98947]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-03-28 20:41:29,939 [  98947]   INFO - tartup.impl.StartupManagerImpl - Activity run in 1703ms on UI thread 
+2019-03-28 20:41:30,143 [  99151]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2019-03-28 20:41:31,936 [ 100944]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 3/28/2019 8:29 PM) 
+2019-03-28 20:41:32,460 [ 101468]   INFO - tartup.impl.StartupManagerImpl - CreateKotlinSdkActivity run in 2168ms on UI thread 
+2019-03-28 20:41:33,905 [ 102913]   INFO - j.ide.ui.OptionsTopHitProvider - 940 ms spent on EDT to cache options in project 
+2019-03-28 20:41:39,056 [ 108064]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 27993 ms 
+2019-03-28 20:41:44,475 [ 113483]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 5407 ms 
+2019-03-28 20:41:44,656 [ 113664]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 180 ms 
+2019-03-28 20:41:53,958 [ 122966]   WARN - gin.utils.ProfilingUtilAdapter - YourKit controller initialization failed : To profile application, you should run it with the profiler agent 
+2019-03-28 20:41:56,134 [ 125142]   INFO - ateSettings.impl.UpdateChecker - java.security.cert.CertificateException: No name matching www.jetbrains.com found 
+javax.net.ssl.SSLHandshakeException: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1639)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:615)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:383)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:392)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:410)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:403)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:171)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:50)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:528)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:504)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:59)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:357)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPlatformUpdate(UpdateChecker.kt:168)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.doUpdateAndShowResult(UpdateChecker.kt:119)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:50)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$2.run(UpdateChecker.kt:96)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:731)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:164)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:586)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:532)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:86)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:151)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:403)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:311)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.security.cert.CertificateException: No name matching www.jetbrains.com found
+	at sun.security.util.HostnameChecker.matchDNS(HostnameChecker.java:231)
+	at sun.security.util.HostnameChecker.match(HostnameChecker.java:96)
+	at sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:455)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkAdditionalTrust(SSLContextImpl.java:1125)
+	at sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1092)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1621)
+	... 42 more
+2019-03-28 20:41:56,141 [ 125149]   INFO - ateSettings.impl.UpdateChecker - Connection failed (java.security.cert.CertificateException: No name matching www.jetbrains.com found). Please check network connection and try again. 
+2019-03-28 20:41:57,511 [ 126519]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 12854 ms 
+2019-03-28 20:42:07,513 [ 136521]   INFO - rationStore.ComponentStoreImpl - Saving appDebuggerSettings took 29 ms, ExportableFileTemplateSettings took 26 ms, FileTypeManager took 30 ms, GrepConsole took 25 ms, Osmorc took 12 ms, RemoteServers took 11 ms 
+2019-03-28 20:42:10,788 [ 139796]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoGrepConsole took 93 ms, Kotlin2JvmCompilerArguments took 14 ms, KotlinCommonCompilerArguments took 24 ms, MavenProjectsManager took 338 ms, RunManager took 15 ms, libraryTable took 35 ms, navEditor-manualLayoutAlgorithm2 took 40 ms 
+2019-03-28 20:42:11,000 [ 140008]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 4167 ms 
+2019-03-28 20:42:39,038 [ 168046]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 3/28/2019 8:29 PM) 
+2019-03-28 20:42:39,251 [ 168259]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:42:39,252 [ 168260]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:42:39,461 [ 168469]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2019-03-28 20:42:41,471 [ 170479]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\gson\.android\repositories.cfg could not be loaded. 
+2019-03-28 20:42:41,481 [ 170489]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2019-03-28 20:42:41,485 [ 170493]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2019-03-28 20:42:41,493 [ 170501]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2019-03-28 20:42:41,496 [ 170504]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2019-03-28 20:42:41,499 [ 170507]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2019-03-28 20:42:41,501 [ 170509]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2019-03-28 20:42:41,504 [ 170512]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2019-03-28 20:42:41,505 [ 170513]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2019-03-28 20:42:41,505 [ 170513]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2019-03-28 20:42:41,509 [ 170517]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2019-03-28 20:42:47,275 [ 176283]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:42:51,925 [ 180933]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 39 ms, VimSettings took 15 ms 
+2019-03-28 20:42:52,273 [ 181281]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoFavoritesManager took 12 ms, RunManager took 91 ms, libraryTable took 81 ms 
+2019-03-28 20:42:52,325 [ 181333]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 696 ms 
+2019-03-28 20:43:15,486 [ 204494]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:43:53,807 [ 242815]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 3/28/2019 8:29 PM) 
+2019-03-28 20:43:53,929 [ 242937]   WARN - llij.ide.plugins.PluginManager - Lombok Plugin not loaded: until build 183.SNAPSHOT < IU-191.6183.87 
+2019-03-28 20:43:53,945 [ 242953]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2019-03-28 20:43:53,984 [ 242992]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2019-03-28 20:43:53,993 [ 243001]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2019-03-28 20:43:53,999 [ 243007]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2019-03-28 20:43:53,999 [ 243007]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2019-03-28 20:43:54,004 [ 243012]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2019-03-28 20:43:54,004 [ 243012]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2019-03-28 20:43:54,005 [ 243013]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2019-03-28 20:43:54,039 [ 243047]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2019-03-28 20:43:54,064 [ 243072]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2019-03-28 20:44:12,311 [ 261319]   INFO - rationStore.ComponentStoreImpl - Saving appVimSettings took 23 ms 
+2019-03-28 20:44:12,536 [ 261544]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demolibraryTable took 28 ms 
+2019-03-28 20:44:12,541 [ 261549]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 459 ms 
+2019-03-28 20:44:38,061 [ 287069]   INFO - rationStore.ComponentStoreImpl - Saving appFeatureUsageStatistics took 22 ms, UpdatesConfigurable took 11 ms 
+2019-03-28 20:44:38,279 [ 287287]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoKotlinCommonCompilerArguments took 43 ms, ProjectView took 15 ms, XDebuggerManager took 41 ms 
+2019-03-28 20:44:38,711 [ 287719]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 16205/Maven3ServerImplf4472cdd 
+2019-03-28 20:44:39,856 [ 288864]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-03-28 20:44:39,858 [ 288866]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-03-28 20:44:39,858 [ 288866]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-03-28 20:44:39,941 [ 288949]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-03-28 20:44:39,947 [ 288955]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:44:39,986 [ 288994]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 1 auto-detected files
+Elapsed time on auto-detect: 15 ms 
+2019-03-28 20:44:40,173 [ 289181]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-03-28 20:44:40,175 [ 289183]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-03-28 20:44:40,197 [ 289205]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-03-28 20:44:40,215 [ 289223]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-03-28 20:44:40,227 [ 289235]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:45:01,993 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-03-28 20:45:02,286 [    293]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-191.6183.87, 27 Mar 2019 13:38) 
+2019-03-28 20:45:02,287 [    294]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-03-28 20:45:02,288 [    295]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_202-release-1483-b39 (JetBrains s.r.o) 
+2019-03-28 20:45:02,288 [    295]   INFO -        #com.intellij.idea.Main - JVM: 25.202-b39 (OpenJDK 64-Bit Server VM) 
+2019-03-28 20:45:02,300 [    307]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:D:\DevOps\IDE\include\JetbrainsIdesCrack-4.2-release.jar -Djb.vmOptionsFile=D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2019.1 -XX:ErrorFile=C:\Users\gson\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\gson\java_error_in_idea.hprof 
+2019-03-28 20:45:02,301 [    308]   INFO -        #com.intellij.idea.Main - ext: D:\DevOps\IDE\ideaIU-2018.1.4.win\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2019-03-28 20:45:02,302 [    309]   INFO -        #com.intellij.idea.Main - charsets: JNU=GBK file=GBK 
+2019-03-28 20:45:02,444 [    451]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 141 ms 
+2019-03-28 20:45:02,452 [    459]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-03-28 20:45:03,790 [   1797]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-03-28 20:45:13,959 [  11966]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 6994 ms 
+2019-03-28 20:45:16,279 [  14286]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@153105a3[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@5217d5b1 
+2019-03-28 20:45:16,406 [  14413]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-03-28 20:45:18,481 [  16488]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1340 ms 
+2019-03-28 20:45:19,340 [  17347]   INFO - llij.ide.plugins.PluginManager - 145 plugins initialized in 2199 ms 
+2019-03-28 20:45:19,342 [  17349]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.6183.87), Android Support (10.3.3), AngularJS (191.6183.87), Ant Support (191.6183.87), Application Servers View (191.6183.87), AspectJ Support (191.6183.87), Bytecode Viewer (191.6183.87), CFML Support (191.6183.87), CSS Support (191.6183.87), Cloud Foundry integration (191.6183.87), CloudBees integration (191.6183.87), CoffeeScript (191.6183.87), Copyright (191.6183.87), Coverage (191.6183.87), Cucumber for Groovy (191.6183.87), Cucumber for Java (191.6183.87), DSM Analysis (191.6183.87), Database Tools and SQL (191.6183.87), Docker integration (191.6183.87), Eclipse Integration (191.6183.87), EditorConfig (191.6183.87), Emma (191.6183.87), Flash/Flex Support (191.6183.87), FreeMarker support (191.6183.87), GWT Support (191.6183.87), Geronimo Integration (191.6183.87), Gherkin (191.6183.87), Git Integration (191.6183.87), GitHub (191.6183.87), GlassFish Integration (191.6183.87), Google App Engine (191.6183.87), Gradle (191.6183.87), Grails (191.6183.87), Groovy (191.6183.87), Guice (191.6183.87), HTML Tools (191.6183.87), HTTP Client (191.6183.87), Haml (191.6183.87), Heroku integration (191.6183.87), Hibernate Support (191.6183.87), I18n for Java (191.6183.87), IDE Settings Sync (191.6183.87), IDEA CORE (191.6183.87), IntelliJ Configuration Script (191.6183.87), IntelliLang (191.6183.87), J2ME (191.6183.87), JBoss Arquillian Support (191.6183.87), JBoss Drools Support (191.6183.87), JBoss Frameworks Base Support (191.6183.87), JBoss Integration (191.6183.87), JBoss Seam Pageflow Support (191.6183.87), JBoss Seam Pages Support (191.6183.87), JBoss Seam Support (191.6183.87), JBoss jBPM (191.6183.87), JSR45 Integration (1.0), JUnit (191.6183.87), Java Bytecode Decompiler (191.6183.87), Java EE: Batch Applications (191.6183.87), Java EE: Bean Validation Support (191.6183.87), Java EE: Contexts and Dependency Injection (191.6183.87), Java EE: EJB, JPA, Servlets (191.6183.87), Java EE: JMS, JSON Processing, Concurrency, Transaction  (191.6183.87), Java EE: Java Server Faces (191.6183.87), Java EE: RESTful Web Services (JAX-RS) (191.6183.87), Java EE: Web Services (JAX-WS) (191.6183.87), Java EE: WebSockets (191.6183.87), Java Server Pages (JSP) Integration (191.6183.87), Java Stream Debugger (191.6183.87), JavaFX (191.6183.87), JavaScript Debugger (191.6183.87), JavaScript Intention Power Pack (191.6183.87), JavaScript Support (191.6183.87), Jetty Integration (191.6183.87), Kotlin (1.3.21-release-IJ2019.1-2), Less support (191.6183.87), Markdown support (191.6183.87), Maven Integration (191.6183.87), Maven Integration Extension (191.6183.87), Mercurial Integration (191.6183.87), OpenShift integration (191.6183.87), Osmorc (191.6183.87), Perforce Integration (191.6183.87), Performance Testing (191.6183.87), Persistence Frameworks Support (191.6183.87), Playframework Support (191.6183.87), Plugin DevKit (191.6183.87), Properties Support (191.6183.87), Reactor framework support (191.6183.87), Refactor-X (191.6183.87), Remote Hosts Access (191.6183.87), Resin Integration (191.6183.87), SSH Remote Run (191.6183.87), Sass support (191.6183.87), Settings Repository (191.6183.87), Smali Support (191.6183.87), Spring AOP/@AspectJ (191.6183.87), Spring Batch (191.6183.87), Spring Boot (191.6183.87), Spring Data (191.6183.87), Spring Integration Patterns (191.6183.87), Spring MVC (191.6183.87), Spring OSGi (191.6183.87), Spring Security (191.6183.87), Spring Support (191.6183.87), Spring Web Flow (191.6183.87), Spring Web Services (191.6183.87), Spring WebSocket (191.6183.87), Spy-js (191.6183.87), Struts 1.x (191.6183.87), Struts 2 (191.6183.87), Stylus support (191.6183.87), Subversion (191.6183.87), Tapestry support (191.6183.87), Task Management (191.6183.87), Terminal (191.6183.87), TestNG-J (191.6183.87), Thymeleaf (191.6183.87), Time Tracking (191.6183.87), Tomcat and TomEE Integration (191.6183.87), UI Designer (191.6183.87), UML Support (191.6183.87), Vaadin Support (191.6183.87), Velocity support (191.6183.87), W3C Validators (191.6183.87), WSL Support Framework (191.6183.87), WebLogic Integration (191.6183.87), WebSphere Integration (191.6183.87), XPathView + XSLT Support (191.6183.87), XSLT-Debugger (191.6183.87), YAML (191.6183.87), ZKM-Unscramble (191.6183.87), dmServer Support (191.6183.87), tslint (191.6183.87) 
+2019-03-28 20:45:19,344 [  17351]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: .ignore (3.0.0.182), AceJump (3.5.5), BashSupport (1.7.6), Generate Tests (1.0.2), Grep Console (8.6.162.000.5), IdeaVim (0.51), Lombok Plugin (0.23-EAP), Maven Helper (3.7.172.1454.3), NodeJS (191.6183.20), Shortcut Translator (1.0.1), Translate (1.1), Vue.js (191.6183.20) 
+2019-03-28 20:45:25,192 [  23199]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2019-03-28 20:45:25,847 [  23854]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-03-28 20:45:26,291 [  24298]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\DevOps\IDE\ideaIU-2018.1.4.win\bin\fsnotifier64.exe 
+2019-03-28 20:45:26,525 [  24532]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:45:26,575 [  24582]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:45:27,083 [  25090]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-03-28 20:45:31,313 [  29320]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.25 
+2019-03-28 20:45:31,494 [  29501]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-03-28 20:45:31,543 [  29550]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-03-28 20:45:31,685 [  29692]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-03-28 20:45:31,739 [  29746]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-03-28 20:45:33,047 [  31054]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:1140, number of extensions:84 
+2019-03-28 20:45:33,071 [  31078]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:23 
+2019-03-28 20:45:33,295 [  31302]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:187, number of extensions:138 
+2019-03-28 20:45:33,297 [  31304]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2019-03-28 20:45:34,045 [  32052]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index filetypes. The index will be rebuilt. 
+2019-03-28 20:45:36,888 [  34895]   INFO - plication.impl.ApplicationImpl - 96 application components initialized in 19754ms 
+2019-03-28 20:45:36,942 [  34949]   INFO - .intellij.idea.IdeaApplication - App initialization took 44494 ms 
+2019-03-28 20:45:38,003 [  36010]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-03-28 20:45:38,088 [  36095]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index IdIndex. The index will be rebuilt. 
+2019-03-28 20:45:43,749 [  41756]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:45:43,752 [  41759]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:45:43,807 [  41814]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:45:43,811 [  41818]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:45:43,819 [  41826]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:45:43,821 [  41828]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:45:43,824 [  41831]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:45:43,827 [  41834]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.0; restored: fontSize=14, fontScale=1.0 
+2019-03-28 20:45:43,827 [  41834]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-03-28 20:45:44,049 [  42056]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 332 ms 
+2019-03-28 20:45:45,732 [  43739]   INFO - il.indexing.FileBasedIndexImpl - Index LombokConfigIndex will be built. 
+2019-03-28 20:45:46,521 [  44528]   INFO - j.ide.ui.OptionsTopHitProvider - 15087 ms spent to cache options in application 
+2019-03-28 20:45:46,521 [  44528]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 15087 ms 
+2019-03-28 20:45:46,767 [  44774]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-03-28 20:45:47,305 [  45312]   INFO - pl$FileIndexDataInitialization - Initialization done:14234 
+2019-03-28 20:45:48,655 [  46662]   INFO - exImpl$StubIndexInitialization - Initialization done:1349 
+2019-03-28 20:45:49,755 [  47762]   INFO - ellij.project.impl.ProjectImpl - 205 project components initialized in 10727 ms 
+2019-03-28 20:45:51,401 [  49408]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1643 ms 
+2019-03-28 20:45:53,222 [  51229]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-03-28 20:45:53,506 [  51513]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-03-28 20:45:54,098 [  52105]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-03-28 20:45:58,167 [  56174]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-03-28 20:45:59,056 [  57063]  ERROR - etbrains.android.AndroidPlugin - Unable to get current time from Google's servers 
+java.net.ConnectException: Connection timed out: connect
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:666)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:162)
+	at com.android.tools.analytics.WebServerDateProvider.readDateHeaderWithHeadRequest(WebServerDateProvider.kt:52)
+	at com.android.tools.analytics.WebServerDateProvider.updateServerTimestampWithHeadRequest(WebServerDateProvider.kt:57)
+	at com.android.tools.analytics.WebServerDateProvider.<init>(WebServerDateProvider.kt:41)
+	at com.android.tools.analytics.AnalyticsSettings$initialize$2.run(AnalyticsSettings.kt:215)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-03-28 20:45:59,086 [  57093]  ERROR - etbrains.android.AndroidPlugin - IntelliJ IDEA 2019.1  Build #IU-191.6183.87 
+2019-03-28 20:45:59,087 [  57094]  ERROR - etbrains.android.AndroidPlugin - JDK: 1.8.0_202-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2019-03-28 20:45:59,087 [  57094]  ERROR - etbrains.android.AndroidPlugin - OS: Windows 10 
+2019-03-28 20:45:59,118 [  57125]  ERROR - etbrains.android.AndroidPlugin - Last Action:  
+2019-03-28 20:45:59,550 [  57557]   INFO - llij.database.util.SqlDialects - SQL dialects initialized in 177 ms 
+2019-03-28 20:46:00,171 [  58178]   INFO - tartup.impl.StartupManagerImpl - EditorHistoryManagerStartUpActivity run in 708ms under project opening modal progress 
+2019-03-28 20:46:00,370 [  58377]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1123ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-03-28 20:46:12,616 [  70623]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 12404ms under project opening modal progress 
+2019-03-28 20:46:12,838 [  70845]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 221ms under project opening modal progress 
+2019-03-28 20:46:14,916 [  72923]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 7 millis 
+2019-03-28 20:46:14,925 [  72932]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 2071ms under project opening modal progress 
+2019-03-28 20:46:15,243 [  73250]   INFO - tartup.impl.StartupManagerImpl - ReprocessContentRootDataActivity run in 317ms under project opening modal progress 
+2019-03-28 20:46:16,088 [  74095]   INFO - tartup.impl.StartupManagerImpl - DatabaseConfigFileWatcher run in 161ms under project opening modal progress 
+2019-03-28 20:46:16,200 [  74207]   INFO - tartup.impl.StartupManagerImpl - MvcProjectWithoutLibraryNotificator run in 112ms under project opening modal progress 
+2019-03-28 20:46:16,569 [  74576]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-03-28 20:46:16,894 [  74901]   INFO - tartup.impl.StartupManagerImpl - JsbtStartupActivity run in 571ms under project opening modal progress 
+2019-03-28 20:46:17,029 [  75036]   INFO - tartup.impl.StartupManagerImpl - GrailsStartupActivity run in 126ms under project opening modal progress 
+2019-03-28 20:46:17,095 [  75102]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 18390ms; general responsiveness: 3/17 sluggish; EDT responsiveness: 3/17 sluggish, 3/17 very slow 
+2019-03-28 20:46:17,183 [  75190]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2019-03-28 20:46:18,127 [  76134]   INFO - j.ide.ui.OptionsTopHitProvider - 1024 ms spent on EDT to cache options in application 
+2019-03-28 20:46:18,398 [  76405]   INFO - tartup.impl.StartupManagerImpl - D:/DevOps/IDE/IdeaProjects/demo/.idea case-sensitivity: expected=false actual=false 
+2019-03-28 20:46:18,481 [  76488]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-03-28 20:46:18,789 [  76796]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 32267 ms 
+2019-03-28 20:46:19,185 [  77192]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 40651 ms 
+2019-03-28 20:46:28,711 [  86718]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings. 
+2019-03-28 20:46:28,712 [  86719]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/IDE/ideaIU-2018.1.4.win/plugins/maven/lib/maven36-server-impl.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:46:28,712 [  86719]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:46:28,713 [  86720]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/D:/DevOps/Build/maven/apache-maven-3.6.0/lib/maven-slf4j-provider-3.6.0.jar!/org/slf4j/impl/StaticLoggerBinder.class] 
+2019-03-28 20:46:28,713 [  86720]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:46:28,713 [  86720]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation. 
+2019-03-28 20:46:28,715 [  86722]   WARN - ution.rmi.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory] 
+2019-03-28 20:46:28,716 [  86723]   WARN - ution.rmi.RemoteProcessSupport -  
+2019-03-28 20:46:35,036 [  93043]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 34661ms; general responsiveness: 4/33 sluggish, 1/33 very slow; EDT responsiveness: 5/33 sluggish, 4/33 very slow 
+2019-03-28 20:46:35,292 [  93299]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 24677 files to update 
+2019-03-28 20:47:03,583 [ 121590]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 44632 ms 
+2019-03-28 20:47:12,348 [ 130355]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 8746 ms 
+2019-03-28 20:47:12,389 [ 130396]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 31 ms 
+2019-03-28 20:47:48,369 [ 166376]   INFO - .openapi.application.Preloader - com.ansorgit.plugins.bash.editor.codecompletion.PreloadPathCompletionActivity took 35966 ms 
+2019-03-28 20:48:04,542 [ 182549]   WARN - gin.utils.ProfilingUtilAdapter - YourKit controller initialization failed : To profile application, you should run it with the profiler agent 
+2019-03-28 20:48:08,936 [ 186943]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 3/28/2019 8:29 PM) 
+2019-03-28 20:48:09,649 [ 187656]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2019-03-28 20:48:11,441 [ 189448]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\gson\.android\repositories.cfg could not be loaded. 
+2019-03-28 20:48:11,593 [ 189600]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2019-03-28 20:48:11,599 [ 189606]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2019-03-28 20:48:11,603 [ 189610]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2019-03-28 20:48:11,603 [ 189610]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2019-03-28 20:48:11,607 [ 189614]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2019-03-28 20:48:11,610 [ 189617]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2019-03-28 20:48:11,621 [ 189628]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2019-03-28 20:48:11,622 [ 189629]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2019-03-28 20:48:11,624 [ 189631]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2019-03-28 20:48:11,589 [ 189596]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2019-03-28 20:48:15,966 [ 193973]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 100674ms; general responsiveness: 4/99 sluggish; EDT responsiveness: 2/99 sluggish 
+2019-03-28 20:48:16,355 [ 194362]   INFO - j.ide.ui.OptionsTopHitProvider - 365 ms spent to cache options in project 
+2019-03-28 20:48:16,355 [ 194362]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-03-28 20:48:16,355 [ 194362]   INFO - tartup.impl.StartupManagerImpl - Activity run in 366ms on UI thread 
+2019-03-28 20:48:16,470 [ 194477]   INFO - cloudConfig.CloudConfigManager - === StatusBar ignored === 
+2019-03-28 20:48:17,494 [ 195501]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 3/28/2019 8:29 PM) 
+2019-03-28 20:48:18,033 [ 196040]   INFO - tartup.impl.StartupManagerImpl - CreateKotlinSdkActivity run in 1493ms on UI thread 
+2019-03-28 20:48:18,748 [ 196755]   INFO - j.ide.ui.OptionsTopHitProvider - 470 ms spent on EDT to cache options in project 
+2019-03-28 20:48:32,465 [ 210472]   INFO - rationStore.ComponentStoreImpl - Saving appDebuggerSettings took 78 ms, FileTypeManager took 17 ms, GrepConsole took 12 ms, HgGlobalSettings took 61 ms, InspectionProfileManager took 39 ms, MavenRunHelper took 11 ms, Osmorc took 13 ms, ProjectJdkTable took 46 ms, XDebuggerSettings took 27 ms 
+2019-03-28 20:48:36,249 [ 214256]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoGrepConsole took 12 ms, JavaProjectCodeInsightSettings took 47 ms, Kotlin2JvmCompilerArguments took 11 ms, KotlinCommonCompilerArguments took 11 ms, MavenProjectsManager took 587 ms, RunManager took 38 ms, libraryTable took 19 ms 
+2019-03-28 20:48:36,563 [ 214570]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 5387 ms 
+2019-03-28 20:49:09,241 [ 247248]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 12 ms, GrepConsole took 21 ms 
+2019-03-28 20:49:09,495 [ 247502]   INFO - rationStore.ComponentStoreImpl - Saving Project 'D:\DevOps\IDE\IdeaProjects\demo' demoMavenProjectNavigator took 13 ms, ProjectView took 14 ms, ReadonlyStatusHandler took 17 ms, TaskManager took 20 ms, ToolWindowManager took 11 ms, XDebuggerManager took 30 ms, libraryTable took 12 ms 
+2019-03-28 20:49:10,241 [ 248248]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 45197/Maven3ServerImpld3f8d84b 
+2019-03-28 20:49:11,341 [ 249348]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-03-28 20:49:11,342 [ 249349]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-03-28 20:49:11,343 [ 249350]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-03-28 20:49:11,486 [ 249493]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-03-28 20:49:11,493 [ 249500]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-03-28 20:49:11,605 [ 249612]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 1 auto-detected files
+Elapsed time on auto-detect: 56 ms 
+2019-03-28 20:49:12,111 [ 250118]   WARN - pl.local.NativeFileWatcherImpl - File watcher is still alive. Doing a force quit. 
+2019-03-28 20:49:12,117 [ 250124]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-03-28 20:49:12,133 [ 250140]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-03-28 20:49:12,186 [ 250193]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-03-28 20:49:12,192 [ 250199]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
