@@ -209,7 +209,7 @@ E:.
 │  ├─GM(Game Master)
 │  ├─StartCraft II
 │  ├─War3
-│  └─YGOPro2完整版
+│  └─YGOPro2
 └─Res
     ├─Gson 
     │  ├─JsonGoow3cgle
@@ -226,8 +226,6 @@ E:.
         │  ├─Game
         │  ├─sysmir
         │  └─VirtualDesktop
-        ├─ch
-        │  └─易经的智慧
         ├─comp
         │  ├─DevOps
         │  │  ├─Dev
