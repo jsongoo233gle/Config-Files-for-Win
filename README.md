@@ -226,22 +226,22 @@ E:.
         │  ├─Game
         │  ├─sysmir
         │  └─VirtualDesktop
-        ├─comp
+        ├─Comp
         │  ├─DevOps
         │  │  ├─Dev
         │  │  │  └─Lang
         │  │  ├─o
         │  │  ├─Ops
-        │  │  └─os
+        │  │  └─OS
         │  │      ├─linux
         │  │      ├─pe
         │  │      └─win
         │  └─Lib
         │      └─Doc
-        ├─github
-        ├─img
+        ├─Github
+        ├─Img
         │  └─wallpaper
-        ├─phone.bak
+        ├─Phone.bak
         │  ├─data
         │  ├─img
         │  ├─music
@@ -268,6 +268,6 @@ E:.
         │  │  └─Soft-- CLI&TUI vs GUI
         │  │      └─tmux
         │  └─Other
-        └─video
+        └─Video
 ```
 </details>
