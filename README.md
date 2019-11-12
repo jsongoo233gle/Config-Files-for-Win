@@ -182,7 +182,7 @@ D:.
 │  ├─IDE
 │  ├─Lang
 │  │  ├─Java
-│  │  ├─Node.js
+│  │  ├─NodeJS
 │  │  └─Python
 │  ├─Other
 │  ├─Server
