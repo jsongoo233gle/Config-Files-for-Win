@@ -4,7 +4,7 @@
 - [Config Files](#config-files "Config Files")
   > - [Git](#git)
   > - [Maven](#maven)
-  > - [Node.js](#nodejs)
+  > - [NodeJS](#nodejs)
   > - [GVim](#gvim)
   > - [Emacs](#emacs)
   > - [IntelliJIdea](#intellijidea)
@@ -29,7 +29,7 @@
   ```
   .m2/
   ```
-> - ### [Node.js](#目录)
+> - ### [NodeJS](#目录)
   ```
   .npmrc
   ```
